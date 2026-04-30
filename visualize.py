@@ -2,7 +2,7 @@
 Visualizations for the VC ecosystem graph.
 
 Outputs:
-  ecosystem.html       — interactive company graph (pyvis, open in browser)
+  index.html       — interactive company graph (pyvis, open in browser)
   coinvestment.html    — interactive VC co-investment graph (pyvis)
   company_graph.gexf   — full graph export for Gephi
   coinvestment_heatmap.png — VC co-investment heatmap (matplotlib)
@@ -821,10 +821,10 @@ function applyGroupLayout(mode) {{
 </body>
 </html>"""
 
-    out = os.path.join(SCRIPT_DIR, "ecosystem.html")
+    out = os.path.join(SCRIPT_DIR, "index.html")
     with open(out, "w") as f:
         f.write(html)
-    print(f"  ecosystem.html written ({G.number_of_nodes()} nodes, {G.number_of_edges()} edges)")
+    print(f"  index.html written ({G.number_of_nodes()} nodes, {G.number_of_edges()} edges)")
 
 
 # ── 2. VC co-investment graph ─────────────────────────────────────────────────
@@ -1095,7 +1095,7 @@ def main():
     make_coinvestment_heatmap(G)
     make_degree_distribution(G)
     make_sector_vc_table(G)
-    print("\nDone. Open ecosystem.html, coinvestment.html, and sector_vc_table.html in your browser.")
+    print("\nDone. Open index.html, coinvestment.html, and sector_vc_table.html in your browser.")
 
 
 if __name__ == "__main__":
