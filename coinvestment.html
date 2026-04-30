@@ -1,0 +1,163 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 700px;
+                 background-color: #1a1a2e;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#ff7f0e", "font": {"color": "white"}, "id": "lightspeed", "label": "lightspeed", "shape": "dot", "size": 49.152542372881356, "title": "\u003cb\u003elightspeed\u003c/b\u003e\u003cbr\u003ePortfolio: 129 companies"}, {"color": "#1f77b4", "font": {"color": "white"}, "id": "a16z", "label": "a16z", "shape": "dot", "size": 60.0, "title": "\u003cb\u003ea16z\u003c/b\u003e\u003cbr\u003ePortfolio: 177 companies"}, {"color": "#e377c2", "font": {"color": "white"}, "id": "lux", "label": "lux", "shape": "dot", "size": 32.20338983050847, "title": "\u003cb\u003elux\u003c/b\u003e\u003cbr\u003ePortfolio: 54 companies"}, {"color": "#9467bd", "font": {"color": "white"}, "id": "accel", "label": "accel", "shape": "dot", "size": 45.76271186440678, "title": "\u003cb\u003eaccel\u003c/b\u003e\u003cbr\u003ePortfolio: 114 companies"}, {"color": "#7f7f7f", "font": {"color": "white"}, "id": "8vc", "label": "8vc", "shape": "dot", "size": 31.9774011299435, "title": "\u003cb\u003e8vc\u003c/b\u003e\u003cbr\u003ePortfolio: 53 companies"}, {"color": "#d62728", "font": {"color": "white"}, "id": "sequoia", "label": "sequoia", "shape": "dot", "size": 48.70056497175141, "title": "\u003cb\u003esequoia\u003c/b\u003e\u003cbr\u003ePortfolio: 127 companies"}, {"color": "#2ca02c", "font": {"color": "white"}, "id": "gc", "label": "gc", "shape": "dot", "size": 47.34463276836158, "title": "\u003cb\u003egc\u003c/b\u003e\u003cbr\u003ePortfolio: 121 companies"}, {"color": "#8c564b", "font": {"color": "white"}, "id": "ff", "label": "ff", "shape": "dot", "size": 34.91525423728814, "title": "\u003cb\u003eff\u003c/b\u003e\u003cbr\u003ePortfolio: 66 companies"}, {"color": "#bcbd22", "font": {"color": "white"}, "id": "kp", "label": "kp", "shape": "dot", "size": 31.751412429378533, "title": "\u003cb\u003ekp\u003c/b\u003e\u003cbr\u003ePortfolio: 52 companies"}]);
+                  edges = new vis.DataSet([{"color": "#aaaaaa", "from": "lightspeed", "title": "25 shared: Abridge, Alchemy, Anduril Industries, Arena, Base Power, Castelion, ClickUp, Databricks, ElevenLabs, Inferact\u2026", "to": "a16z", "width": 7.428571428571429}, {"color": "#aaaaaa", "from": "lightspeed", "title": "9 shared: Anduril Industries, Databricks, FTX, Fiddler Labs, Nominal, Ramp, Resilience, Unconventional AI, Xaira Therapeutics", "to": "lux", "width": 3.3142857142857145}, {"color": "#aaaaaa", "from": "lightspeed", "title": "12 shared: 1Password, Anthropic, Armadin Security, Axonius, Cyera, FalconX, Periodic Labs, Personio, RedotPay, Supabase\u2026", "to": "accel", "width": 4.085714285714285}, {"color": "#aaaaaa", "from": "lightspeed", "title": "6 shared: Anduril Industries, Armadin Security, Materialize, Ramp, Resilience, Saronic", "to": "8vc", "width": 2.5428571428571427}, {"color": "#aaaaaa", "from": "lightspeed", "title": "29 shared: Anthropic, Cyera, ElevenLabs, FTX, Faire, Fireworks AI, Glean, Grafana Labs, Inferact, Inworld AI\u2026", "to": "sequoia", "width": 8.457142857142857}, {"color": "#aaaaaa", "from": "lightspeed", "title": "19 shared: Anduril Industries, Anthropic, Beacon Software, Cartesia, Castelion, Glean, Neko Health, Nexus, Nominal, Pacific Fusion\u2026", "to": "gc", "width": 5.885714285714286}, {"color": "#aaaaaa", "from": "lightspeed", "title": "12 shared: Anduril Industries, Anthropic, Arena, Faire, Inworld AI, Neuralink, Nominal, Ramp, Resilience, Rippling\u2026", "to": "ff", "width": 4.085714285714285}, {"color": "#aaaaaa", "from": "lightspeed", "title": "11 shared: Arena, Armadin Security, Cartesia, Databricks, Glean, Inworld AI, Materialize, Nexthop AI, Rain, Rippling\u2026", "to": "kp", "width": 3.8285714285714287}, {"color": "#aaaaaa", "from": "a16z", "title": "11 shared: 11x AI, Anchorage Digital, Anduril Industries, Apex, Applied Intuition, Black Forest Labs, Databricks, Dyno Therapeutics, Hadrian, Thatch\u2026", "to": "lux", "width": 3.8285714285714287}, {"color": "#aaaaaa", "from": "a16z", "title": "12 shared: Anysphere, Atlas, Decagon, Gamma, Graphite, Mind Robotics, Nansen, Periodic Labs, Rasa, RingCentral Events\u2026", "to": "accel", "width": 4.085714285714285}, {"color": "#aaaaaa", "from": "a16z", "title": "3 shared: Anduril Industries, Apex, Saronic", "to": "8vc", "width": 1.7714285714285714}, {"color": "#aaaaaa", "from": "a16z", "title": "35 shared: CoinSwitch, Cresta, DeSo Foundation, ElevenLabs, Fal, Figma, Formation Bio, Forte, Harvey, Hex Technologies\u2026", "to": "sequoia", "width": 10.0}, {"color": "#aaaaaa", "from": "a16z", "title": "18 shared: Anduril Industries, Applied Intuition, Black Forest Labs, Castelion, Convex, Current, Deel, Devoted Health, Figma, Fivetran\u2026", "to": "gc", "width": 5.628571428571429}, {"color": "#aaaaaa", "from": "a16z", "title": "11 shared: Anduril Industries, Arena, Dynamic Labs, Flexport, Flock Safety, Hadrian, Kavak, OpenAI, Radiant, SpaceX\u2026", "to": "ff", "width": 3.8285714285714287}, {"color": "#aaaaaa", "from": "a16z", "title": "16 shared: Ambience Healthcare, Applied Intuition, Arena, Databricks, Fal, Figma, Flock Safety, Harvey, Hippocratic AI, Nexthop AI\u2026", "to": "kp", "width": 5.114285714285714}, {"color": "#aaaaaa", "from": "lux", "title": "4 shared: Cambridge Aerospace, Ironclad, Primer, Tines", "to": "accel", "width": 2.0285714285714285}, {"color": "#aaaaaa", "from": "lux", "title": "6 shared: Anduril Industries, Apex, Cognition, Mendra, Ramp, Resilience", "to": "8vc", "width": 2.5428571428571427}, {"color": "#aaaaaa", "from": "lux", "title": "12 shared: Applied Compute, FTX, Hugging Face, Ironclad, Juicebox, Kela Technologies, LangChain, Nominal, Physical Intelligence, Ramp\u2026", "to": "sequoia", "width": 4.085714285714285}, {"color": "#aaaaaa", "from": "lux", "title": "13 shared: Anduril Industries, Applied Intuition, Black Forest Labs, Cloaked, Eikon Therapeutics, Nominal, Paradigm, Physical Intelligence, Ramp, Resilience\u2026", "to": "gc", "width": 4.342857142857143}, {"color": "#aaaaaa", "from": "lux", "title": "10 shared: Anduril Industries, Cognition, Hadrian, Impulse Space, Nominal, Primer, Ramp, Resilience, Tactic, Varda", "to": "ff", "width": 3.5714285714285716}, {"color": "#aaaaaa", "from": "lux", "title": "4 shared: Applied Compute, Applied Intuition, Databricks, Together AI", "to": "kp", "width": 2.0285714285714285}, {"color": "#aaaaaa", "from": "accel", "title": "4 shared: Airbyte, Armadin Security, Chaos, Vercel", "to": "8vc", "width": 2.0285714285714285}, {"color": "#aaaaaa", "from": "accel", "title": "13 shared: Animoca Brands, Anthropic, Beam, Cyera, Ironclad, Linear, Oasis Security, Remote, Tavus, Tessian\u2026", "to": "sequoia", "width": 4.342857142857143}, {"color": "#aaaaaa", "from": "accel", "title": "12 shared: Anthropic, CoinTracker, Kernel, Legora, Melio, Remote, RingCentral Events, Spinny, Tandem, Uni Cards\u2026", "to": "gc", "width": 4.085714285714285}, {"color": "#aaaaaa", "from": "accel", "title": "5 shared: Anthropic, Primer, Scale, Speak, Trade Republic", "to": "ff", "width": 2.2857142857142856}, {"color": "#aaaaaa", "from": "accel", "title": "3 shared: Armadin Security, Beam, Synthesia", "to": "kp", "width": 1.7714285714285714}, {"color": "#aaaaaa", "from": "8vc", "title": "4 shared: AMP, Dagster, Ramp, The Boring Company", "to": "sequoia", "width": 2.0285714285714285}, {"color": "#aaaaaa", "from": "8vc", "title": "12 shared: Anduril Industries, Cityblock Health, Commure, Elemy, Harbor Health, Kite AI, Loop, Pulley, Ramp, Resilience\u2026", "to": "gc", "width": 4.085714285714285}, {"color": "#aaaaaa", "from": "8vc", "title": "11 shared: Alloy Therapeutics, Anduril Industries, Cognition, Elemy, Loop, Pulley, Quince, Ramp, Resilience, Seed Health\u2026", "to": "ff", "width": 3.8285714285714287}, {"color": "#aaaaaa", "from": "8vc", "title": "3 shared: Armadin Security, Materialize, Saronic", "to": "kp", "width": 1.7714285714285714}, {"color": "#aaaaaa", "from": "sequoia", "title": "14 shared: Anthropic, Clay, Figma, Glean, Kalshi, Magic, Nominal, Physical Intelligence, Ramp, Remote\u2026", "to": "gc", "width": 4.6}, {"color": "#aaaaaa", "from": "sequoia", "title": "14 shared: Anthropic, CUE Labs, Faire, Inworld AI, Neuralink, Nominal, OpenAI, Ramp, Rippling, SpaceX\u2026", "to": "ff", "width": 4.6}, {"color": "#aaaaaa", "from": "sequoia", "title": "12 shared: Applied Compute, Beam, Fal, Figma, Glean, Harmonic, Harvey, Inworld AI, Koala, OpenEvidence\u2026", "to": "kp", "width": 4.085714285714285}, {"color": "#aaaaaa", "from": "gc", "title": "15 shared: Anduril Industries, Anthropic, Elemy, Kavak, Loop, Neon, Nominal, Polymarket, Pulley, Ramp\u2026", "to": "ff", "width": 4.857142857142858}, {"color": "#aaaaaa", "from": "gc", "title": "10 shared: Applied Intuition, Cartesia, Coda, Figma, Glean, Hippocratic AI, Nova Credit, Saronic, Together AI, Transcarent", "to": "kp", "width": 3.5714285714285716}, {"color": "#aaaaaa", "from": "ff", "title": "6 shared: Arena, Flock Safety, Garner Health, Inworld AI, Modern Health, Rippling", "to": "kp", "width": 2.5428571428571427}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "barnesHut": {
+            "avoidOverlap": 0,
+            "centralGravity": 0.3,
+            "damping": 0.09,
+            "gravitationalConstant": -3000,
+            "springConstant": 0.001,
+            "springLength": 200
+        },
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

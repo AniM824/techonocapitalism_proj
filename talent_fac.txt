@@ -1,0 +1,25 @@
+OpenAI
+Google DeepMind
+Anthropic
+Meta
+NVIDIA
+Tesla
+Apple
+Google
+Amazon
+Microsoft
+Facebook
+Oracle
+Cisco
+Adobe
+PayPal
+Stripe
+Uber
+Airbnb
+Square
+LinkedIn
+Palantir
+Snowflake
+Databricks
+Shopify
+Atlassian

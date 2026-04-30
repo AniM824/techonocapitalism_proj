@@ -1,0 +1,1615 @@
+{
+  "OpenAI": [
+    "Microsoft",
+    "NVIDIA",
+    "Amazon",
+    "Oracle",
+    "Apple",
+    "Shopify",
+    "Snowflake",
+    "Atlassian",
+    "Stripe",
+    "Reddit",
+    "Instacart",
+    "Ambience Healthcare",
+    "Anysphere",
+    "Chai Discovery",
+    "Descript",
+    "Physical Intelligence",
+    "Speak",
+    "Formation Bio",
+    "Uber",
+    "Figma",
+    "Cognition",
+    "OpenRouter",
+    "Harvey",
+    "Statsig",
+    "Neptune Mutual"
+  ],
+  "Anthropic": [
+    "Amazon",
+    "Google",
+    "Microsoft",
+    "Atlassian",
+    "Palantir",
+    "Stripe",
+    "Notion",
+    "Quora",
+    "Jasper Health",
+    "Clara",
+    "Harvey",
+    "Scale",
+    "Snowflake",
+    "Sourcegraph",
+    "Square",
+    "PayPal"
+  ],
+  "Waymo": [
+    "Uber"
+  ],
+  "Databricks": [
+    "Microsoft",
+    "Google",
+    "Fivetran",
+    "dbt Labs",
+    "Hex Technologies",
+    "ThoughtSpot",
+    "Privacera",
+    "Monte Carlo",
+    "RudderStack",
+    "Matillion",
+    "Snowflake",
+    "Fractal",
+    "Block Green"
+  ],
+  "xAI": [
+    "X (formerly Twitter)",
+    "SpaceX",
+    "Tesla",
+    "Neuralink",
+    "Palantir",
+    "Oracle",
+    "NVIDIA",
+    "Microsoft",
+    "Cisco",
+    "Kalshi",
+    "Polymarket",
+    "Vercel"
+  ],
+  "X (formerly Twitter)": [
+    "xAI",
+    "Tesla",
+    "SpaceX",
+    "Neuralink",
+    "Google DeepMind",
+    "Microsoft",
+    "Magic"
+  ],
+  "Stripe": [
+    "Amazon",
+    "Shopify",
+    "Instacart",
+    "Uber",
+    "Atlassian",
+    "Meta",
+    "Google DeepMind",
+    "Apple",
+    "Affirm",
+    "Klarna",
+    "Squarespace",
+    "Flexport",
+    "Substack",
+    "Vercel",
+    "Hugging Face",
+    "ElevenLabs",
+    "Runway",
+    "Snowflake"
+  ],
+  "Anduril Industries": [
+    "OpenAI",
+    "Palantir",
+    "Meta",
+    "Microsoft",
+    "Scale",
+    "Apex",
+    "Impulse",
+    "Saronic",
+    "Valinor Enterprises"
+  ],
+  "Robinhood": [
+    "Chainalysis",
+    "ElevenLabs",
+    "Gopuff",
+    "Instacart",
+    "Kalshi",
+    "Lattice",
+    "Polymarket",
+    "Reddit",
+    "Stripe"
+  ],
+  "Anysphere": [
+    "OpenAI",
+    "Anthropic",
+    "Google DeepMind",
+    "NVIDIA",
+    "xAI",
+    "Graphite",
+    "Resourcely",
+    "Koala",
+    "Figma",
+    "Linear",
+    "Shopify",
+    "Instacart",
+    "Uber",
+    "Adobe",
+    "PayPal",
+    "Stripe",
+    "Glean",
+    "Harvey",
+    "Krea"
+  ],
+  "Altos Labs": [
+    "Resilience"
+  ],
+  "Safe Superintelligence": [
+    "Google",
+    "NVIDIA"
+  ],
+  "Saronic": [
+    "Palantir"
+  ],
+  "Crusoe": [
+    "NVIDIA",
+    "OpenAI",
+    "Oracle",
+    "Microsoft",
+    "Databricks",
+    "Together AI",
+    "Luma AI",
+    "Playground",
+    "Oasis Security"
+  ],
+  "Ramp": [
+    "Microsoft",
+    "Oracle",
+    "Rippling",
+    "Gusto",
+    "Amazon",
+    "Uber",
+    "Snowflake",
+    "Databricks",
+    "Fivetran",
+    "Ironclad",
+    "1Password",
+    "Pulley",
+    "Vanta",
+    "Stripe",
+    "Navan",
+    "Plaid",
+    "Anthropic",
+    "OpenAI",
+    "LinkedIn",
+    "Tactic",
+    "Campfire",
+    "Rillet"
+  ],
+  "Reflection AI": [
+    "NVIDIA"
+  ],
+  "Wonder": [
+    "Google"
+  ],
+  "Thinking Machines Lab": [
+    "NVIDIA",
+    "Cisco",
+    "Google",
+    "Meta",
+    "OpenAI",
+    "Character.ai",
+    "Google DeepMind",
+    "Anthropic",
+    "Physical Intelligence",
+    "Decart",
+    "Cartesia",
+    "Periodic Labs",
+    "Together AI",
+    "Tavus",
+    "Slingshot AI",
+    "Liquid",
+    "World",
+    "Runway",
+    "Safe",
+    "Black Forest Labs",
+    "AI21 Labs",
+    "Perplexity",
+    "Hippocratic AI",
+    "Scale",
+    "Hugging Face",
+    "Cognition",
+    "Sierra"
+  ],
+  "ByteDance": [
+    "Oracle",
+    "NVIDIA",
+    "Equals",
+    "Amazon",
+    "Shopify",
+    "X (formerly Twitter)",
+    "World"
+  ],
+  "FTX": [
+    "Solana",
+    "LayerZero Labs",
+    "Mysten Labs",
+    "Aptos",
+    "Yuga Labs",
+    "Anthropic",
+    "Vosbor",
+    "Merge"
+  ],
+  "Klarna": [
+    "Stripe",
+    "Shopify",
+    "Airbnb",
+    "Uber",
+    "OpenAI",
+    "Google",
+    "Privy"
+  ],
+  "Aurora": [
+    "Uber",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "Wiz": [
+    "Google",
+    "Amazon",
+    "Microsoft",
+    "Oracle",
+    "Plaid",
+    "Cisco",
+    "SentinelOne",
+    "Axonius",
+    "Savvy",
+    "Vulcan"
+  ],
+  "Devoted Health": [
+    "SonderMind",
+    "Apple",
+    "Google",
+    "Stardust"
+  ],
+  "Skild AI": [
+    "NVIDIA",
+    "Amazon"
+  ],
+  "Cyera": [
+    "Microsoft",
+    "Google",
+    "Snowflake",
+    "Wiz",
+    "Databricks",
+    "Tines",
+    "Island",
+    "Cato Networks",
+    "Trail Security",
+    "Veza",
+    "Zafran Security"
+  ],
+  "EQRx": [],
+  "Getir": [
+    "Uber"
+  ],
+  "SpaceX": [
+    "Tesla",
+    "xAI",
+    "Google DeepMind",
+    "Amazon",
+    "Microsoft",
+    "Rocket",
+    "Varda",
+    "Astranis"
+  ],
+  "Kalshi": [
+    "Robinhood",
+    "Phantom",
+    "DriveWealth",
+    "Pyramid Analytics"
+  ],
+  "Kavak": [
+    "Uber",
+    "Spruce"
+  ],
+  "Zepto": [],
+  "Applied Intuition": [
+    "Kodiak Robotics",
+    "OpenAI",
+    "NVIDIA",
+    "Embark Trucks",
+    "Ghost Autonomy"
+  ],
+  "Faire": [
+    "Shopify",
+    "Square",
+    "Trunk"
+  ],
+  "Rippling": [
+    "Clay",
+    "Runway",
+    "Harvey",
+    "Sierra",
+    "Govly"
+  ],
+  "Scale": [
+    "OpenAI",
+    "Meta",
+    "Microsoft",
+    "Google DeepMind",
+    "NVIDIA",
+    "Tesla",
+    "Cohere Technologies",
+    "Anthropic",
+    "Databricks",
+    "Instacart",
+    "Flexport",
+    "Cisco",
+    "PayPal",
+    "Stripe",
+    "LinkedIn",
+    "xAI",
+    "Snowflake",
+    "Elementor",
+    "Prelude",
+    "Thyme Care"
+  ],
+  "Lacework": [
+    "Google",
+    "Microsoft",
+    "Snowflake",
+    "Atlassian",
+    "Tines",
+    "Tackle",
+    "Securiti",
+    "Nucleus"
+  ],
+  "Deel": [
+    "Microsoft",
+    "Mercury",
+    "Shopify",
+    "Notion",
+    "ChartHop",
+    "Atlantic Money",
+    "Magic Circle Studio"
+  ],
+  "World Labs": [
+    "NVIDIA",
+    "Cisco",
+    "Adobe",
+    "Databricks"
+  ],
+  "Harvey": [
+    "OpenAI",
+    "Lume",
+    "Microsoft"
+  ],
+  "Base Power": [],
+  "Citadel Securities": [
+    "Paradigm",
+    "Google",
+    "Microsoft",
+    "charles",
+    "Amazon"
+  ],
+  "Neuralink": [
+    "Tesla",
+    "SpaceX",
+    "Google"
+  ],
+  "Physical Intelligence": [
+    "Google",
+    "NVIDIA",
+    "OpenAI"
+  ],
+  "Luma AI": [
+    "Cisco",
+    "NVIDIA",
+    "xAI",
+    "Adobe",
+    "Wonder",
+    "ElevenLabs"
+  ],
+  "Quince": [
+    "Basis",
+    "CookUnity",
+    "Misfits Market",
+    "Ritual",
+    "Oura",
+    "Heyday",
+    "Seed Health",
+    "EverlyWell",
+    "SpotOn",
+    "1Password",
+    "Lemonade",
+    "Rakuten Medical"
+  ],
+  "Eikon Therapeutics": [],
+  "Chaos": [
+    "NVIDIA",
+    "Saronic",
+    "ICON",
+    "Microsoft",
+    "Google DeepMind",
+    "Scale",
+    "Amazon"
+  ],
+  "Superhuman (formerly Grammarly)": [
+    "Coda",
+    "Parallel Fluidics",
+    "Napkin AI",
+    "Gamma",
+    "Google",
+    "Microsoft",
+    "Atlassian",
+    "Rows",
+    "Linear"
+  ],
+  "ClickHouse": [
+    "Google",
+    "Microsoft",
+    "Langfuse",
+    "Supabase",
+    "Airbyte",
+    "Redpanda Data",
+    "Temporal Technologies",
+    "Snowflake",
+    "Databricks",
+    "dbt Labs",
+    "Grafana Labs",
+    "Cisco",
+    "Tesla",
+    "ByteDance",
+    "Uber",
+    "Instacart",
+    "Meta",
+    "Anthropic",
+    "Klaviyo"
+  ],
+  "Xaira Therapeutics": [
+    "Oracle",
+    "NVIDIA"
+  ],
+  "Bird": [],
+  "RingCentral Events": [
+    "Miro",
+    "Google"
+  ],
+  "Whatnot": [
+    "Shopify",
+    "PayPal",
+    "Stripe",
+    "Klarna",
+    "Affirm",
+    "Google",
+    "Apple"
+  ],
+  "Flexport": [
+    "Shopify",
+    "Amazon",
+    "Veho"
+  ],
+  "Resilience": [
+    "Amazon"
+  ],
+  "KoBold Metals": [
+    "Microsoft"
+  ],
+  "Forte": [
+    "Microsoft",
+    "Animoca Brands",
+    "Overwolf",
+    "Cosmos",
+    "Polygon",
+    "Solana"
+  ],
+  "Transcarent": [
+    "Maven",
+    "Mount"
+  ],
+  "Trade Republic": [],
+  "Pacific Fusion": [
+    "Citadel Securities"
+  ],
+  "Cognition": [
+    "Microsoft",
+    "Snyk",
+    "Cisco",
+    "Patronus AI"
+  ],
+  "Fireblocks": [
+    "Bridge",
+    "Wintermute",
+    "Dynamic Labs",
+    "Lido",
+    "LayerZero Labs",
+    "Avalanche Energy"
+  ],
+  "Replit": [
+    "Google",
+    "Microsoft",
+    "Anthropic",
+    "OpenAI",
+    "Stripe",
+    "Databricks",
+    "Snowflake",
+    "Hugging Face",
+    "LangChain",
+    "Notion",
+    "Resend",
+    "Linear",
+    "OpenRouter",
+    "xAI"
+  ],
+  "Vercel": [
+    "Supabase",
+    "Neon",
+    "Upstash",
+    "Stripe",
+    "Shopify",
+    "Clerk",
+    "PlanetScale",
+    "Replicate",
+    "ElevenLabs",
+    "Perplexity",
+    "Together AI",
+    "Sentry",
+    "Checkly",
+    "Modal Labs",
+    "Pinecone",
+    "Fal",
+    "Anyscale",
+    "PayPal",
+    "Ramp",
+    "OpenAI",
+    "Anthropic"
+  ],
+  "Shield AI": [
+    "Anduril Industries",
+    "Amazon"
+  ],
+  "Freenome": [
+    "NVIDIA"
+  ],
+  "Heyday": [
+    "Shopify",
+    "Klaviyo",
+    "Meta",
+    "Google",
+    "X (formerly Twitter)",
+    "Ramp"
+  ],
+  "Rappi": [
+    "Amazon",
+    "Frubana",
+    "Muni Tienda",
+    "Sumer",
+    "Yuno"
+  ],
+  "Island": [
+    "Cisco"
+  ],
+  "Tempo": [
+    "Atlassian",
+    "Microsoft",
+    "Google",
+    "Oracle",
+    "Anthropic",
+    "OpenAI",
+    "Stripe",
+    "Supabase",
+    "Agora",
+    "Alchemy",
+    "Allium",
+    "Brale",
+    "Bridge",
+    "Chainalysis",
+    "Crossmint",
+    "Farcaster",
+    "Fireblocks",
+    "LayerZero Labs",
+    "Phantom",
+    "Privy",
+    "Sardine",
+    "Tenderly",
+    "Turnkey",
+    "Yellow Card"
+  ],
+  "Legora": [
+    "Microsoft",
+    "Bird"
+  ],
+  "ElevenLabs": [
+    "NVIDIA",
+    "Perplexity",
+    "Synthesia",
+    "EliseAI",
+    "Parloa",
+    "Inworld AI",
+    "Meta",
+    "Cisco",
+    "Lovable",
+    "Bolna",
+    "Composio",
+    "Assort Health"
+  ],
+  "Glean": [
+    "Snowflake",
+    "Google",
+    "Microsoft",
+    "Atlassian",
+    "Notion",
+    "Databricks",
+    "Coda",
+    "Miro"
+  ],
+  "UiPath": [
+    "Amazon",
+    "Google",
+    "Microsoft",
+    "NVIDIA",
+    "OpenAI",
+    "Snowflake",
+    "airSlate",
+    "Adobe",
+    "Uber"
+  ],
+  "OpenEvidence": [
+    "Microsoft",
+    "Tandem",
+    "Mount",
+    "NVIDIA",
+    "Google"
+  ],
+  "Grafana Labs": [
+    "Amazon",
+    "Google",
+    "Microsoft",
+    "Cisco",
+    "Isovalent",
+    "NVIDIA",
+    "Anthropic",
+    "Snyk",
+    "ClickHouse"
+  ],
+  "SpotOn": [
+    "Google DeepMind",
+    "Shopify",
+    "Gusto"
+  ],
+  "1Password": [
+    "Rippling",
+    "Microsoft",
+    "OpenAI",
+    "Anthropic",
+    "Vercel",
+    "Stripe",
+    "Hugging Face",
+    "Tines",
+    "Oracle",
+    "StrongDM",
+    "Twingate",
+    "Axonius"
+  ],
+  "Abridge": [
+    "NVIDIA"
+  ],
+  "Dingdong Maicai": [
+    "World"
+  ],
+  "Sorare": [
+    "Ramp",
+    "Plan A"
+  ],
+  "The Boring Company": [
+    "Tesla",
+    "SpaceX"
+  ],
+  "Temporal Technologies": [
+    "Stripe",
+    "NVIDIA",
+    "Uber",
+    "Checkr",
+    "Retool",
+    "Replit",
+    "Attentive",
+    "OpenAI",
+    "Abridge"
+  ],
+  "Cross River Bank": [
+    "Affirm",
+    "Stripe",
+    "Plaid",
+    "Sardine",
+    "Fireblocks",
+    "Rocket",
+    "Current"
+  ],
+  "Nexthop AI": [],
+  "Rapyd": [
+    "Stripe",
+    "Belvo",
+    "Rappi",
+    "Uber",
+    "Meta",
+    "Shopify"
+  ],
+  "Sila": [
+    "Alloy Therapeutics",
+    "Chainalysis",
+    "Column",
+    "Plaid"
+  ],
+  "Melio": [
+    "Shopify",
+    "Gusto",
+    "Amazon"
+  ],
+  "Nuvemshop": [
+    "Amazon",
+    "PayPal",
+    "Facebook",
+    "Google",
+    "Shopify"
+  ],
+  "Eruditus Executive Education": [
+    "Microsoft"
+  ],
+  "Flock Safety": [
+    "Mark43",
+    "Aerodome",
+    "Verkada"
+  ],
+  "Dapper Labs": [
+    "Google",
+    "Animoca Brands"
+  ],
+  "Fivetran": [
+    "Snowflake",
+    "Databricks",
+    "Google",
+    "Microsoft",
+    "dbt Labs",
+    "OpenAI",
+    "ClickHouse",
+    "Shopify",
+    "Stripe",
+    "Klaviyo",
+    "ThoughtSpot",
+    "Convex",
+    "MotherDuck",
+    "SingleStore",
+    "Materialize"
+  ],
+  "Zepz": [
+    "Fireblocks",
+    "Bridge",
+    "Pomelo Care",
+    "Solana"
+  ],
+  "Lila Sciences": [
+    "NVIDIA",
+    "Flagship"
+  ],
+  "Socure": [
+    "Robinhood",
+    "Gusto",
+    "Public",
+    "Checkr",
+    "Nova Credit",
+    "Effectiv"
+  ],
+  "ArsenalBio": [
+    "Primer"
+  ],
+  "Noom": [
+    "Mount",
+    "Collective",
+    "Meta"
+  ],
+  "Together AI": [
+    "ElevenLabs",
+    "Hedra",
+    "Cartesia",
+    "Pika",
+    "Decagon",
+    "Meta",
+    "NVIDIA",
+    "Crusoe",
+    "LangChain",
+    "Vercel",
+    "Composio"
+  ],
+  "Lovable": [
+    "Supabase",
+    "OpenAI",
+    "Stripe",
+    "Vercel",
+    "Databricks",
+    "Shopify",
+    "Clerk",
+    "Resend",
+    "Figma",
+    "Linear",
+    "ElevenLabs",
+    "Snowflake",
+    "Notion",
+    "Replicate",
+    "Stability AI",
+    "xAI"
+  ],
+  "Impulse Space": [
+    "Anduril Industries",
+    "Relativity Space"
+  ],
+  "Mind Robotics": [
+    "Eclipse"
+  ],
+  "Remote": [
+    "Gusto",
+    "Personio",
+    "Zelt",
+    "Vanta",
+    "Blackbird",
+    "Modern Health",
+    "G2",
+    "Stripe"
+  ],
+  "Mercor": [
+    "OpenAI",
+    "Anthropic",
+    "Meta",
+    "Google DeepMind",
+    "Amazon",
+    "Scale",
+    "Applied Compute",
+    "Google",
+    "Gusto",
+    "Stripe"
+  ],
+  "Alchemy": [
+    "OpenSea",
+    "Dapper Labs",
+    "Polygon",
+    "Optimism",
+    "Solana",
+    "Stripe",
+    "Adobe",
+    "Shopify",
+    "Sandbox VR",
+    "Gnosis",
+    "Polymarket"
+  ],
+  "Unconventional AI": [
+    "Future",
+    "Databricks",
+    "Playground"
+  ],
+  "Yuga Labs": [
+    "Animoca Brands",
+    "OpenSea",
+    "Amazon",
+    "Improbable"
+  ],
+  "Castelion": [],
+  "Hadrian": [
+    "Anduril Industries",
+    "Palantir",
+    "Dirac",
+    "Atomic Industries",
+    "Regent",
+    "Impulse",
+    "SpaceX",
+    "Relativity Space",
+    "Varda"
+  ],
+  "Misfits Market": [
+    "The Rounds",
+    "Gopuff",
+    "Spot"
+  ],
+  "Rain": [],
+  "Black Forest Labs": [
+    "Adobe",
+    "Meta",
+    "Microsoft",
+    "xAI",
+    "NVIDIA",
+    "Replicate"
+  ],
+  "Mercury": [
+    "Stripe",
+    "Gusto",
+    "Rippling",
+    "Ramp",
+    "Google",
+    "Notion",
+    "Deel",
+    "Linear",
+    "Plaid",
+    "Pilot",
+    "Column",
+    "OpenAI",
+    "Anthropic",
+    "ElevenLabs",
+    "Phantom",
+    "LangChain",
+    "Fireworks AI"
+  ],
+  "Sonar": [
+    "Microsoft",
+    "Google",
+    "Atlassian"
+  ],
+  "Cloaked": [
+    "Pinecone"
+  ],
+  "FTX US": [
+    "Reddit",
+    "Chainalysis",
+    "Stripe",
+    "Plaid",
+    "Aptos",
+    "LayerZero Labs",
+    "Yuga Labs",
+    "NEAR"
+  ],
+  "ClickUp": [
+    "Google",
+    "Figma",
+    "Miro",
+    "LOOM",
+    "Microsoft",
+    "Front",
+    "Notion"
+  ],
+  "Insitro": [
+    "Amazon"
+  ],
+  "Miro": [
+    "Atlassian",
+    "Microsoft",
+    "Google",
+    "Notion",
+    "Productiv",
+    "Adobe",
+    "Figma",
+    "ClickUp",
+    "Reforge"
+  ],
+  "Suno": [
+    "Amazon",
+    "Meta",
+    "Microsoft",
+    "Google DeepMind",
+    "OpenAI",
+    "LangChain",
+    "Vercel"
+  ],
+  "Hippocratic AI": [
+    "Evernow",
+    "HarmonyCares",
+    "NVIDIA",
+    "SonderMind"
+  ],
+  "Teya": [],
+  "K2 Space": [
+    "SpaceX",
+    "Rally"
+  ],
+  "Chronosphere, Inc. A Palo Alto Networks": [
+    "Cortex",
+    "Google",
+    "Checkly",
+    "Polar",
+    "Rootly",
+    "Amazon",
+    "Microsoft",
+    "Vercel"
+  ],
+  "Cellares": [
+    "Kite AI"
+  ],
+  "Cityblock Health": [
+    "Meridian"
+  ],
+  "Function Health": [
+    "Thrive Global",
+    "Thatch",
+    "Oura",
+    "Apple",
+    "Microsoft"
+  ],
+  "Bedrock Robotics": [
+    "NVIDIA",
+    "Crossbeam",
+    "Eclipse",
+    "Waymo"
+  ],
+  "Modular": [
+    "NVIDIA",
+    "Apple",
+    "Oracle",
+    "Amazon"
+  ],
+  "Adept AI": [
+    "Amazon",
+    "Microsoft",
+    "NVIDIA",
+    "Atlassian",
+    "Figma",
+    "Adobe"
+  ],
+  "Aptos": [
+    "Microsoft",
+    "Google"
+  ],
+  "Mysten Labs": [
+    "Google",
+    "Animoca Brands",
+    "Stardust",
+    "Arrivant",
+    "Talofa",
+    "RedotPay",
+    "ONE Championship"
+  ],
+  "Ricursive Intelligence": [
+    "Google DeepMind",
+    "NVIDIA",
+    "Anthropic",
+    "Apple",
+    "Cadence Solutions"
+  ],
+  "Varda": [
+    "Rocket",
+    "SpaceX"
+  ],
+  "Elemy": [
+    "Sound"
+  ],
+  "Ambience Healthcare": [
+    "Oracle",
+    "OpenAI"
+  ],
+  "Arena": [
+    "Bild",
+    "Cadence Solutions",
+    "Ema",
+    "Microsoft",
+    "Oracle",
+    "CesiumAstro",
+    "Halo Industries"
+  ],
+  "Sky Mavis": [
+    "Google",
+    "Animoca Brands",
+    "Paradigm",
+    "OpenSea",
+    "Nansen",
+    "Katana"
+  ],
+  "Hermeus": [],
+  "Bowery Farming": [
+    "Amazon"
+  ],
+  "Periodic Labs": [
+    "NVIDIA",
+    "OpenAI",
+    "Microsoft"
+  ],
+  "Zapp": [
+    "Apple"
+  ],
+  "Harmonic": [
+    "G2",
+    "Clay",
+    "Mercor",
+    "Perplexity"
+  ],
+  "Sonoma Biotherapeutics": [
+    "Google"
+  ],
+  "Veho": [
+    "Misfits Market",
+    "Flexport",
+    "Shopify"
+  ],
+  "Paradigm": [
+    "Uniswap Labs",
+    "Citadel Securities",
+    "Stripe",
+    "Optimism",
+    "OpenSea",
+    "Chainalysis",
+    "Phantom",
+    "Kalshi",
+    "Magic",
+    "Monad",
+    "Privy",
+    "Farcaster",
+    "Fireblocks",
+    "StarkWare Industries",
+    "dYdX",
+    "Tempo",
+    "Agora",
+    "Amber Bio",
+    "Axiom Trust",
+    "BetDEX",
+    "CoinSwitch",
+    "Fractal"
+  ],
+  "Up&Up": [
+    "Plaid",
+    "Airbnb",
+    "Figma",
+    "Google",
+    "Linear",
+    "Notion",
+    "Amplitude"
+  ],
+  "CoinSwitch": [
+    "Paradigm",
+    "LogX",
+    "Stan",
+    "Crux",
+    "Shield AI"
+  ],
+  "Notion": [
+    "Figma",
+    "Google",
+    "Miro",
+    "LOOM",
+    "Vanta",
+    "Clay",
+    "Superhuman (formerly Grammarly)",
+    "Tines",
+    "Replit",
+    "Sourcegraph"
+  ],
+  "Orbital Therapeutics": [
+    "Beam"
+  ],
+  "Neko Health": [],
+  "Harbor Health": [
+    "Rippl Care",
+    "Alta"
+  ],
+  "Diagonal Therapeutics": [
+    "Atlas"
+  ],
+  "Genesis Molecular AI": [
+    "NVIDIA"
+  ],
+  "Beacon Software": [
+    "Google",
+    "Stripe",
+    "Microsoft",
+    "Shopify",
+    "PayPal",
+    "Sage Care",
+    "Tesla",
+    "Instacart",
+    "Meta",
+    "OpenAI",
+    "Ramp"
+  ],
+  "Idrx": [],
+  "Moonvalley": [],
+  "Awardco": [
+    "Amazon",
+    "Deel",
+    "Microsoft"
+  ],
+  "Triana Biomedicines": [
+    "Atlas"
+  ],
+  "Aleo": [
+    "Google",
+    "Paxos",
+    "Robinhood",
+    "Anchorage Digital"
+  ],
+  "Augment Code": [
+    "Jellyfish",
+    "Garner Health",
+    "Linear",
+    "Notion",
+    "Sentry",
+    "Stripe",
+    "Convex",
+    "Supabase",
+    "Vercel",
+    "Render",
+    "AMP",
+    "Newfront"
+  ],
+  "Seismic Therapeutic": [],
+  "PB Healthcare Services": [],
+  "Mensa Brands": [
+    "Party"
+  ],
+  "Immunai": [
+    "Mount"
+  ],
+  "Tome Biosciences": [],
+  "ICON": [
+    "NEAR"
+  ],
+  "Goodfire": [
+    "Microsoft",
+    "Rakuten Medical",
+    "Anthropic"
+  ],
+  "Lessen": [],
+  "Landis": [
+    "Boom & Bucket"
+  ],
+  "Wave Mobile Money": [
+    "Stripe"
+  ],
+  "AA-I Technologies": [
+    "NVIDIA"
+  ],
+  "DeSo Foundation": [
+    "Pearl Health",
+    "OpenSea",
+    "Solana",
+    "NEAR",
+    "Avalanche Energy",
+    "Polygon",
+    "Civic Roundtable"
+  ],
+  "BrowserStack": [
+    "Microsoft",
+    "Google DeepMind",
+    "Stripe",
+    "Bird"
+  ],
+  "Distyl AI": [
+    "OpenAI",
+    "Palantir"
+  ],
+  "Tripledot Studios": [
+    "Magic"
+  ],
+  "Aera Therapeutics": [],
+  "Armadin Security": [
+    "Google"
+  ],
+  "Endor Labs": [
+    "Microsoft",
+    "OpenAI",
+    "Atlassian",
+    "Wiz",
+    "Nucleus"
+  ],
+  "Braveheart Bio": [],
+  "Nominal": [
+    "Anduril Industries",
+    "Hermeus",
+    "Mach Industries",
+    "Shield AI",
+    "Antares Therapeutics",
+    "Palantir",
+    "Saildrone",
+    "Applied Intuition",
+    "Vercel",
+    "Newfront",
+    "SpaceX",
+    "Tesla",
+    "Starburst",
+    "Microsoft"
+  ],
+  "Standard Nuclear": [
+    "Radiant"
+  ],
+  "Airbyte": [
+    "Snowflake",
+    "Databricks",
+    "Google",
+    "dbt Labs",
+    "Dagster",
+    "Pinecone",
+    "LangChain",
+    "OpenAI",
+    "Cohere Technologies",
+    "Klaviyo",
+    "Unity",
+    "Perplexity",
+    "Snyk",
+    "Sentry",
+    "Vercel",
+    "Tailscale",
+    "Linear"
+  ],
+  "Tul": [],
+  "Protego Biopharma": [
+    "Omega"
+  ],
+  "Flapping Airplanes": [
+    "Google",
+    "Juicebox",
+    "Mercor",
+    "Decart",
+    "Kela Technologies"
+  ],
+  "Vega": [
+    "Meta"
+  ],
+  "Antares Therapeutics": [
+    "Omega",
+    "Atlas"
+  ],
+  "Uniswap Labs": [
+    "Tenderly",
+    "LayerZero Labs",
+    "Fordefi",
+    "PartyDAO"
+  ],
+  "Physics Wallah": [
+    "Microsoft"
+  ],
+  "Enlaza Therapeutics": [],
+  "Zarminali Health": [
+    "Ladder",
+    "Commure"
+  ],
+  "Inferact": [
+    "Meta",
+    "Google DeepMind",
+    "Character.ai",
+    "Roblox",
+    "LinkedIn",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "Character.ai": [
+    "Google",
+    "NVIDIA"
+  ],
+  "Opto Investments": [],
+  "Talon Cyber Security": [
+    "Amazon",
+    "Microsoft",
+    "OpenAI",
+    "Tines",
+    "Atlassian"
+  ],
+  "EvolutionaryScale": [
+    "Amazon",
+    "NVIDIA"
+  ],
+  "General Intuition": [
+    "Palantir",
+    "Stability AI"
+  ],
+  "Higgsfield": [
+    "Stripe",
+    "Anthropic",
+    "ElevenLabs"
+  ],
+  "Resolve.ai": [
+    "Microsoft"
+  ],
+  "Inworld AI": [
+    "NVIDIA",
+    "Microsoft",
+    "Meta"
+  ],
+  "CREATE Medicines": [
+    "Atlas",
+    "Omega"
+  ],
+  "Slingshot AI": [
+    "Nebius",
+    "Replit",
+    "Hugging Face",
+    "Oura",
+    "Noom"
+  ],
+  "OpenFX": [
+    "Yellow Card",
+    "Nubank"
+  ],
+  "Slate Auto": [
+    "Tesla",
+    "Re:Build"
+  ],
+  "Augment": [
+    "Jellyfish",
+    "Anthropic",
+    "Google",
+    "Sentry",
+    "Stripe",
+    "Linear",
+    "Notion",
+    "Shopify",
+    "Lincode"
+  ],
+  "Voltron Data": [
+    "NVIDIA",
+    "Snowflake",
+    "Databricks",
+    "Meta"
+  ],
+  "Substrate": [
+    "Mythical Games",
+    "Bifrost AI"
+  ],
+  "Eudia": [
+    "Stripe",
+    "Airbnb",
+    "X (formerly Twitter)"
+  ],
+  "Exowatt": [
+    "Atomic AI",
+    "SpaceX",
+    "Google DeepMind"
+  ],
+  "Satellite Bio": [],
+  "NILO Therapeutics": [],
+  "Parallel": [
+    "Clay",
+    "Sourcegraph",
+    "Google",
+    "n8n",
+    "Superhuman (formerly Grammarly)",
+    "Notion",
+    "Shopify",
+    "Tally",
+    "Webflow",
+    "Microsoft",
+    "Sisu"
+  ],
+  "Lumeris": [],
+  "InnoStar Semiconductor": [
+    "ByteDance",
+    "Atlas"
+  ],
+  "CoinTracker": [
+    "OpenSea",
+    "Phantom",
+    "Uniswap Labs",
+    "Solana",
+    "Ledger Investing",
+    "Blockchain.com",
+    "Fireblocks",
+    "Anchorage Digital",
+    "Oracle",
+    "Sardine",
+    "Chainalysis"
+  ],
+  "Contextual AI": [
+    "Google",
+    "Snowflake",
+    "n8n"
+  ],
+  "Safe": [
+    "Lido",
+    "Uniswap Labs",
+    "Avalanche Energy",
+    "Ledger Investing",
+    "Polygon"
+  ],
+  "1047 Games": [
+    "Hathora",
+    "Nexus"
+  ],
+  "Inceptive": [
+    "NVIDIA",
+    "Google"
+  ],
+  "Dyno Therapeutics": [
+    "NVIDIA"
+  ],
+  "Cambridge Aerospace": [
+    "Anduril Industries",
+    "CuspAI"
+  ],
+  "Tessl": [
+    "SpaceX",
+    "xAI",
+    "The Boring Company"
+  ],
+  "H Company": [
+    "UiPath",
+    "Amazon",
+    "Hugging Face",
+    "NVIDIA",
+    "Mithril"
+  ],
+  "Lower": [
+    "Orchard Robotics"
+  ],
+  "Cellino": [],
+  "Cajal Neuroscience": [
+    "Creyon Bio"
+  ],
+  "Abata Therapeutics": [],
+  "Cognichip": [],
+  "DualEntry": [
+    "Kintsugi AI",
+    "Ramp",
+    "Stripe",
+    "PayPal",
+    "Gusto",
+    "Deel"
+  ],
+  "Uni Cards": [
+    "Facebook",
+    "Zepto",
+    "FalconX",
+    "NiYO Solutions",
+    "Tally",
+    "BharatPe",
+    "Anthropic",
+    "Jiraaf",
+    "Infra.Market",
+    "Credgenics",
+    "Spinny"
+  ],
+  "Descope": [
+    "Databricks",
+    "Navan",
+    "Shopify",
+    "Google",
+    "Vercel",
+    "Cribl",
+    "Snowflake"
+  ],
+  "Cartesia": [
+    "11x AI",
+    "Rasa",
+    "Together AI",
+    "Maven",
+    "Quora",
+    "Daily Harvest",
+    "Cresta"
+  ],
+  "Valinor Enterprises": [
+    "Anduril Industries",
+    "Palantir",
+    "Harbor Health",
+    "Reflex",
+    "Dispatch Goods",
+    "Hadrian"
+  ],
+  "Sentient": [
+    "Exa",
+    "Lagrange Labs",
+    "OpenGradient",
+    "Fireworks AI",
+    "Base Power",
+    "Kaito",
+    "Kite AI",
+    "NEAR",
+    "Open Mind",
+    "Polygon",
+    "Sapien",
+    "Composio"
+  ],
+  "Modus": [
+    "Palantir",
+    "Ramp",
+    "Oscar Health"
+  ],
+  "Mariana Minerals": [],
+  "Mendra": [
+    "Palantir"
+  ],
+  "Reevo": [],
+  "Latent": [
+    "NVIDIA",
+    "Domino Data Lab",
+    "Fiddler Labs"
+  ],
+  "Zag Bio": []
+}

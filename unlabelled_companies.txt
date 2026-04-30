@@ -1,0 +1,386 @@
+11x AI — AI Applications; Data / Dev Infra
+AI21 Labs — AI / Foundation Models; AI Applications
+AMP — Fintech
+Addepar — Fintech; Data / Dev Infra
+Adobe — AI Applications; Data / Dev Infra
+Aerodome — Defense / Dual-Use; Robotics / Autonomy
+Affirm — Fintech
+Agora — Data / Dev Infra; AI Applications
+Airbnb — AI Applications
+Allium — Data / Dev Infra
+Alloy Therapeutics — Biotech / Life Sciences
+Alta — AI Applications
+Amazon — AI Applications; Data / Dev Infra
+Amber Bio — Biotech / Life Sciences
+Amplitude — Data / Dev Infra
+Anchorage Digital — Fintech
+Anduin — Fintech
+Animoca Brands — Fintech; AI Applications
+Anyscale — Data / Dev Infra; AI / Foundation Models
+Apex — Space; Defense / Dual-Use
+Apple — AI Applications; Data / Dev Infra
+Applied Compute — Data / Dev Infra
+Arrivant — Biotech / Life Sciences
+Assort Health — Healthcare; AI Applications
+Astranis — Space
+Atlantic Money — Fintech
+Atlas — Data / Dev Infra
+Atlassian — Data / Dev Infra
+Atomic AI — Biotech / Life Sciences; AI / Foundation Models
+Atomic Industries — Robotics / Autonomy
+Attentive — AI Applications
+Auctor — Fintech
+Avalanche Energy — Energy / Climate
+Axiom Trust — Fintech
+Axonius — Data / Dev Infra
+Basis — AI Applications
+Beam — Healthcare; Biotech / Life Sciences
+Belvo — Fintech
+BetDEX — Fintech
+BharatPe — Fintech
+Bifrost AI — AI Applications
+Bild — Biotech / Life Sciences
+Blackbird — AI Applications
+Block Green — Energy / Climate
+Blockchain.com — Fintech
+Bolna — AI Applications
+Boom & Bucket — AI Applications
+Brale — Fintech
+Bridge — Fintech
+CUE Labs — AI Applications
+Cadence Solutions — Healthcare
+Campfire — AI Applications
+Cato Networks — Data / Dev Infra
+CesiumAstro — Space; Defense / Dual-Use
+Chai Discovery — Biotech / Life Sciences; AI / Foundation Models
+Chainalysis — Fintech; Data / Dev Infra
+ChartHop — Data / Dev Infra
+Checkly — Data / Dev Infra
+Checkr — Data / Dev Infra
+Chef Robotics — Robotics / Autonomy
+Cisco — Data / Dev Infra
+Civic Roundtable — AI Applications
+Clara — Fintech
+Clay — AI Applications
+Clerk — Data / Dev Infra
+Clutch — AI Applications
+Coda — Data / Dev Infra
+Cohere Technologies — AI / Foundation Models
+Collective — Fintech
+Column — Fintech
+Commure — Healthcare; Data / Dev Infra
+Composio — AI Applications
+Convex — Data / Dev Infra
+CookUnity — AI Applications
+Cortex — AI Applications
+Cosmos — Fintech
+Credgenics — Fintech
+Cresta — AI Applications
+Creyon Bio — Biotech / Life Sciences
+Cribl — Data / Dev Infra
+Crossbeam — Data / Dev Infra
+Crossmint — Fintech
+Crux — Data / Dev Infra
+Current — Fintech
+CuspAI — AI / Foundation Models; Biotech / Life Sciences
+Dagster — Data / Dev Infra
+Daily Harvest — AI Applications
+Decagon — AI Applications
+Decart — AI Applications
+Deliverr — AI Applications
+Descript — AI Applications
+Diem — Fintech
+Dirac — AI / Foundation Models
+Dispatch Goods — Energy / Climate
+Domino Data Lab — Data / Dev Infra
+DriveWealth — Fintech
+Dynamic Labs — Data / Dev Infra
+Eclipse — Data / Dev Infra
+Effectiv — Fintech
+Elementor — AI Applications
+EliseAI — AI Applications
+Ema — AI Applications
+Embark Trucks — Robotics / Autonomy
+Epirus — Defense / Dual-Use
+Equals — Data / Dev Infra
+EverlyWell — Healthcare
+Evernow — Healthcare
+Exa — AI Applications
+Facebook — AI Applications
+Fal — Data / Dev Infra
+FalconX — Fintech
+Farcaster — Fintech
+Fiddler Labs — Data / Dev Infra
+Figma — AI Applications
+Fireworks AI — AI / Foundation Models; Data / Dev Infra
+Flagship — Biotech / Life Sciences
+Fordefi — Fintech
+Formation — AI Applications
+Formation Bio — Biotech / Life Sciences
+Fractal — AI Applications
+Front — AI Applications
+Frubana — AI Applications
+Future — Healthcare
+G2 — Data / Dev Infra
+Gamma — AI Applications
+Garner Health — Healthcare
+Ghost Autonomy — Robotics / Autonomy
+Gloat — AI Applications
+Gnosis — Fintech
+Golden — AI Applications
+Google — AI / Foundation Models; Data / Dev Infra
+Google DeepMind — AI / Foundation Models
+Gopuff — AI Applications
+Govly — Defense / Dual-Use
+Graphite — Data / Dev Infra
+Gusto — Fintech
+Halo Industries — Robotics / Autonomy
+HarmonyCares — Healthcare
+Hathora — Data / Dev Infra
+Hebbia — AI Applications
+Hedra — AI Applications
+Hello Patient — Healthcare
+Hex Technologies — Data / Dev Infra
+Hugging Face — AI / Foundation Models; Data / Dev Infra
+Improbable — AI Applications
+Impulse — Space
+Infra.Market — AI Applications
+Instabase — AI Applications
+Instacart — AI Applications
+Ironclad — AI Applications
+Isovalent — Data / Dev Infra
+Jasper Health — Healthcare
+Jellyfish — Data / Dev Infra
+Jiraaf — Fintech
+Juicebox — Fintech
+Kaito — AI Applications
+Kallyope — Biotech / Life Sciences
+Karius — Healthcare; Biotech / Life Sciences
+Katana — AI Applications
+Kela Technologies — Defense / Dual-Use
+Kernel — Biotech / Life Sciences
+Kintsugi AI — AI Applications; Healthcare
+Kite AI — AI Applications
+Klaviyo — AI Applications
+Koala — AI Applications
+Kodiak Robotics — Robotics / Autonomy
+Krea — AI Applications
+LOOM — AI Applications
+Ladder — Fintech
+Lagrange Labs — AI / Foundation Models
+LangChain — Data / Dev Infra
+Langfuse — Data / Dev Infra
+Lattice — Data / Dev Infra
+LayerZero Labs — Fintech
+Ledger Investing — Fintech
+Lemonade — Fintech
+Lido — Fintech
+Lincode — Data / Dev Infra
+Linear — Data / Dev Infra
+LinkedIn — AI Applications
+Liquid — Fintech
+LogX — Fintech
+Loop — AI Applications
+Lume — Healthcare
+Mach Industries — Defense / Dual-Use
+Magic — AI / Foundation Models
+Magic Circle Studio — AI Applications
+Mark43 — Defense / Dual-Use
+Materialize — Data / Dev Infra
+Matillion — Data / Dev Infra
+Maven — Healthcare
+Merge — Data / Dev Infra
+Meridian — Fintech
+Meta — AI / Foundation Models; AI Applications
+Microsoft — AI / Foundation Models; Data / Dev Infra
+Mithril — Biotech / Life Sciences
+Modal Labs — Data / Dev Infra
+Modern Health — Healthcare
+Moment — Fintech
+Monad — Fintech
+Monte Carlo — Data / Dev Infra
+MosaicML — AI / Foundation Models
+MotherDuck — Data / Dev Infra
+Mount — Data / Dev Infra
+Muni Tienda — Fintech
+Mythical Games — Fintech
+N3TWORK — AI Applications
+NEAR — Fintech
+NVIDIA — AI / Foundation Models; Data / Dev Infra
+Nansen — Fintech
+Napkin AI — AI Applications
+Navan — AI Applications
+Nebius — Data / Dev Infra
+Neon — Data / Dev Infra
+Neptune Mutual — Fintech
+Newfront — Fintech
+Nexus — Space
+NiYO Solutions — Fintech
+Nova Credit — Fintech
+Nubank — Fintech
+Nucleus — Healthcare
+ONE Championship — AI Applications
+Oasis Security — Data / Dev Infra
+Octant Bio — Biotech / Life Sciences
+Omega — AI Applications
+Open Mind — AI Applications
+OpenGradient — AI Applications
+OpenRouter — AI / Foundation Models
+OpenSea — Fintech
+Optimism — Fintech
+Oracle — Data / Dev Infra
+Orchard Robotics — Robotics / Autonomy
+Oscar Health — Healthcare
+Oura — Healthcare
+Overwolf — AI Applications
+PROOF — Fintech
+Palantir — Defense / Dual-Use; Data / Dev Infra
+Parallel Fluidics — Biotech / Life Sciences
+Parloa — AI Applications
+Party — AI Applications
+PartyDAO — Fintech
+Patronus AI — Data / Dev Infra
+Paxos — Fintech
+PayPal — Fintech
+Pearl Health — Healthcare
+Perplexity — AI Applications; AI / Foundation Models
+Persona — Data / Dev Infra
+Personio — Data / Dev Infra
+Phantom — Fintech
+Pika — AI Applications
+Pillar — Fintech
+Pilot — Fintech
+Pinecone — Data / Dev Infra
+Plaid — Fintech
+Plan A — Energy / Climate
+PlanetScale — Data / Dev Infra
+Playbook — AI Applications
+Playground — AI Applications
+Polar — Fintech
+Polygon — Fintech
+Polymarket — Fintech
+Pomelo Care — Healthcare
+Prelude — Data / Dev Infra
+Primer — Fintech
+Privacera — Data / Dev Infra
+Privy — Fintech
+Productiv — Data / Dev Infra
+Public — Fintech
+Pulley — Fintech
+Pyramid Analytics — Data / Dev Infra
+Quora — AI Applications
+Radiant — Energy / Climate
+Rakuten Medical — Healthcare; Biotech / Life Sciences
+Rally — Fintech
+Rasa — AI Applications
+Re:Build — Robotics / Autonomy
+Reddit — AI Applications
+RedotPay — Fintech
+Redpanda Data — Data / Dev Infra
+Reflex — AI Applications
+Reforge — AI Applications
+Regent — Space
+Relativity Space — Space
+Relay — Fintech
+Render — Data / Dev Infra
+Replicate — AI / Foundation Models; Data / Dev Infra
+Resend — Data / Dev Infra
+Resourcely — Data / Dev Infra
+Retool — Data / Dev Infra
+Rillet — Fintech
+Rippl Care — Healthcare
+Ritual — Healthcare
+Roblox — AI Applications
+Rocket — Fintech
+Rootly — Data / Dev Infra
+Rows — Data / Dev Infra
+Royal — Fintech
+RudderStack — Data / Dev Infra
+Runway — AI Applications
+Sage Care — Healthcare
+Saildrone — Defense / Dual-Use; Robotics / Autonomy
+Sandbox VR — AI Applications
+Sapien — AI Applications
+Sardine — Fintech
+Savvy — Fintech
+Scorpion Therapeutics — Biotech / Life Sciences
+Securiti — Data / Dev Infra
+Seed Health — Biotech / Life Sciences
+Seismic — AI Applications
+SentinelOne — Data / Dev Infra
+Sentry — Data / Dev Infra
+Shopify — AI Applications; Fintech
+Sierra — AI Applications
+SingleStore — Data / Dev Infra
+Sisu — Data / Dev Infra
+Snorkel AI — AI / Foundation Models; Data / Dev Infra
+Snowflake — Data / Dev Infra
+Snyk — Data / Dev Infra
+Solana — Fintech
+SonderMind — Healthcare
+Sound — AI Applications
+Sourcegraph — Data / Dev Infra
+Speak — AI Applications
+Spinny — AI Applications
+Spot — Robotics / Autonomy
+Spruce — Fintech
+Square — Fintech
+Squarespace — AI Applications
+Stability AI — AI / Foundation Models
+Stan — AI Applications
+Starburst — Data / Dev Infra
+Stardust — Fintech
+StarkWare Industries — Fintech
+Statsig — Data / Dev Infra
+StrongDM — Data / Dev Infra
+Substack — AI Applications
+Sumer — Fintech
+Supabase — Data / Dev Infra
+Synthesia — AI Applications
+Tackle — Data / Dev Infra
+Tactic — Fintech
+Tailscale — Data / Dev Infra
+Tally — Fintech
+Talofa — AI Applications
+Tandem — Fintech
+Tango — AI Applications
+Tavus — AI Applications
+Tenderly — Fintech
+Tesla — Energy / Climate; Robotics / Autonomy
+Tessian — Data / Dev Infra
+Thatch — Fintech
+The Rounds — Energy / Climate
+The Zebra — Fintech
+ThoughtSpot — Data / Dev Infra
+Thrive Global — Healthcare
+Thyme Care — Healthcare
+Tines — Data / Dev Infra
+Trail Security — Data / Dev Infra
+Treehouse — AI Applications
+Trunk — Data / Dev Infra
+Turnkey — Fintech
+Twingate — Data / Dev Infra
+Typeface — AI Applications
+Uber — AI Applications
+Unit — Fintech
+Unity — AI Applications
+Upstash — Data / Dev Infra
+Vanta — Data / Dev Infra
+Verkada — Defense / Dual-Use
+Vesta — Fintech
+Veza — Data / Dev Infra
+Vosbor — Defense / Dual-Use
+Vulcan — Defense / Dual-Use
+Warp — Data / Dev Infra
+Webflow — AI Applications
+Wintermute — Fintech
+World — Fintech
+Yellow Card — Fintech
+Yuno — Fintech
+Zafran Security — Data / Dev Infra
+Zelt — Fintech
+airSlate — AI Applications
+charles — Fintech
+dYdX — Fintech
+dbt Labs — Data / Dev Infra
+n8n — Data / Dev Infra

@@ -1,0 +1,8102 @@
+{
+  "components": {
+    "lightspeed": {
+      "portfolio_size": 129,
+      "num_components": 64,
+      "largest_cc_size": 55,
+      "isolated_count": 59,
+      "components": [
+        [
+          "1Password",
+          "Abridge",
+          "Alchemy",
+          "Anthropic",
+          "Arrivant",
+          "Assort Health",
+          "Augment Code",
+          "Axonius",
+          "Beacon Software",
+          "Cartesia",
+          "Cato Networks",
+          "ClickHouse",
+          "Composio",
+          "Cyera",
+          "Daily Harvest",
+          "Databricks",
+          "Descope",
+          "Distyl AI",
+          "DualEntry",
+          "ElevenLabs",
+          "Endor Labs",
+          "FTX",
+          "FTX US",
+          "Glean",
+          "Gnosis",
+          "Goodfire",
+          "Grafana Labs",
+          "Inferact",
+          "Inworld AI",
+          "Langfuse",
+          "Matillion",
+          "Modus",
+          "Mysten Labs",
+          "Navan",
+          "Periodic Labs",
+          "Ramp",
+          "RedotPay",
+          "Redpanda Data",
+          "Ricursive Intelligence",
+          "Rippling",
+          "Safe",
+          "Savvy",
+          "Snorkel AI",
+          "Stripe",
+          "Supabase",
+          "Tavus",
+          "Temporal Technologies",
+          "Thinking Machines Lab",
+          "ThoughtSpot",
+          "Trail Security",
+          "Unconventional AI",
+          "Voltron Data",
+          "Whatnot",
+          "Wiz",
+          "Yuga Labs"
+        ],
+        [
+          "Anduril Industries",
+          "Antares Therapeutics",
+          "Base Power",
+          "Mithril",
+          "Nominal",
+          "Omega",
+          "Protego Biopharma",
+          "Saronic",
+          "Scorpion Therapeutics"
+        ],
+        [
+          "Neuralink",
+          "xAI"
+        ],
+        [
+          "Seismic",
+          "Zag Bio"
+        ],
+        [
+          "1047 Games",
+          "Nexus"
+        ],
+        [
+          "Personio"
+        ],
+        [
+          "Castelion"
+        ],
+        [
+          "Tripledot Studios"
+        ],
+        [
+          "Elementor"
+        ],
+        [
+          "Faire"
+        ],
+        [
+          "Triana Biomedicines"
+        ],
+        [
+          "Rain"
+        ],
+        [
+          "Patronus AI"
+        ],
+        [
+          "Fireworks AI"
+        ],
+        [
+          "Enlaza Therapeutics"
+        ],
+        [
+          "Frubana"
+        ],
+        [
+          "Muni Tienda"
+        ],
+        [
+          "Brale"
+        ],
+        [
+          "Suno"
+        ],
+        [
+          "Axiom Trust"
+        ],
+        [
+          "Moment"
+        ],
+        [
+          "Kodiak Robotics"
+        ],
+        [
+          "Materialize"
+        ],
+        [
+          "Plan A"
+        ],
+        [
+          "Crossmint"
+        ],
+        [
+          "Fiddler Labs"
+        ],
+        [
+          "Typeface"
+        ],
+        [
+          "BetDEX"
+        ],
+        [
+          "CuspAI"
+        ],
+        [
+          "Diagonal Therapeutics"
+        ],
+        [
+          "FalconX"
+        ],
+        [
+          "Cohere Technologies"
+        ],
+        [
+          "Xaira Therapeutics"
+        ],
+        [
+          "Nexthop AI"
+        ],
+        [
+          "Safe Superintelligence"
+        ],
+        [
+          "Abata Therapeutics"
+        ],
+        [
+          "Phantom"
+        ],
+        [
+          "Physics Wallah"
+        ],
+        [
+          "Neko Health"
+        ],
+        [
+          "Stability AI"
+        ],
+        [
+          "Treehouse"
+        ],
+        [
+          "Satellite Bio"
+        ],
+        [
+          "Fordefi"
+        ],
+        [
+          "Talon Cyber Security"
+        ],
+        [
+          "Verkada"
+        ],
+        [
+          "Armadin Security"
+        ],
+        [
+          "AA-I Technologies"
+        ],
+        [
+          "Exa"
+        ],
+        [
+          "Reflection AI"
+        ],
+        [
+          "Resolve.ai"
+        ],
+        [
+          "Arena"
+        ],
+        [
+          "Wintermute"
+        ],
+        [
+          "Seismic Therapeutic"
+        ],
+        [
+          "Pika"
+        ],
+        [
+          "Blockchain.com"
+        ],
+        [
+          "Pacific Fusion"
+        ],
+        [
+          "Substrate"
+        ],
+        [
+          "Resilience"
+        ],
+        [
+          "Contextual AI"
+        ],
+        [
+          "Zepto"
+        ],
+        [
+          "Zapp"
+        ],
+        [
+          "K2 Space"
+        ],
+        [
+          "ClickUp"
+        ],
+        [
+          "Skild AI"
+        ]
+      ]
+    },
+    "a16z": {
+      "portfolio_size": 177,
+      "num_components": 74,
+      "largest_cc_size": 91,
+      "isolated_count": 64,
+      "components": [
+        [
+          "Abridge",
+          "Alchemy",
+          "Aleo",
+          "Ambience Healthcare",
+          "Anchorage Digital",
+          "Anduril Industries",
+          "Anysphere",
+          "Apex",
+          "Applied Intuition",
+          "Astranis",
+          "Base Power",
+          "Black Forest Labs",
+          "Castelion",
+          "Character.ai",
+          "ChartHop",
+          "ClickUp",
+          "CoinSwitch",
+          "Convex",
+          "Cross River Bank",
+          "Crux",
+          "Current",
+          "Dapper Labs",
+          "Databricks",
+          "DeSo Foundation",
+          "Deel",
+          "Descript",
+          "ElevenLabs",
+          "EliseAI",
+          "Exowatt",
+          "Figma",
+          "Fivetran",
+          "Flexport",
+          "Formation Bio",
+          "Forte",
+          "Fractal",
+          "Function Health",
+          "Graphite",
+          "Hadrian",
+          "Harvey",
+          "Hex Technologies",
+          "Hippocratic AI",
+          "Inferact",
+          "Instabase",
+          "Instacart",
+          "Kalshi",
+          "Krea",
+          "Luma AI",
+          "Mercury",
+          "MotherDuck",
+          "NEAR",
+          "Nansen",
+          "Octant Bio",
+          "OpenAI",
+          "OpenRouter",
+          "OpenSea",
+          "Optimism",
+          "Oura",
+          "Overwolf",
+          "Pearl Health",
+          "Periodic Labs",
+          "Phantom",
+          "Plaid",
+          "Reddit",
+          "Replicate",
+          "Replit",
+          "Resend",
+          "Resourcely",
+          "Robinhood",
+          "Roblox",
+          "Safe Superintelligence",
+          "Sandbox VR",
+          "Sardine",
+          "Saronic",
+          "Shield AI",
+          "Sky Mavis",
+          "Slingshot AI",
+          "Solana",
+          "SpaceX",
+          "Stripe",
+          "Substack",
+          "Temporal Technologies",
+          "Thatch",
+          "Thinking Machines Lab",
+          "Unconventional AI",
+          "Whatnot",
+          "Wiz",
+          "World",
+          "World Labs",
+          "X (formerly Twitter)",
+          "dbt Labs",
+          "xAI"
+        ],
+        [
+          "Aerodome",
+          "Clutch",
+          "Flock Safety",
+          "Moment"
+        ],
+        [
+          "EQRx",
+          "Idrx",
+          "Relay"
+        ],
+        [
+          "LayerZero Labs",
+          "PartyDAO",
+          "Uniswap Labs"
+        ],
+        [
+          "Mind Robotics",
+          "Waymo"
+        ],
+        [
+          "Rappi",
+          "Yuno"
+        ],
+        [
+          "Radiant",
+          "Standard Nuclear"
+        ],
+        [
+          "Mysten Labs",
+          "Talofa"
+        ],
+        [
+          "PROOF",
+          "Tome Biosciences"
+        ],
+        [
+          "Kavak",
+          "Spruce"
+        ],
+        [
+          "Amber Bio"
+        ],
+        [
+          "Aptos"
+        ],
+        [
+          "Clerk"
+        ],
+        [
+          "Hedra"
+        ],
+        [
+          "dYdX"
+        ],
+        [
+          "Atlas"
+        ],
+        [
+          "Meridian"
+        ],
+        [
+          "Cresta"
+        ],
+        [
+          "Dyno Therapeutics"
+        ],
+        [
+          "Isovalent"
+        ],
+        [
+          "Thyme Care"
+        ],
+        [
+          "Gamma"
+        ],
+        [
+          "Sisu"
+        ],
+        [
+          "SpotOn"
+        ],
+        [
+          "Golden"
+        ],
+        [
+          "Trunk"
+        ],
+        [
+          "Mariana Minerals"
+        ],
+        [
+          "Navan"
+        ],
+        [
+          "KoBold Metals"
+        ],
+        [
+          "Quora"
+        ],
+        [
+          "Nexthop AI"
+        ],
+        [
+          "Inceptive"
+        ],
+        [
+          "11x AI"
+        ],
+        [
+          "Dispatch Goods"
+        ],
+        [
+          "Upstash"
+        ],
+        [
+          "Mythical Games"
+        ],
+        [
+          "Maven"
+        ],
+        [
+          "Pomelo Care"
+        ],
+        [
+          "Dynamic Labs"
+        ],
+        [
+          "Farcaster"
+        ],
+        [
+          "Blackbird"
+        ],
+        [
+          "Tally"
+        ],
+        [
+          "Yellow Card"
+        ],
+        [
+          "Sourcegraph"
+        ],
+        [
+          "Orbital Therapeutics"
+        ],
+        [
+          "Genesis Molecular AI"
+        ],
+        [
+          "Pillar"
+        ],
+        [
+          "Tackle"
+        ],
+        [
+          "Braveheart Bio"
+        ],
+        [
+          "Improbable"
+        ],
+        [
+          "Decagon"
+        ],
+        [
+          "OpenGradient"
+        ],
+        [
+          "Starburst"
+        ],
+        [
+          "PlanetScale"
+        ],
+        [
+          "Alta"
+        ],
+        [
+          "Insitro"
+        ],
+        [
+          "Anyscale"
+        ],
+        [
+          "Arena"
+        ],
+        [
+          "Vesta"
+        ],
+        [
+          "Pinecone"
+        ],
+        [
+          "Lido"
+        ],
+        [
+          "Reforge"
+        ],
+        [
+          "RingCentral Events"
+        ],
+        [
+          "Devoted Health"
+        ],
+        [
+          "Crossbeam"
+        ],
+        [
+          "Equals"
+        ],
+        [
+          "Hebbia"
+        ],
+        [
+          "Freenome"
+        ],
+        [
+          "The Rounds"
+        ],
+        [
+          "Rasa"
+        ],
+        [
+          "Fal"
+        ],
+        [
+          "Sound"
+        ],
+        [
+          "Formation"
+        ],
+        [
+          "Rillet"
+        ]
+      ]
+    },
+    "lux": {
+      "portfolio_size": 54,
+      "num_components": 33,
+      "largest_cc_size": 10,
+      "isolated_count": 27,
+      "components": [
+        [
+          "Anduril Industries",
+          "Apex",
+          "Applied Intuition",
+          "Cambridge Aerospace",
+          "Hadrian",
+          "Impulse",
+          "Impulse Space",
+          "Nominal",
+          "Saildrone",
+          "Varda"
+        ],
+        [
+          "Databricks",
+          "Ironclad",
+          "MosaicML",
+          "Ramp",
+          "Tactic",
+          "Unconventional AI"
+        ],
+        [
+          "Cajal Neuroscience",
+          "Creyon Bio",
+          "EvolutionaryScale",
+          "Kallyope",
+          "NILO Therapeutics"
+        ],
+        [
+          "LangChain",
+          "Together AI"
+        ],
+        [
+          "Cognition",
+          "Modal Labs"
+        ],
+        [
+          "FTX",
+          "Vosbor"
+        ],
+        [
+          "Cloaked"
+        ],
+        [
+          "Column"
+        ],
+        [
+          "Primer"
+        ],
+        [
+          "Mendra"
+        ],
+        [
+          "Applied Compute"
+        ],
+        [
+          "Paradigm"
+        ],
+        [
+          "Eikon Therapeutics"
+        ],
+        [
+          "Black Forest Labs"
+        ],
+        [
+          "Cognichip"
+        ],
+        [
+          "Fiddler Labs"
+        ],
+        [
+          "Neptune Mutual"
+        ],
+        [
+          "Anchorage Digital"
+        ],
+        [
+          "Hugging Face"
+        ],
+        [
+          "Physical Intelligence"
+        ],
+        [
+          "Dyno Therapeutics"
+        ],
+        [
+          "Xaira Therapeutics"
+        ],
+        [
+          "Resilience"
+        ],
+        [
+          "Aera Therapeutics"
+        ],
+        [
+          "EverlyWell"
+        ],
+        [
+          "Reflex"
+        ],
+        [
+          "Juicebox"
+        ],
+        [
+          "Runway"
+        ],
+        [
+          "11x AI"
+        ],
+        [
+          "Kela Technologies"
+        ],
+        [
+          "Bild"
+        ],
+        [
+          "Thatch"
+        ],
+        [
+          "Tines"
+        ]
+      ]
+    },
+    "accel": {
+      "portfolio_size": 114,
+      "num_components": 64,
+      "largest_cc_size": 34,
+      "isolated_count": 54,
+      "components": [
+        [
+          "1Password",
+          "Airbyte",
+          "Anthropic",
+          "Anysphere",
+          "Axonius",
+          "Chaos",
+          "Checkly",
+          "Credgenics",
+          "Cyera",
+          "FalconX",
+          "Graphite",
+          "Higgsfield",
+          "Infra.Market",
+          "Jiraaf",
+          "Klaviyo",
+          "Linear",
+          "Lovable",
+          "NiYO Solutions",
+          "OpenFX",
+          "Periodic Labs",
+          "Perplexity",
+          "Scale",
+          "Sentry",
+          "Snyk",
+          "Spinny",
+          "Supabase",
+          "Tailscale",
+          "Tavus",
+          "Tessl",
+          "Thinking Machines Lab",
+          "Tines",
+          "Uni Cards",
+          "Vercel",
+          "Veza"
+        ],
+        [
+          "G2",
+          "Personio",
+          "Remote",
+          "Zelt"
+        ],
+        [
+          "Checkr",
+          "Effectiv",
+          "Public",
+          "Socure"
+        ],
+        [
+          "Bird",
+          "BrowserStack",
+          "Legora"
+        ],
+        [
+          "Chainalysis",
+          "CoinTracker",
+          "Ledger Investing"
+        ],
+        [
+          "Animoca Brands",
+          "Nansen",
+          "Sky Mavis"
+        ],
+        [
+          "Miro",
+          "Productiv",
+          "RingCentral Events"
+        ],
+        [
+          "Eclipse",
+          "Mind Robotics"
+        ],
+        [
+          "Unit",
+          "Vega"
+        ],
+        [
+          "Gopuff",
+          "Misfits Market"
+        ],
+        [
+          "Primer"
+        ],
+        [
+          "Jellyfish"
+        ],
+        [
+          "Atlas"
+        ],
+        [
+          "Melio"
+        ],
+        [
+          "Campfire"
+        ],
+        [
+          "Webflow"
+        ],
+        [
+          "Gamma"
+        ],
+        [
+          "Rocket"
+        ],
+        [
+          "Sorare"
+        ],
+        [
+          "Basis"
+        ],
+        [
+          "Oasis Security"
+        ],
+        [
+          "Wonder"
+        ],
+        [
+          "Trade Republic"
+        ],
+        [
+          "Ritual"
+        ],
+        [
+          "Polar"
+        ],
+        [
+          "RedotPay"
+        ],
+        [
+          "Nuvemshop"
+        ],
+        [
+          "H Company"
+        ],
+        [
+          "Kernel"
+        ],
+        [
+          "Teya"
+        ],
+        [
+          "Beam"
+        ],
+        [
+          "Ema"
+        ],
+        [
+          "Ironclad"
+        ],
+        [
+          "Speak"
+        ],
+        [
+          "Mensa Brands"
+        ],
+        [
+          "The Zebra"
+        ],
+        [
+          "SingleStore"
+        ],
+        [
+          "Armadin Security"
+        ],
+        [
+          "Diem"
+        ],
+        [
+          "Lincode"
+        ],
+        [
+          "Merge"
+        ],
+        [
+          "Cosmos"
+        ],
+        [
+          "Tandem"
+        ],
+        [
+          "Polygon"
+        ],
+        [
+          "Decagon"
+        ],
+        [
+          "Lower"
+        ],
+        [
+          "Tenderly"
+        ],
+        [
+          "charles"
+        ],
+        [
+          "Zepz"
+        ],
+        [
+          "n8n"
+        ],
+        [
+          "Napkin AI"
+        ],
+        [
+          "Privacera"
+        ],
+        [
+          "Cambridge Aerospace"
+        ],
+        [
+          "Rally"
+        ],
+        [
+          "Eruditus Executive Education"
+        ],
+        [
+          "DriveWealth"
+        ],
+        [
+          "Monte Carlo"
+        ],
+        [
+          "Squarespace"
+        ],
+        [
+          "Rasa"
+        ],
+        [
+          "Gloat"
+        ],
+        [
+          "Rows"
+        ],
+        [
+          "Nebius"
+        ],
+        [
+          "Synthesia"
+        ],
+        [
+          "Tessian"
+        ]
+      ]
+    },
+    "8vc": {
+      "portfolio_size": 53,
+      "num_components": 37,
+      "largest_cc_size": 6,
+      "isolated_count": 29,
+      "components": [
+        [
+          "Anduril Industries",
+          "Apex",
+          "Chaos",
+          "Epirus",
+          "ICON",
+          "Saronic"
+        ],
+        [
+          "Airbyte",
+          "Dagster",
+          "Pulley",
+          "Ramp",
+          "Vercel"
+        ],
+        [
+          "Addepar",
+          "Cognition",
+          "Opto Investments"
+        ],
+        [
+          "Cellares",
+          "Kite AI"
+        ],
+        [
+          "Augment",
+          "Deliverr"
+        ],
+        [
+          "Quince",
+          "Seed Health"
+        ],
+        [
+          "Altos Labs",
+          "Resilience"
+        ],
+        [
+          "Alloy Therapeutics",
+          "Sila"
+        ],
+        [
+          "Boom & Bucket"
+        ],
+        [
+          "Cityblock Health"
+        ],
+        [
+          "Rootly"
+        ],
+        [
+          "Materialize"
+        ],
+        [
+          "Mendra"
+        ],
+        [
+          "Govly"
+        ],
+        [
+          "Bedrock Robotics"
+        ],
+        [
+          "Evernow"
+        ],
+        [
+          "Immunai"
+        ],
+        [
+          "Harbor Health"
+        ],
+        [
+          "Halo Industries"
+        ],
+        [
+          "Atomic AI"
+        ],
+        [
+          "AMP"
+        ],
+        [
+          "Armadin Security"
+        ],
+        [
+          "CREATE Medicines"
+        ],
+        [
+          "Sonoma Biotherapeutics"
+        ],
+        [
+          "AI21 Labs"
+        ],
+        [
+          "Tul"
+        ],
+        [
+          "Elemy"
+        ],
+        [
+          "Hello Patient"
+        ],
+        [
+          "Parallel Fluidics"
+        ],
+        [
+          "Anduin"
+        ],
+        [
+          "Commure"
+        ],
+        [
+          "Sumer"
+        ],
+        [
+          "Twingate"
+        ],
+        [
+          "Loop"
+        ],
+        [
+          "The Boring Company"
+        ],
+        [
+          "Atomic Industries"
+        ],
+        [
+          "Cellino"
+        ]
+      ]
+    },
+    "sequoia": {
+      "portfolio_size": 127,
+      "num_components": 53,
+      "largest_cc_size": 68,
+      "isolated_count": 49,
+      "components": [
+        [
+          "Anthropic",
+          "Attentive",
+          "Bridge",
+          "ByteDance",
+          "CUE Labs",
+          "Citadel Securities",
+          "Clay",
+          "Decart",
+          "ElevenLabs",
+          "FTX",
+          "Figma",
+          "Fireblocks",
+          "Fireworks AI",
+          "Flapping Airplanes",
+          "Formation Bio",
+          "Glean",
+          "Grafana Labs",
+          "Harmonic",
+          "Harvey",
+          "Hugging Face",
+          "Instacart",
+          "Inworld AI",
+          "Ironclad",
+          "Juicebox",
+          "Kalshi",
+          "Kela Technologies",
+          "Klarna",
+          "LangChain",
+          "LayerZero Labs",
+          "Linear",
+          "Mach Industries",
+          "Magic",
+          "Mercury",
+          "Neuralink",
+          "Nominal",
+          "Notion",
+          "OpenAI",
+          "OpenRouter",
+          "Phantom",
+          "Physical Intelligence",
+          "Pilot",
+          "Privy",
+          "Pyramid Analytics",
+          "Ramp",
+          "Reddit",
+          "Remote",
+          "Retool",
+          "Ricursive Intelligence",
+          "Rillet",
+          "Rippling",
+          "Robinhood",
+          "Safe Superintelligence",
+          "Sierra",
+          "Sourcegraph",
+          "SpaceX",
+          "Statsig",
+          "Stripe",
+          "Tempo",
+          "Temporal Technologies",
+          "Tessian",
+          "The Boring Company",
+          "Turnkey",
+          "UiPath",
+          "Vanta",
+          "Whatnot",
+          "X (formerly Twitter)",
+          "Zelt",
+          "xAI"
+        ],
+        [
+          "Cyera",
+          "Island",
+          "SentinelOne",
+          "Wiz",
+          "Zafran Security"
+        ],
+        [
+          "Animoca Brands",
+          "Forte",
+          "Unity"
+        ],
+        [
+          "CoinSwitch",
+          "LogX"
+        ],
+        [
+          "Dagster"
+        ],
+        [
+          "Noom"
+        ],
+        [
+          "Landis"
+        ],
+        [
+          "Faire"
+        ],
+        [
+          "Cresta"
+        ],
+        [
+          "Mithril"
+        ],
+        [
+          "Domino Data Lab"
+        ],
+        [
+          "StarkWare Industries"
+        ],
+        [
+          "Tavus"
+        ],
+        [
+          "Waymo"
+        ],
+        [
+          "dbt Labs"
+        ],
+        [
+          "Cribl"
+        ],
+        [
+          "ONE Championship"
+        ],
+        [
+          "Oasis Security"
+        ],
+        [
+          "Applied Compute"
+        ],
+        [
+          "Trade Republic"
+        ],
+        [
+          "Prelude"
+        ],
+        [
+          "Kaito"
+        ],
+        [
+          "Xaira Therapeutics"
+        ],
+        [
+          "Nubank"
+        ],
+        [
+          "Beam"
+        ],
+        [
+          "Cortex"
+        ],
+        [
+          "Koala"
+        ],
+        [
+          "StrongDM"
+        ],
+        [
+          "Party"
+        ],
+        [
+          "Embark Trucks"
+        ],
+        [
+          "Rappi"
+        ],
+        [
+          "Auctor"
+        ],
+        [
+          "Verkada"
+        ],
+        [
+          "AMP"
+        ],
+        [
+          "Reflection AI"
+        ],
+        [
+          "Aurora"
+        ],
+        [
+          "DeSo Foundation"
+        ],
+        [
+          "Warp"
+        ],
+        [
+          "Amplitude"
+        ],
+        [
+          "n8n"
+        ],
+        [
+          "Hex Technologies"
+        ],
+        [
+          "Getir"
+        ],
+        [
+          "Bifrost AI"
+        ],
+        [
+          "Dingdong Maicai"
+        ],
+        [
+          "OpenEvidence"
+        ],
+        [
+          "Unconventional AI"
+        ],
+        [
+          "Monad"
+        ],
+        [
+          "Inferact"
+        ],
+        [
+          "BharatPe"
+        ],
+        [
+          "Fal"
+        ],
+        [
+          "Replicate"
+        ],
+        [
+          "Front"
+        ],
+        [
+          "Skild AI"
+        ]
+      ]
+    },
+    "gc": {
+      "portfolio_size": 121,
+      "num_components": 67,
+      "largest_cc_size": 40,
+      "isolated_count": 58,
+      "components": [
+        [
+          "Agora",
+          "Anduril Industries",
+          "Anthropic",
+          "Applied Intuition",
+          "Beacon Software",
+          "Cartesia",
+          "Clara",
+          "Convex",
+          "Eudia",
+          "Fivetran",
+          "Gusto",
+          "Harbor Health",
+          "Heyday",
+          "Jasper Health",
+          "Kalshi",
+          "Loop",
+          "Magic",
+          "Melio",
+          "Mercor",
+          "Neon",
+          "Nominal",
+          "Paradigm",
+          "Physical Intelligence",
+          "Pulley",
+          "Ramp",
+          "Rapyd",
+          "Relativity Space",
+          "Remote",
+          "Rippl Care",
+          "Sage Care",
+          "Saronic",
+          "Spinny",
+          "Stripe",
+          "Tempo",
+          "ThoughtSpot",
+          "Together AI",
+          "Uni Cards",
+          "Valinor Enterprises",
+          "Vercel",
+          "Zepto"
+        ],
+        [
+          "Commure",
+          "Devoted Health",
+          "HarmonyCares",
+          "Hippocratic AI",
+          "Ladder",
+          "SonderMind",
+          "Zarminali Health"
+        ],
+        [
+          "Coda",
+          "Glean",
+          "Superhuman (formerly Grammarly)"
+        ],
+        [
+          "Awardco",
+          "Deel",
+          "Magic Circle Studio"
+        ],
+        [
+          "Lacework",
+          "Securiti"
+        ],
+        [
+          "Re:Build",
+          "Slate Auto"
+        ],
+        [
+          "Luma AI",
+          "Wonder"
+        ],
+        [
+          "Adept AI",
+          "Figma"
+        ],
+        [
+          "Mount",
+          "Transcarent"
+        ],
+        [
+          "Castelion"
+        ],
+        [
+          "Legora"
+        ],
+        [
+          "Render"
+        ],
+        [
+          "Karius"
+        ],
+        [
+          "LOOM"
+        ],
+        [
+          "General Intuition"
+        ],
+        [
+          "Nova Credit"
+        ],
+        [
+          "Clay"
+        ],
+        [
+          "Current"
+        ],
+        [
+          "Veho"
+        ],
+        [
+          "Black Forest Labs"
+        ],
+        [
+          "Modular"
+        ],
+        [
+          "Chai Discovery"
+        ],
+        [
+          "Lemonade"
+        ],
+        [
+          "Kernel"
+        ],
+        [
+          "airSlate"
+        ],
+        [
+          "Collective"
+        ],
+        [
+          "Varda"
+        ],
+        [
+          "Polymarket"
+        ],
+        [
+          "CoinTracker"
+        ],
+        [
+          "Tango"
+        ],
+        [
+          "Kite AI"
+        ],
+        [
+          "Neko Health"
+        ],
+        [
+          "Orchard Robotics"
+        ],
+        [
+          "Cloaked"
+        ],
+        [
+          "Cityblock Health"
+        ],
+        [
+          "Nexus"
+        ],
+        [
+          "CookUnity"
+        ],
+        [
+          "Vulcan"
+        ],
+        [
+          "Bowery Farming"
+        ],
+        [
+          "Verkada"
+        ],
+        [
+          "Cadence Solutions"
+        ],
+        [
+          "Bolna"
+        ],
+        [
+          "Tandem"
+        ],
+        [
+          "Rakuten Medical"
+        ],
+        [
+          "Latent"
+        ],
+        [
+          "Thatch"
+        ],
+        [
+          "Lume"
+        ],
+        [
+          "Kavak"
+        ],
+        [
+          "Liquid"
+        ],
+        [
+          "PB Healthcare Services"
+        ],
+        [
+          "Eikon Therapeutics"
+        ],
+        [
+          "Mark43"
+        ],
+        [
+          "Moonvalley"
+        ],
+        [
+          "Sapien"
+        ],
+        [
+          "RingCentral Events"
+        ],
+        [
+          "Lila Sciences"
+        ],
+        [
+          "Elemy"
+        ],
+        [
+          "Parloa"
+        ],
+        [
+          "Kintsugi AI"
+        ],
+        [
+          "Pacific Fusion"
+        ],
+        [
+          "Sonar"
+        ],
+        [
+          "Substrate"
+        ],
+        [
+          "Resilience"
+        ],
+        [
+          "Civic Roundtable"
+        ],
+        [
+          "Lessen"
+        ],
+        [
+          "Stan"
+        ],
+        [
+          "Skild AI"
+        ]
+      ]
+    },
+    "ff": {
+      "portfolio_size": 66,
+      "num_components": 37,
+      "largest_cc_size": 27,
+      "isolated_count": 34,
+      "components": [
+        [
+          "Affirm",
+          "Anduril Industries",
+          "Anthropic",
+          "Cognition",
+          "Crusoe",
+          "Dirac",
+          "Flexport",
+          "Hadrian",
+          "Hermeus",
+          "Impulse Space",
+          "Neuralink",
+          "Newfront",
+          "Nominal",
+          "OpenAI",
+          "Pulley",
+          "Ramp",
+          "Regent",
+          "Rippling",
+          "Scale",
+          "SpaceX",
+          "Speak",
+          "Stripe",
+          "Tactic",
+          "The Boring Company",
+          "Valinor Enterprises",
+          "Varda",
+          "Wave Mobile Money"
+        ],
+        [
+          "Lagrange Labs",
+          "Open Mind",
+          "Sentient"
+        ],
+        [
+          "Quince",
+          "Seed Health"
+        ],
+        [
+          "StarkWare Industries"
+        ],
+        [
+          "Kavak"
+        ],
+        [
+          "Dynamic Labs"
+        ],
+        [
+          "Inworld AI"
+        ],
+        [
+          "Primer"
+        ],
+        [
+          "Radiant"
+        ],
+        [
+          "Oscar Health"
+        ],
+        [
+          "Trade Republic"
+        ],
+        [
+          "Royal"
+        ],
+        [
+          "Belvo"
+        ],
+        [
+          "Playbook"
+        ],
+        [
+          "Avalanche Energy"
+        ],
+        [
+          "Lattice"
+        ],
+        [
+          "Up&Up"
+        ],
+        [
+          "Faire"
+        ],
+        [
+          "Elemy"
+        ],
+        [
+          "Substrate"
+        ],
+        [
+          "Resilience"
+        ],
+        [
+          "Paxos"
+        ],
+        [
+          "Katana"
+        ],
+        [
+          "Hathora"
+        ],
+        [
+          "Persona"
+        ],
+        [
+          "Flock Safety"
+        ],
+        [
+          "Polymarket"
+        ],
+        [
+          "Neon"
+        ],
+        [
+          "Ghost Autonomy"
+        ],
+        [
+          "CUE Labs"
+        ],
+        [
+          "Modern Health"
+        ],
+        [
+          "Loop"
+        ],
+        [
+          "Arena"
+        ],
+        [
+          "Alloy Therapeutics"
+        ],
+        [
+          "Nucleus"
+        ],
+        [
+          "Block Green"
+        ],
+        [
+          "Garner Health"
+        ]
+      ]
+    },
+    "kp": {
+      "portfolio_size": 52,
+      "num_components": 44,
+      "largest_cc_size": 4,
+      "isolated_count": 39,
+      "components": [
+        [
+          "Coda",
+          "Databricks",
+          "Glean",
+          "RudderStack"
+        ],
+        [
+          "Parallel",
+          "Tally",
+          "Waymo"
+        ],
+        [
+          "Cartesia",
+          "Together AI"
+        ],
+        [
+          "Arena",
+          "CesiumAstro"
+        ],
+        [
+          "Harvey",
+          "Rippling"
+        ],
+        [
+          "Future"
+        ],
+        [
+          "Stardust"
+        ],
+        [
+          "Inworld AI"
+        ],
+        [
+          "Hippocratic AI"
+        ],
+        [
+          "Materialize"
+        ],
+        [
+          "Spot"
+        ],
+        [
+          "Applied Compute"
+        ],
+        [
+          "Playground"
+        ],
+        [
+          "Harmonic"
+        ],
+        [
+          "Applied Intuition"
+        ],
+        [
+          "Nova Credit"
+        ],
+        [
+          "Armadin Security"
+        ],
+        [
+          "Chef Robotics"
+        ],
+        [
+          "Atlantic Money"
+        ],
+        [
+          "ArsenalBio"
+        ],
+        [
+          "InnoStar Semiconductor"
+        ],
+        [
+          "Lumeris"
+        ],
+        [
+          "N3TWORK"
+        ],
+        [
+          "Allium"
+        ],
+        [
+          "Pillar"
+        ],
+        [
+          "Rain"
+        ],
+        [
+          "OpenEvidence"
+        ],
+        [
+          "Thrive Global"
+        ],
+        [
+          "Nexthop AI"
+        ],
+        [
+          "Plaid"
+        ],
+        [
+          "Beam"
+        ],
+        [
+          "Flock Safety"
+        ],
+        [
+          "Flagship"
+        ],
+        [
+          "PlanetScale"
+        ],
+        [
+          "Reevo"
+        ],
+        [
+          "Fal"
+        ],
+        [
+          "Koala"
+        ],
+        [
+          "Ambience Healthcare"
+        ],
+        [
+          "Modern Health"
+        ],
+        [
+          "Saronic"
+        ],
+        [
+          "Transcarent"
+        ],
+        [
+          "Figma"
+        ],
+        [
+          "Synthesia"
+        ],
+        [
+          "Garner Health"
+        ]
+      ]
+    }
+  },
+  "triangles": {
+    "a16z": {
+      "count": 120,
+      "null_mean": 90.272,
+      "null_std": 9.054,
+      "p_value": 0.0,
+      "significant": true,
+      "pairs": [
+        [
+          "Dapper Labs",
+          "Alchemy"
+        ],
+        [
+          "Applied Intuition",
+          "OpenAI"
+        ],
+        [
+          "Databricks",
+          "Replit"
+        ],
+        [
+          "Databricks",
+          "Fivetran"
+        ],
+        [
+          "Databricks",
+          "dbt Labs"
+        ],
+        [
+          "Databricks",
+          "World Labs"
+        ],
+        [
+          "Databricks",
+          "Hex Technologies"
+        ],
+        [
+          "Databricks",
+          "Unconventional AI"
+        ],
+        [
+          "Databricks",
+          "Fractal"
+        ],
+        [
+          "Pearl Health",
+          "DeSo Foundation"
+        ],
+        [
+          "Replit",
+          "xAI"
+        ],
+        [
+          "Replit",
+          "Temporal Technologies"
+        ],
+        [
+          "Replit",
+          "Stripe"
+        ],
+        [
+          "Replit",
+          "Slingshot AI"
+        ],
+        [
+          "Replit",
+          "Resend"
+        ],
+        [
+          "Replit",
+          "OpenRouter"
+        ],
+        [
+          "Replit",
+          "OpenAI"
+        ],
+        [
+          "Sky Mavis",
+          "OpenSea"
+        ],
+        [
+          "Sky Mavis",
+          "Nansen"
+        ],
+        [
+          "Fivetran",
+          "dbt Labs"
+        ],
+        [
+          "Fivetran",
+          "Convex"
+        ],
+        [
+          "Fivetran",
+          "Stripe"
+        ],
+        [
+          "Fivetran",
+          "MotherDuck"
+        ],
+        [
+          "Fivetran",
+          "OpenAI"
+        ],
+        [
+          "ElevenLabs",
+          "Luma AI"
+        ],
+        [
+          "ElevenLabs",
+          "Mercury"
+        ],
+        [
+          "ElevenLabs",
+          "Stripe"
+        ],
+        [
+          "ElevenLabs",
+          "Robinhood"
+        ],
+        [
+          "ElevenLabs",
+          "EliseAI"
+        ],
+        [
+          "OpenSea",
+          "Alchemy"
+        ],
+        [
+          "OpenSea",
+          "DeSo Foundation"
+        ],
+        [
+          "Whatnot",
+          "Stripe"
+        ],
+        [
+          "Plaid",
+          "Mercury"
+        ],
+        [
+          "Plaid",
+          "Wiz"
+        ],
+        [
+          "Plaid",
+          "Cross River Bank"
+        ],
+        [
+          "Luma AI",
+          "xAI"
+        ],
+        [
+          "Astranis",
+          "SpaceX"
+        ],
+        [
+          "Alchemy",
+          "Optimism"
+        ],
+        [
+          "Alchemy",
+          "Sandbox VR"
+        ],
+        [
+          "Alchemy",
+          "Stripe"
+        ],
+        [
+          "Alchemy",
+          "Solana"
+        ],
+        [
+          "Flock Safety",
+          "Aerodome"
+        ],
+        [
+          "Descript",
+          "OpenAI"
+        ],
+        [
+          "Substack",
+          "Stripe"
+        ],
+        [
+          "xAI",
+          "X (formerly Twitter)"
+        ],
+        [
+          "xAI",
+          "Black Forest Labs"
+        ],
+        [
+          "xAI",
+          "SpaceX"
+        ],
+        [
+          "xAI",
+          "Anysphere"
+        ],
+        [
+          "xAI",
+          "Kalshi"
+        ],
+        [
+          "Apex",
+          "Anduril Industries"
+        ],
+        [
+          "Overwolf",
+          "Forte"
+        ],
+        [
+          "Periodic Labs",
+          "Thinking Machines Lab"
+        ],
+        [
+          "Periodic Labs",
+          "OpenAI"
+        ],
+        [
+          "Saronic",
+          "Anduril Industries"
+        ],
+        [
+          "Character.ai",
+          "Thinking Machines Lab"
+        ],
+        [
+          "Character.ai",
+          "Inferact"
+        ],
+        [
+          "Aleo",
+          "Robinhood"
+        ],
+        [
+          "Aleo",
+          "Anchorage Digital"
+        ],
+        [
+          "Oura",
+          "Function Health"
+        ],
+        [
+          "Oura",
+          "Slingshot AI"
+        ],
+        [
+          "Current",
+          "Cross River Bank"
+        ],
+        [
+          "Mercury",
+          "Deel"
+        ],
+        [
+          "Mercury",
+          "Stripe"
+        ],
+        [
+          "Mercury",
+          "Phantom"
+        ],
+        [
+          "Mercury",
+          "OpenAI"
+        ],
+        [
+          "Hippocratic AI",
+          "Thinking Machines Lab"
+        ],
+        [
+          "Temporal Technologies",
+          "Stripe"
+        ],
+        [
+          "Temporal Technologies",
+          "Abridge"
+        ],
+        [
+          "Temporal Technologies",
+          "OpenAI"
+        ],
+        [
+          "X (formerly Twitter)",
+          "SpaceX"
+        ],
+        [
+          "Black Forest Labs",
+          "Thinking Machines Lab"
+        ],
+        [
+          "Black Forest Labs",
+          "Replicate"
+        ],
+        [
+          "Deel",
+          "ChartHop"
+        ],
+        [
+          "Instacart",
+          "Stripe"
+        ],
+        [
+          "Instacart",
+          "Anysphere"
+        ],
+        [
+          "Instacart",
+          "Robinhood"
+        ],
+        [
+          "Instacart",
+          "OpenAI"
+        ],
+        [
+          "LayerZero Labs",
+          "Uniswap Labs"
+        ],
+        [
+          "Flexport",
+          "Stripe"
+        ],
+        [
+          "Exowatt",
+          "SpaceX"
+        ],
+        [
+          "Stripe",
+          "Anysphere"
+        ],
+        [
+          "Stripe",
+          "Robinhood"
+        ],
+        [
+          "Stripe",
+          "Cross River Bank"
+        ],
+        [
+          "Stripe",
+          "OpenAI"
+        ],
+        [
+          "Function Health",
+          "Thatch"
+        ],
+        [
+          "Thinking Machines Lab",
+          "Slingshot AI"
+        ],
+        [
+          "Thinking Machines Lab",
+          "World"
+        ],
+        [
+          "Thinking Machines Lab",
+          "OpenAI"
+        ],
+        [
+          "Uniswap Labs",
+          "PartyDAO"
+        ],
+        [
+          "Crux",
+          "CoinSwitch"
+        ],
+        [
+          "SpaceX",
+          "Hadrian"
+        ],
+        [
+          "Ambience Healthcare",
+          "OpenAI"
+        ],
+        [
+          "Shield AI",
+          "CoinSwitch"
+        ],
+        [
+          "Shield AI",
+          "Anduril Industries"
+        ],
+        [
+          "Phantom",
+          "Kalshi"
+        ],
+        [
+          "Rappi",
+          "Yuno"
+        ],
+        [
+          "Solana",
+          "DeSo Foundation"
+        ],
+        [
+          "Solana",
+          "Forte"
+        ],
+        [
+          "Graphite",
+          "Anysphere"
+        ],
+        [
+          "Anysphere",
+          "Resourcely"
+        ],
+        [
+          "Anysphere",
+          "Harvey"
+        ],
+        [
+          "Anysphere",
+          "OpenAI"
+        ],
+        [
+          "Anysphere",
+          "Figma"
+        ],
+        [
+          "Anysphere",
+          "Krea"
+        ],
+        [
+          "Spruce",
+          "Kavak"
+        ],
+        [
+          "Radiant",
+          "Standard Nuclear"
+        ],
+        [
+          "NEAR",
+          "DeSo Foundation"
+        ],
+        [
+          "Robinhood",
+          "Kalshi"
+        ],
+        [
+          "Robinhood",
+          "Reddit"
+        ],
+        [
+          "Mysten Labs",
+          "Talofa"
+        ],
+        [
+          "Hadrian",
+          "Anduril Industries"
+        ],
+        [
+          "Formation Bio",
+          "OpenAI"
+        ],
+        [
+          "Roblox",
+          "Inferact"
+        ],
+        [
+          "Sardine",
+          "Cross River Bank"
+        ],
+        [
+          "Harvey",
+          "OpenAI"
+        ],
+        [
+          "OpenRouter",
+          "OpenAI"
+        ],
+        [
+          "OpenAI",
+          "Figma"
+        ],
+        [
+          "OpenAI",
+          "Reddit"
+        ],
+        [
+          "OpenAI",
+          "Anduril Industries"
+        ],
+        [
+          "Figma",
+          "ClickUp"
+        ]
+      ]
+    },
+    "sequoia": {
+      "count": 101,
+      "null_mean": 46.242,
+      "null_std": 6.962,
+      "p_value": 0.0,
+      "significant": true,
+      "pairs": [
+        [
+          "Fireblocks",
+          "Tempo"
+        ],
+        [
+          "Fireblocks",
+          "LayerZero Labs"
+        ],
+        [
+          "Fireblocks",
+          "Bridge"
+        ],
+        [
+          "Sierra",
+          "Rippling"
+        ],
+        [
+          "Linear",
+          "Mercury"
+        ],
+        [
+          "ElevenLabs",
+          "Mercury"
+        ],
+        [
+          "ElevenLabs",
+          "Stripe"
+        ],
+        [
+          "ElevenLabs",
+          "Robinhood"
+        ],
+        [
+          "ElevenLabs",
+          "Inworld AI"
+        ],
+        [
+          "Whatnot",
+          "Stripe"
+        ],
+        [
+          "Whatnot",
+          "Klarna"
+        ],
+        [
+          "Fireworks AI",
+          "Mercury"
+        ],
+        [
+          "Anthropic",
+          "Mercury"
+        ],
+        [
+          "Anthropic",
+          "Tempo"
+        ],
+        [
+          "Anthropic",
+          "Notion"
+        ],
+        [
+          "Anthropic",
+          "FTX"
+        ],
+        [
+          "Anthropic",
+          "Stripe"
+        ],
+        [
+          "Anthropic",
+          "Ramp"
+        ],
+        [
+          "Anthropic",
+          "Sourcegraph"
+        ],
+        [
+          "Anthropic",
+          "Grafana Labs"
+        ],
+        [
+          "Anthropic",
+          "Ricursive Intelligence"
+        ],
+        [
+          "Anthropic",
+          "Harvey"
+        ],
+        [
+          "Pyramid Analytics",
+          "Kalshi"
+        ],
+        [
+          "Statsig",
+          "OpenAI"
+        ],
+        [
+          "xAI",
+          "X (formerly Twitter)"
+        ],
+        [
+          "xAI",
+          "SpaceX"
+        ],
+        [
+          "xAI",
+          "Kalshi"
+        ],
+        [
+          "xAI",
+          "Neuralink"
+        ],
+        [
+          "Glean",
+          "Notion"
+        ],
+        [
+          "Nominal",
+          "SpaceX"
+        ],
+        [
+          "Nominal",
+          "Mach Industries"
+        ],
+        [
+          "Clay",
+          "Notion"
+        ],
+        [
+          "Clay",
+          "Rippling"
+        ],
+        [
+          "Clay",
+          "Harmonic"
+        ],
+        [
+          "Mercury",
+          "Notion"
+        ],
+        [
+          "Mercury",
+          "Rippling"
+        ],
+        [
+          "Mercury",
+          "Stripe"
+        ],
+        [
+          "Mercury",
+          "Phantom"
+        ],
+        [
+          "Mercury",
+          "Ramp"
+        ],
+        [
+          "Mercury",
+          "Pilot"
+        ],
+        [
+          "Mercury",
+          "LangChain"
+        ],
+        [
+          "Mercury",
+          "OpenAI"
+        ],
+        [
+          "LogX",
+          "CoinSwitch"
+        ],
+        [
+          "Tempo",
+          "Turnkey"
+        ],
+        [
+          "Tempo",
+          "LayerZero Labs"
+        ],
+        [
+          "Tempo",
+          "Stripe"
+        ],
+        [
+          "Tempo",
+          "Bridge"
+        ],
+        [
+          "Tempo",
+          "Phantom"
+        ],
+        [
+          "Tempo",
+          "Privy"
+        ],
+        [
+          "Tempo",
+          "OpenAI"
+        ],
+        [
+          "Temporal Technologies",
+          "Stripe"
+        ],
+        [
+          "Temporal Technologies",
+          "Retool"
+        ],
+        [
+          "Temporal Technologies",
+          "Attentive"
+        ],
+        [
+          "Temporal Technologies",
+          "OpenAI"
+        ],
+        [
+          "X (formerly Twitter)",
+          "Magic"
+        ],
+        [
+          "X (formerly Twitter)",
+          "SpaceX"
+        ],
+        [
+          "X (formerly Twitter)",
+          "Neuralink"
+        ],
+        [
+          "X (formerly Twitter)",
+          "ByteDance"
+        ],
+        [
+          "Remote",
+          "Stripe"
+        ],
+        [
+          "Remote",
+          "Vanta"
+        ],
+        [
+          "Remote",
+          "Zelt"
+        ],
+        [
+          "Cyera",
+          "Wiz"
+        ],
+        [
+          "Cyera",
+          "Zafran Security"
+        ],
+        [
+          "Cyera",
+          "Island"
+        ],
+        [
+          "Animoca Brands",
+          "Forte"
+        ],
+        [
+          "Wiz",
+          "SentinelOne"
+        ],
+        [
+          "Instacart",
+          "Stripe"
+        ],
+        [
+          "Instacart",
+          "Robinhood"
+        ],
+        [
+          "Instacart",
+          "OpenAI"
+        ],
+        [
+          "LayerZero Labs",
+          "FTX"
+        ],
+        [
+          "UiPath",
+          "OpenAI"
+        ],
+        [
+          "Notion",
+          "Vanta"
+        ],
+        [
+          "Notion",
+          "Sourcegraph"
+        ],
+        [
+          "Notion",
+          "Figma"
+        ],
+        [
+          "Rippling",
+          "Ramp"
+        ],
+        [
+          "Rippling",
+          "Harvey"
+        ],
+        [
+          "Stripe",
+          "Ramp"
+        ],
+        [
+          "Stripe",
+          "Klarna"
+        ],
+        [
+          "Stripe",
+          "Robinhood"
+        ],
+        [
+          "Stripe",
+          "Hugging Face"
+        ],
+        [
+          "Stripe",
+          "OpenAI"
+        ],
+        [
+          "Ironclad",
+          "Ramp"
+        ],
+        [
+          "SpaceX",
+          "The Boring Company"
+        ],
+        [
+          "SpaceX",
+          "Neuralink"
+        ],
+        [
+          "Vanta",
+          "Ramp"
+        ],
+        [
+          "Phantom",
+          "Kalshi"
+        ],
+        [
+          "Ramp",
+          "OpenAI"
+        ],
+        [
+          "Ramp",
+          "Rillet"
+        ],
+        [
+          "Klarna",
+          "Privy"
+        ],
+        [
+          "Klarna",
+          "OpenAI"
+        ],
+        [
+          "Robinhood",
+          "Kalshi"
+        ],
+        [
+          "Robinhood",
+          "Reddit"
+        ],
+        [
+          "Kela Technologies",
+          "Flapping Airplanes"
+        ],
+        [
+          "Formation Bio",
+          "OpenAI"
+        ],
+        [
+          "Harvey",
+          "OpenAI"
+        ],
+        [
+          "Physical Intelligence",
+          "OpenAI"
+        ],
+        [
+          "Decart",
+          "Flapping Airplanes"
+        ],
+        [
+          "Juicebox",
+          "Flapping Airplanes"
+        ],
+        [
+          "OpenRouter",
+          "OpenAI"
+        ],
+        [
+          "OpenAI",
+          "Figma"
+        ],
+        [
+          "OpenAI",
+          "Reddit"
+        ]
+      ]
+    },
+    "lightspeed": {
+      "count": 71,
+      "null_mean": 47.919,
+      "null_std": 6.834,
+      "p_value": 0.0,
+      "significant": true,
+      "pairs": [
+        [
+          "1Password",
+          "Axonius"
+        ],
+        [
+          "1Password",
+          "Anthropic"
+        ],
+        [
+          "1Password",
+          "Rippling"
+        ],
+        [
+          "1Password",
+          "Stripe"
+        ],
+        [
+          "1Password",
+          "Ramp"
+        ],
+        [
+          "Beacon Software",
+          "Stripe"
+        ],
+        [
+          "Beacon Software",
+          "Ramp"
+        ],
+        [
+          "Supabase",
+          "Augment Code"
+        ],
+        [
+          "Supabase",
+          "ClickHouse"
+        ],
+        [
+          "Databricks",
+          "ThoughtSpot"
+        ],
+        [
+          "Databricks",
+          "Glean"
+        ],
+        [
+          "Databricks",
+          "Cyera"
+        ],
+        [
+          "Databricks",
+          "Ramp"
+        ],
+        [
+          "Databricks",
+          "Descope"
+        ],
+        [
+          "Databricks",
+          "ClickHouse"
+        ],
+        [
+          "Databricks",
+          "Matillion"
+        ],
+        [
+          "Databricks",
+          "Voltron Data"
+        ],
+        [
+          "Databricks",
+          "Unconventional AI"
+        ],
+        [
+          "Goodfire",
+          "Anthropic"
+        ],
+        [
+          "Augment Code",
+          "Stripe"
+        ],
+        [
+          "Trail Security",
+          "Cyera"
+        ],
+        [
+          "ElevenLabs",
+          "Stripe"
+        ],
+        [
+          "ElevenLabs",
+          "Assort Health"
+        ],
+        [
+          "ElevenLabs",
+          "Composio"
+        ],
+        [
+          "ElevenLabs",
+          "Inworld AI"
+        ],
+        [
+          "Whatnot",
+          "Stripe"
+        ],
+        [
+          "Axonius",
+          "Wiz"
+        ],
+        [
+          "Anthropic",
+          "FTX"
+        ],
+        [
+          "Anthropic",
+          "Stripe"
+        ],
+        [
+          "Anthropic",
+          "Thinking Machines Lab"
+        ],
+        [
+          "Anthropic",
+          "Ramp"
+        ],
+        [
+          "Anthropic",
+          "ClickHouse"
+        ],
+        [
+          "Anthropic",
+          "Grafana Labs"
+        ],
+        [
+          "Anthropic",
+          "Ricursive Intelligence"
+        ],
+        [
+          "Tavus",
+          "Thinking Machines Lab"
+        ],
+        [
+          "Alchemy",
+          "Gnosis"
+        ],
+        [
+          "Alchemy",
+          "Stripe"
+        ],
+        [
+          "xAI",
+          "Neuralink"
+        ],
+        [
+          "Saronic",
+          "Anduril Industries"
+        ],
+        [
+          "Periodic Labs",
+          "Thinking Machines Lab"
+        ],
+        [
+          "Nominal",
+          "Antares Therapeutics"
+        ],
+        [
+          "Nominal",
+          "Anduril Industries"
+        ],
+        [
+          "Temporal Technologies",
+          "Stripe"
+        ],
+        [
+          "Temporal Technologies",
+          "ClickHouse"
+        ],
+        [
+          "Temporal Technologies",
+          "Abridge"
+        ],
+        [
+          "Savvy",
+          "Wiz"
+        ],
+        [
+          "Cyera",
+          "Wiz"
+        ],
+        [
+          "Cyera",
+          "Cato Networks"
+        ],
+        [
+          "RedotPay",
+          "Mysten Labs"
+        ],
+        [
+          "Navan",
+          "Ramp"
+        ],
+        [
+          "Navan",
+          "Descope"
+        ],
+        [
+          "Wiz",
+          "Endor Labs"
+        ],
+        [
+          "Arrivant",
+          "Mysten Labs"
+        ],
+        [
+          "FTX",
+          "Yuga Labs"
+        ],
+        [
+          "FTX",
+          "Mysten Labs"
+        ],
+        [
+          "Cartesia",
+          "Thinking Machines Lab"
+        ],
+        [
+          "Cartesia",
+          "Daily Harvest"
+        ],
+        [
+          "Rippling",
+          "Ramp"
+        ],
+        [
+          "Stripe",
+          "Ramp"
+        ],
+        [
+          "Stripe",
+          "FTX US"
+        ],
+        [
+          "Stripe",
+          "DualEntry"
+        ],
+        [
+          "Protego Biopharma",
+          "Omega"
+        ],
+        [
+          "Thinking Machines Lab",
+          "Safe"
+        ],
+        [
+          "Ramp",
+          "DualEntry"
+        ],
+        [
+          "Ramp",
+          "Modus"
+        ],
+        [
+          "Nexus",
+          "1047 Games"
+        ],
+        [
+          "Redpanda Data",
+          "ClickHouse"
+        ],
+        [
+          "FTX US",
+          "Yuga Labs"
+        ],
+        [
+          "ClickHouse",
+          "Grafana Labs"
+        ],
+        [
+          "ClickHouse",
+          "Langfuse"
+        ],
+        [
+          "Antares Therapeutics",
+          "Omega"
+        ]
+      ]
+    },
+    "gc": {
+      "count": 61,
+      "null_mean": 41.905,
+      "null_std": 6.242,
+      "p_value": 0.0,
+      "significant": true,
+      "pairs": [
+        [
+          "Beacon Software",
+          "Stripe"
+        ],
+        [
+          "Beacon Software",
+          "Ramp"
+        ],
+        [
+          "Beacon Software",
+          "Sage Care"
+        ],
+        [
+          "Applied Intuition",
+          "Nominal"
+        ],
+        [
+          "Anduril Industries",
+          "Saronic"
+        ],
+        [
+          "Anduril Industries",
+          "Nominal"
+        ],
+        [
+          "Anduril Industries",
+          "Valinor Enterprises"
+        ],
+        [
+          "Jasper Health",
+          "Anthropic"
+        ],
+        [
+          "Securiti",
+          "Lacework"
+        ],
+        [
+          "Melio",
+          "Gusto"
+        ],
+        [
+          "Slate Auto",
+          "Re:Build"
+        ],
+        [
+          "Fivetran",
+          "ThoughtSpot"
+        ],
+        [
+          "Fivetran",
+          "Convex"
+        ],
+        [
+          "Fivetran",
+          "Stripe"
+        ],
+        [
+          "Fivetran",
+          "Ramp"
+        ],
+        [
+          "Coda",
+          "Glean"
+        ],
+        [
+          "Coda",
+          "Superhuman (formerly Grammarly)"
+        ],
+        [
+          "Anthropic",
+          "Clara"
+        ],
+        [
+          "Anthropic",
+          "Mercor"
+        ],
+        [
+          "Anthropic",
+          "Tempo"
+        ],
+        [
+          "Anthropic",
+          "Stripe"
+        ],
+        [
+          "Anthropic",
+          "Uni Cards"
+        ],
+        [
+          "Anthropic",
+          "Ramp"
+        ],
+        [
+          "Anthropic",
+          "Vercel"
+        ],
+        [
+          "Luma AI",
+          "Wonder"
+        ],
+        [
+          "Eudia",
+          "Stripe"
+        ],
+        [
+          "HarmonyCares",
+          "Hippocratic AI"
+        ],
+        [
+          "Mercor",
+          "Stripe"
+        ],
+        [
+          "Mercor",
+          "Gusto"
+        ],
+        [
+          "Pulley",
+          "Ramp"
+        ],
+        [
+          "SonderMind",
+          "Hippocratic AI"
+        ],
+        [
+          "SonderMind",
+          "Devoted Health"
+        ],
+        [
+          "Nominal",
+          "Vercel"
+        ],
+        [
+          "Tempo",
+          "Paradigm"
+        ],
+        [
+          "Tempo",
+          "Stripe"
+        ],
+        [
+          "Tempo",
+          "Agora"
+        ],
+        [
+          "Adept AI",
+          "Figma"
+        ],
+        [
+          "Paradigm",
+          "Stripe"
+        ],
+        [
+          "Paradigm",
+          "Magic"
+        ],
+        [
+          "Paradigm",
+          "Agora"
+        ],
+        [
+          "Paradigm",
+          "Kalshi"
+        ],
+        [
+          "Awardco",
+          "Deel"
+        ],
+        [
+          "Remote",
+          "Stripe"
+        ],
+        [
+          "Remote",
+          "Gusto"
+        ],
+        [
+          "Deel",
+          "Magic Circle Studio"
+        ],
+        [
+          "Cartesia",
+          "Together AI"
+        ],
+        [
+          "Stripe",
+          "Rapyd"
+        ],
+        [
+          "Stripe",
+          "Ramp"
+        ],
+        [
+          "Stripe",
+          "Vercel"
+        ],
+        [
+          "Spinny",
+          "Uni Cards"
+        ],
+        [
+          "Uni Cards",
+          "Zepto"
+        ],
+        [
+          "Ramp",
+          "Gusto"
+        ],
+        [
+          "Ramp",
+          "Vercel"
+        ],
+        [
+          "Ramp",
+          "Heyday"
+        ],
+        [
+          "Valinor Enterprises",
+          "Harbor Health"
+        ],
+        [
+          "Together AI",
+          "Vercel"
+        ],
+        [
+          "Rippl Care",
+          "Harbor Health"
+        ],
+        [
+          "Zarminali Health",
+          "Commure"
+        ],
+        [
+          "Zarminali Health",
+          "Ladder"
+        ],
+        [
+          "Vercel",
+          "Neon"
+        ],
+        [
+          "Mount",
+          "Transcarent"
+        ]
+      ]
+    },
+    "accel": {
+      "count": 55,
+      "null_mean": 36.847,
+      "null_std": 5.922,
+      "p_value": 0.005,
+      "significant": true,
+      "pairs": [
+        [
+          "BrowserStack",
+          "Bird"
+        ],
+        [
+          "Mind Robotics",
+          "Eclipse"
+        ],
+        [
+          "1Password",
+          "Axonius"
+        ],
+        [
+          "1Password",
+          "Anthropic"
+        ],
+        [
+          "1Password",
+          "Tines"
+        ],
+        [
+          "1Password",
+          "Vercel"
+        ],
+        [
+          "Personio",
+          "Remote"
+        ],
+        [
+          "Legora",
+          "Bird"
+        ],
+        [
+          "Supabase",
+          "Vercel"
+        ],
+        [
+          "Supabase",
+          "Lovable"
+        ],
+        [
+          "Ledger Investing",
+          "CoinTracker"
+        ],
+        [
+          "Sentry",
+          "Airbyte"
+        ],
+        [
+          "Sentry",
+          "Vercel"
+        ],
+        [
+          "Jiraaf",
+          "Uni Cards"
+        ],
+        [
+          "Linear",
+          "Airbyte"
+        ],
+        [
+          "Linear",
+          "Anysphere"
+        ],
+        [
+          "Linear",
+          "Lovable"
+        ],
+        [
+          "Veza",
+          "Cyera"
+        ],
+        [
+          "Sky Mavis",
+          "Nansen"
+        ],
+        [
+          "Sky Mavis",
+          "Animoca Brands"
+        ],
+        [
+          "Anthropic",
+          "Higgsfield"
+        ],
+        [
+          "Anthropic",
+          "Scale"
+        ],
+        [
+          "Anthropic",
+          "Uni Cards"
+        ],
+        [
+          "Anthropic",
+          "Anysphere"
+        ],
+        [
+          "Anthropic",
+          "Vercel"
+        ],
+        [
+          "Anthropic",
+          "Thinking Machines Lab"
+        ],
+        [
+          "Tavus",
+          "Thinking Machines Lab"
+        ],
+        [
+          "Gopuff",
+          "Misfits Market"
+        ],
+        [
+          "Checkly",
+          "Vercel"
+        ],
+        [
+          "Periodic Labs",
+          "Thinking Machines Lab"
+        ],
+        [
+          "Airbyte",
+          "Tailscale"
+        ],
+        [
+          "Airbyte",
+          "Vercel"
+        ],
+        [
+          "Airbyte",
+          "Klaviyo"
+        ],
+        [
+          "Airbyte",
+          "Perplexity"
+        ],
+        [
+          "Airbyte",
+          "Snyk"
+        ],
+        [
+          "G2",
+          "Remote"
+        ],
+        [
+          "Chaos",
+          "Scale"
+        ],
+        [
+          "Remote",
+          "Zelt"
+        ],
+        [
+          "Cyera",
+          "Tines"
+        ],
+        [
+          "Scale",
+          "Thinking Machines Lab"
+        ],
+        [
+          "FalconX",
+          "Uni Cards"
+        ],
+        [
+          "Spinny",
+          "Uni Cards"
+        ],
+        [
+          "CoinTracker",
+          "Chainalysis"
+        ],
+        [
+          "Uni Cards",
+          "Infra.Market"
+        ],
+        [
+          "Uni Cards",
+          "NiYO Solutions"
+        ],
+        [
+          "Uni Cards",
+          "Credgenics"
+        ],
+        [
+          "Effectiv",
+          "Socure"
+        ],
+        [
+          "Graphite",
+          "Anysphere"
+        ],
+        [
+          "Public",
+          "Socure"
+        ],
+        [
+          "Checkr",
+          "Socure"
+        ],
+        [
+          "Productiv",
+          "Miro"
+        ],
+        [
+          "Vercel",
+          "Perplexity"
+        ],
+        [
+          "Vercel",
+          "Lovable"
+        ],
+        [
+          "Perplexity",
+          "Thinking Machines Lab"
+        ],
+        [
+          "RingCentral Events",
+          "Miro"
+        ]
+      ]
+    },
+    "ff": {
+      "count": 38,
+      "null_mean": 12.45,
+      "null_std": 3.536,
+      "p_value": 0.0,
+      "significant": true,
+      "pairs": [
+        [
+          "Varda",
+          "SpaceX"
+        ],
+        [
+          "Varda",
+          "Hadrian"
+        ],
+        [
+          "Regent",
+          "Hadrian"
+        ],
+        [
+          "Seed Health",
+          "Quince"
+        ],
+        [
+          "Neuralink",
+          "SpaceX"
+        ],
+        [
+          "Crusoe",
+          "OpenAI"
+        ],
+        [
+          "Anduril Industries",
+          "Scale"
+        ],
+        [
+          "Anduril Industries",
+          "Impulse Space"
+        ],
+        [
+          "Anduril Industries",
+          "OpenAI"
+        ],
+        [
+          "Anduril Industries",
+          "Hadrian"
+        ],
+        [
+          "Anduril Industries",
+          "Valinor Enterprises"
+        ],
+        [
+          "Anduril Industries",
+          "Nominal"
+        ],
+        [
+          "Newfront",
+          "Nominal"
+        ],
+        [
+          "Cognition",
+          "OpenAI"
+        ],
+        [
+          "Scale",
+          "Flexport"
+        ],
+        [
+          "Scale",
+          "Stripe"
+        ],
+        [
+          "Scale",
+          "Anthropic"
+        ],
+        [
+          "Scale",
+          "OpenAI"
+        ],
+        [
+          "Flexport",
+          "Stripe"
+        ],
+        [
+          "Dirac",
+          "Hadrian"
+        ],
+        [
+          "Stripe",
+          "Wave Mobile Money"
+        ],
+        [
+          "Stripe",
+          "Anthropic"
+        ],
+        [
+          "Stripe",
+          "OpenAI"
+        ],
+        [
+          "Stripe",
+          "Affirm"
+        ],
+        [
+          "Stripe",
+          "Ramp"
+        ],
+        [
+          "Lagrange Labs",
+          "Sentient"
+        ],
+        [
+          "Rippling",
+          "Ramp"
+        ],
+        [
+          "Anthropic",
+          "Ramp"
+        ],
+        [
+          "Open Mind",
+          "Sentient"
+        ],
+        [
+          "Speak",
+          "OpenAI"
+        ],
+        [
+          "SpaceX",
+          "The Boring Company"
+        ],
+        [
+          "SpaceX",
+          "Hadrian"
+        ],
+        [
+          "SpaceX",
+          "Nominal"
+        ],
+        [
+          "Tactic",
+          "Ramp"
+        ],
+        [
+          "Hermeus",
+          "Nominal"
+        ],
+        [
+          "OpenAI",
+          "Ramp"
+        ],
+        [
+          "Pulley",
+          "Ramp"
+        ],
+        [
+          "Hadrian",
+          "Valinor Enterprises"
+        ]
+      ]
+    },
+    "lux": {
+      "count": 17,
+      "null_mean": 8.272,
+      "null_std": 2.909,
+      "p_value": 0.006,
+      "significant": true,
+      "pairs": [
+        [
+          "Cambridge Aerospace",
+          "Anduril Industries"
+        ],
+        [
+          "Together AI",
+          "LangChain"
+        ],
+        [
+          "Impulse",
+          "Hadrian"
+        ],
+        [
+          "Impulse",
+          "Anduril Industries"
+        ],
+        [
+          "Saildrone",
+          "Nominal"
+        ],
+        [
+          "Databricks",
+          "Unconventional AI"
+        ],
+        [
+          "Databricks",
+          "Ramp"
+        ],
+        [
+          "Applied Intuition",
+          "Nominal"
+        ],
+        [
+          "Creyon Bio",
+          "Cajal Neuroscience"
+        ],
+        [
+          "Impulse Space",
+          "Anduril Industries"
+        ],
+        [
+          "FTX",
+          "Vosbor"
+        ],
+        [
+          "Varda",
+          "Hadrian"
+        ],
+        [
+          "Ironclad",
+          "Ramp"
+        ],
+        [
+          "Tactic",
+          "Ramp"
+        ],
+        [
+          "Apex",
+          "Anduril Industries"
+        ],
+        [
+          "Hadrian",
+          "Anduril Industries"
+        ],
+        [
+          "Nominal",
+          "Anduril Industries"
+        ]
+      ]
+    },
+    "8vc": {
+      "count": 12,
+      "null_mean": 7.831,
+      "null_std": 2.795,
+      "p_value": 0.102,
+      "significant": false,
+      "pairs": [
+        [
+          "Cellares",
+          "Kite AI"
+        ],
+        [
+          "Chaos",
+          "ICON"
+        ],
+        [
+          "Chaos",
+          "Saronic"
+        ],
+        [
+          "Dagster",
+          "Airbyte"
+        ],
+        [
+          "Seed Health",
+          "Quince"
+        ],
+        [
+          "Altos Labs",
+          "Resilience"
+        ],
+        [
+          "Sila",
+          "Alloy Therapeutics"
+        ],
+        [
+          "Apex",
+          "Anduril Industries"
+        ],
+        [
+          "Saronic",
+          "Anduril Industries"
+        ],
+        [
+          "Pulley",
+          "Ramp"
+        ],
+        [
+          "Airbyte",
+          "Vercel"
+        ],
+        [
+          "Ramp",
+          "Vercel"
+        ]
+      ]
+    },
+    "kp": {
+      "count": 7,
+      "null_mean": 7.798,
+      "null_std": 2.73,
+      "p_value": 0.664,
+      "significant": false,
+      "pairs": [
+        [
+          "Together AI",
+          "Cartesia"
+        ],
+        [
+          "Tally",
+          "Parallel"
+        ],
+        [
+          "RudderStack",
+          "Databricks"
+        ],
+        [
+          "CesiumAstro",
+          "Arena"
+        ],
+        [
+          "Databricks",
+          "Glean"
+        ],
+        [
+          "Harvey",
+          "Rippling"
+        ],
+        [
+          "Coda",
+          "Glean"
+        ]
+      ]
+    }
+  },
+  "coinvestment": {
+    "pairs": [
+      {
+        "vc_a": "a16z",
+        "vc_b": "sequoia",
+        "shared_count": 35,
+        "jaccard": 0.1301,
+        "companies": [
+          "CoinSwitch",
+          "Cresta",
+          "DeSo Foundation",
+          "ElevenLabs",
+          "Fal",
+          "Figma",
+          "Formation Bio",
+          "Forte",
+          "Harvey",
+          "Hex Technologies",
+          "Inferact",
+          "Instacart",
+          "Kalshi",
+          "LayerZero Labs",
+          "Mercury",
+          "OpenAI",
+          "OpenRouter",
+          "Phantom",
+          "Rappi",
+          "Reddit",
+          "Replicate",
+          "Rillet",
+          "Robinhood",
+          "Safe Superintelligence",
+          "Sourcegraph",
+          "SpaceX",
+          "Stripe",
+          "Temporal Technologies",
+          "Unconventional AI",
+          "Waymo",
+          "Whatnot",
+          "Wiz",
+          "X (formerly Twitter)",
+          "dbt Labs",
+          "xAI"
+        ]
+      },
+      {
+        "vc_a": "lightspeed",
+        "vc_b": "sequoia",
+        "shared_count": 29,
+        "jaccard": 0.1278,
+        "companies": [
+          "Anthropic",
+          "Cyera",
+          "ElevenLabs",
+          "FTX",
+          "Faire",
+          "Fireworks AI",
+          "Glean",
+          "Grafana Labs",
+          "Inferact",
+          "Inworld AI",
+          "Mithril",
+          "Neuralink",
+          "Nominal",
+          "Phantom",
+          "Ramp",
+          "Reflection AI",
+          "Ricursive Intelligence",
+          "Rippling",
+          "Safe Superintelligence",
+          "Skild AI",
+          "Stripe",
+          "Tavus",
+          "Temporal Technologies",
+          "Unconventional AI",
+          "Verkada",
+          "Whatnot",
+          "Wiz",
+          "Xaira Therapeutics",
+          "xAI"
+        ]
+      },
+      {
+        "vc_a": "lightspeed",
+        "vc_b": "a16z",
+        "shared_count": 25,
+        "jaccard": 0.089,
+        "companies": [
+          "Abridge",
+          "Alchemy",
+          "Anduril Industries",
+          "Arena",
+          "Base Power",
+          "Castelion",
+          "ClickUp",
+          "Databricks",
+          "ElevenLabs",
+          "Inferact",
+          "Moment",
+          "Mysten Labs",
+          "Navan",
+          "Nexthop AI",
+          "Periodic Labs",
+          "Phantom",
+          "Safe Superintelligence",
+          "Saronic",
+          "Stripe",
+          "Temporal Technologies",
+          "Thinking Machines Lab",
+          "Unconventional AI",
+          "Whatnot",
+          "Wiz",
+          "xAI"
+        ]
+      },
+      {
+        "vc_a": "lightspeed",
+        "vc_b": "gc",
+        "shared_count": 19,
+        "jaccard": 0.0823,
+        "companies": [
+          "Anduril Industries",
+          "Anthropic",
+          "Beacon Software",
+          "Cartesia",
+          "Castelion",
+          "Glean",
+          "Neko Health",
+          "Nexus",
+          "Nominal",
+          "Pacific Fusion",
+          "Ramp",
+          "Resilience",
+          "Saronic",
+          "Skild AI",
+          "Stripe",
+          "Substrate",
+          "ThoughtSpot",
+          "Verkada",
+          "Zepto"
+        ]
+      },
+      {
+        "vc_a": "a16z",
+        "vc_b": "gc",
+        "shared_count": 18,
+        "jaccard": 0.0643,
+        "companies": [
+          "Anduril Industries",
+          "Applied Intuition",
+          "Black Forest Labs",
+          "Castelion",
+          "Convex",
+          "Current",
+          "Deel",
+          "Devoted Health",
+          "Figma",
+          "Fivetran",
+          "Hippocratic AI",
+          "Kalshi",
+          "Kavak",
+          "Luma AI",
+          "RingCentral Events",
+          "Saronic",
+          "Stripe",
+          "Thatch"
+        ]
+      },
+      {
+        "vc_a": "a16z",
+        "vc_b": "kp",
+        "shared_count": 16,
+        "jaccard": 0.0751,
+        "companies": [
+          "Ambience Healthcare",
+          "Applied Intuition",
+          "Arena",
+          "Databricks",
+          "Fal",
+          "Figma",
+          "Flock Safety",
+          "Harvey",
+          "Hippocratic AI",
+          "Nexthop AI",
+          "Pillar",
+          "Plaid",
+          "PlanetScale",
+          "Saronic",
+          "Tally",
+          "Waymo"
+        ]
+      },
+      {
+        "vc_a": "gc",
+        "vc_b": "ff",
+        "shared_count": 15,
+        "jaccard": 0.0872,
+        "companies": [
+          "Anduril Industries",
+          "Anthropic",
+          "Elemy",
+          "Kavak",
+          "Loop",
+          "Neon",
+          "Nominal",
+          "Polymarket",
+          "Pulley",
+          "Ramp",
+          "Resilience",
+          "Stripe",
+          "Substrate",
+          "Valinor Enterprises",
+          "Varda"
+        ]
+      },
+      {
+        "vc_a": "sequoia",
+        "vc_b": "gc",
+        "shared_count": 14,
+        "jaccard": 0.0598,
+        "companies": [
+          "Anthropic",
+          "Clay",
+          "Figma",
+          "Glean",
+          "Kalshi",
+          "Magic",
+          "Nominal",
+          "Physical Intelligence",
+          "Ramp",
+          "Remote",
+          "Skild AI",
+          "Stripe",
+          "Tempo",
+          "Verkada"
+        ]
+      },
+      {
+        "vc_a": "sequoia",
+        "vc_b": "ff",
+        "shared_count": 14,
+        "jaccard": 0.0782,
+        "companies": [
+          "Anthropic",
+          "CUE Labs",
+          "Faire",
+          "Inworld AI",
+          "Neuralink",
+          "Nominal",
+          "OpenAI",
+          "Ramp",
+          "Rippling",
+          "SpaceX",
+          "StarkWare Industries",
+          "Stripe",
+          "The Boring Company",
+          "Trade Republic"
+        ]
+      },
+      {
+        "vc_a": "lux",
+        "vc_b": "gc",
+        "shared_count": 13,
+        "jaccard": 0.0802,
+        "companies": [
+          "Anduril Industries",
+          "Applied Intuition",
+          "Black Forest Labs",
+          "Cloaked",
+          "Eikon Therapeutics",
+          "Nominal",
+          "Paradigm",
+          "Physical Intelligence",
+          "Ramp",
+          "Resilience",
+          "Thatch",
+          "Together AI",
+          "Varda"
+        ]
+      },
+      {
+        "vc_a": "accel",
+        "vc_b": "sequoia",
+        "shared_count": 13,
+        "jaccard": 0.057,
+        "companies": [
+          "Animoca Brands",
+          "Anthropic",
+          "Beam",
+          "Cyera",
+          "Ironclad",
+          "Linear",
+          "Oasis Security",
+          "Remote",
+          "Tavus",
+          "Tessian",
+          "Trade Republic",
+          "Zelt",
+          "n8n"
+        ]
+      },
+      {
+        "vc_a": "lightspeed",
+        "vc_b": "accel",
+        "shared_count": 12,
+        "jaccard": 0.0519,
+        "companies": [
+          "1Password",
+          "Anthropic",
+          "Armadin Security",
+          "Axonius",
+          "Cyera",
+          "FalconX",
+          "Periodic Labs",
+          "Personio",
+          "RedotPay",
+          "Supabase",
+          "Tavus",
+          "Thinking Machines Lab"
+        ]
+      },
+      {
+        "vc_a": "lightspeed",
+        "vc_b": "ff",
+        "shared_count": 12,
+        "jaccard": 0.0656,
+        "companies": [
+          "Anduril Industries",
+          "Anthropic",
+          "Arena",
+          "Faire",
+          "Inworld AI",
+          "Neuralink",
+          "Nominal",
+          "Ramp",
+          "Resilience",
+          "Rippling",
+          "Stripe",
+          "Substrate"
+        ]
+      },
+      {
+        "vc_a": "a16z",
+        "vc_b": "accel",
+        "shared_count": 12,
+        "jaccard": 0.043,
+        "companies": [
+          "Anysphere",
+          "Atlas",
+          "Decagon",
+          "Gamma",
+          "Graphite",
+          "Mind Robotics",
+          "Nansen",
+          "Periodic Labs",
+          "Rasa",
+          "RingCentral Events",
+          "Sky Mavis",
+          "Thinking Machines Lab"
+        ]
+      },
+      {
+        "vc_a": "lux",
+        "vc_b": "sequoia",
+        "shared_count": 12,
+        "jaccard": 0.071,
+        "companies": [
+          "Applied Compute",
+          "FTX",
+          "Hugging Face",
+          "Ironclad",
+          "Juicebox",
+          "Kela Technologies",
+          "LangChain",
+          "Nominal",
+          "Physical Intelligence",
+          "Ramp",
+          "Unconventional AI",
+          "Xaira Therapeutics"
+        ]
+      },
+      {
+        "vc_a": "accel",
+        "vc_b": "gc",
+        "shared_count": 12,
+        "jaccard": 0.0538,
+        "companies": [
+          "Anthropic",
+          "CoinTracker",
+          "Kernel",
+          "Legora",
+          "Melio",
+          "Remote",
+          "RingCentral Events",
+          "Spinny",
+          "Tandem",
+          "Uni Cards",
+          "Vercel",
+          "Wonder"
+        ]
+      },
+      {
+        "vc_a": "8vc",
+        "vc_b": "gc",
+        "shared_count": 12,
+        "jaccard": 0.0741,
+        "companies": [
+          "Anduril Industries",
+          "Cityblock Health",
+          "Commure",
+          "Elemy",
+          "Harbor Health",
+          "Kite AI",
+          "Loop",
+          "Pulley",
+          "Ramp",
+          "Resilience",
+          "Saronic",
+          "Vercel"
+        ]
+      },
+      {
+        "vc_a": "sequoia",
+        "vc_b": "kp",
+        "shared_count": 12,
+        "jaccard": 0.0719,
+        "companies": [
+          "Applied Compute",
+          "Beam",
+          "Fal",
+          "Figma",
+          "Glean",
+          "Harmonic",
+          "Harvey",
+          "Inworld AI",
+          "Koala",
+          "OpenEvidence",
+          "Rippling",
+          "Waymo"
+        ]
+      },
+      {
+        "vc_a": "lightspeed",
+        "vc_b": "kp",
+        "shared_count": 11,
+        "jaccard": 0.0647,
+        "companies": [
+          "Arena",
+          "Armadin Security",
+          "Cartesia",
+          "Databricks",
+          "Glean",
+          "Inworld AI",
+          "Materialize",
+          "Nexthop AI",
+          "Rain",
+          "Rippling",
+          "Saronic"
+        ]
+      },
+      {
+        "vc_a": "a16z",
+        "vc_b": "lux",
+        "shared_count": 11,
+        "jaccard": 0.05,
+        "companies": [
+          "11x AI",
+          "Anchorage Digital",
+          "Anduril Industries",
+          "Apex",
+          "Applied Intuition",
+          "Black Forest Labs",
+          "Databricks",
+          "Dyno Therapeutics",
+          "Hadrian",
+          "Thatch",
+          "Unconventional AI"
+        ]
+      },
+      {
+        "vc_a": "a16z",
+        "vc_b": "ff",
+        "shared_count": 11,
+        "jaccard": 0.0474,
+        "companies": [
+          "Anduril Industries",
+          "Arena",
+          "Dynamic Labs",
+          "Flexport",
+          "Flock Safety",
+          "Hadrian",
+          "Kavak",
+          "OpenAI",
+          "Radiant",
+          "SpaceX",
+          "Stripe"
+        ]
+      },
+      {
+        "vc_a": "8vc",
+        "vc_b": "ff",
+        "shared_count": 11,
+        "jaccard": 0.1019,
+        "companies": [
+          "Alloy Therapeutics",
+          "Anduril Industries",
+          "Cognition",
+          "Elemy",
+          "Loop",
+          "Pulley",
+          "Quince",
+          "Ramp",
+          "Resilience",
+          "Seed Health",
+          "The Boring Company"
+        ]
+      },
+      {
+        "vc_a": "lux",
+        "vc_b": "ff",
+        "shared_count": 10,
+        "jaccard": 0.0909,
+        "companies": [
+          "Anduril Industries",
+          "Cognition",
+          "Hadrian",
+          "Impulse Space",
+          "Nominal",
+          "Primer",
+          "Ramp",
+          "Resilience",
+          "Tactic",
+          "Varda"
+        ]
+      },
+      {
+        "vc_a": "gc",
+        "vc_b": "kp",
+        "shared_count": 10,
+        "jaccard": 0.0613,
+        "companies": [
+          "Applied Intuition",
+          "Cartesia",
+          "Coda",
+          "Figma",
+          "Glean",
+          "Hippocratic AI",
+          "Nova Credit",
+          "Saronic",
+          "Together AI",
+          "Transcarent"
+        ]
+      },
+      {
+        "vc_a": "lightspeed",
+        "vc_b": "lux",
+        "shared_count": 9,
+        "jaccard": 0.0517,
+        "companies": [
+          "Anduril Industries",
+          "Databricks",
+          "FTX",
+          "Fiddler Labs",
+          "Nominal",
+          "Ramp",
+          "Resilience",
+          "Unconventional AI",
+          "Xaira Therapeutics"
+        ]
+      },
+      {
+        "vc_a": "lightspeed",
+        "vc_b": "8vc",
+        "shared_count": 6,
+        "jaccard": 0.0341,
+        "companies": [
+          "Anduril Industries",
+          "Armadin Security",
+          "Materialize",
+          "Ramp",
+          "Resilience",
+          "Saronic"
+        ]
+      },
+      {
+        "vc_a": "lux",
+        "vc_b": "8vc",
+        "shared_count": 6,
+        "jaccard": 0.0594,
+        "companies": [
+          "Anduril Industries",
+          "Apex",
+          "Cognition",
+          "Mendra",
+          "Ramp",
+          "Resilience"
+        ]
+      },
+      {
+        "vc_a": "ff",
+        "vc_b": "kp",
+        "shared_count": 6,
+        "jaccard": 0.0536,
+        "companies": [
+          "Arena",
+          "Flock Safety",
+          "Garner Health",
+          "Inworld AI",
+          "Modern Health",
+          "Rippling"
+        ]
+      },
+      {
+        "vc_a": "accel",
+        "vc_b": "ff",
+        "shared_count": 5,
+        "jaccard": 0.0286,
+        "companies": [
+          "Anthropic",
+          "Primer",
+          "Scale",
+          "Speak",
+          "Trade Republic"
+        ]
+      },
+      {
+        "vc_a": "lux",
+        "vc_b": "accel",
+        "shared_count": 4,
+        "jaccard": 0.0244,
+        "companies": [
+          "Cambridge Aerospace",
+          "Ironclad",
+          "Primer",
+          "Tines"
+        ]
+      },
+      {
+        "vc_a": "lux",
+        "vc_b": "kp",
+        "shared_count": 4,
+        "jaccard": 0.0392,
+        "companies": [
+          "Applied Compute",
+          "Applied Intuition",
+          "Databricks",
+          "Together AI"
+        ]
+      },
+      {
+        "vc_a": "accel",
+        "vc_b": "8vc",
+        "shared_count": 4,
+        "jaccard": 0.0245,
+        "companies": [
+          "Airbyte",
+          "Armadin Security",
+          "Chaos",
+          "Vercel"
+        ]
+      },
+      {
+        "vc_a": "8vc",
+        "vc_b": "sequoia",
+        "shared_count": 4,
+        "jaccard": 0.0227,
+        "companies": [
+          "AMP",
+          "Dagster",
+          "Ramp",
+          "The Boring Company"
+        ]
+      },
+      {
+        "vc_a": "a16z",
+        "vc_b": "8vc",
+        "shared_count": 3,
+        "jaccard": 0.0132,
+        "companies": [
+          "Anduril Industries",
+          "Apex",
+          "Saronic"
+        ]
+      },
+      {
+        "vc_a": "accel",
+        "vc_b": "kp",
+        "shared_count": 3,
+        "jaccard": 0.0184,
+        "companies": [
+          "Armadin Security",
+          "Beam",
+          "Synthesia"
+        ]
+      },
+      {
+        "vc_a": "8vc",
+        "vc_b": "kp",
+        "shared_count": 3,
+        "jaccard": 0.0294,
+        "companies": [
+          "Armadin Security",
+          "Materialize",
+          "Saronic"
+        ]
+      }
+    ],
+    "weighted_degree": {
+      "sequoia": 133,
+      "a16z": 131,
+      "lightspeed": 123,
+      "gc": 113,
+      "ff": 84,
+      "lux": 69,
+      "kp": 65,
+      "accel": 65,
+      "8vc": 49
+    }
+  },
+  "talent_pipeline": {
+    "8vc": {
+      "portfolio_size": 53,
+      "total_links": 35,
+      "internal": 4,
+      "rate": 0.1143,
+      "p_value": 0.3409,
+      "significant": false,
+      "flows": [
+        {
+          "startup": "Cityblock Health",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Mendra",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Chaos",
+          "prior_employer": "Epirus",
+          "internal": true
+        },
+        {
+          "startup": "Chaos",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Chaos",
+          "prior_employer": "Formation",
+          "internal": false
+        },
+        {
+          "startup": "Chaos",
+          "prior_employer": "OpenAI",
+          "internal": false
+        },
+        {
+          "startup": "Bedrock Robotics",
+          "prior_employer": "Waymo",
+          "internal": false
+        },
+        {
+          "startup": "Bedrock Robotics",
+          "prior_employer": "Uber",
+          "internal": false
+        },
+        {
+          "startup": "Immunai",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Immunai",
+          "prior_employer": "Amazon",
+          "internal": false
+        },
+        {
+          "startup": "Immunai",
+          "prior_employer": "Gloat",
+          "internal": false
+        },
+        {
+          "startup": "Armadin Security",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Opto Investments",
+          "prior_employer": "Addepar",
+          "internal": true
+        },
+        {
+          "startup": "Opto Investments",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Cognition",
+          "prior_employer": "Scale",
+          "internal": false
+        },
+        {
+          "startup": "Cognition",
+          "prior_employer": "Addepar",
+          "internal": true
+        },
+        {
+          "startup": "Cognition",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Cognition",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Cognition",
+          "prior_employer": "Modal Labs",
+          "internal": false
+        },
+        {
+          "startup": "Tul",
+          "prior_employer": "Rappi",
+          "internal": false
+        },
+        {
+          "startup": "Tul",
+          "prior_employer": "Uber",
+          "internal": false
+        },
+        {
+          "startup": "Augment",
+          "prior_employer": "Amazon",
+          "internal": false
+        },
+        {
+          "startup": "Augment",
+          "prior_employer": "Deliverr",
+          "internal": true
+        },
+        {
+          "startup": "Augment",
+          "prior_employer": "Shopify",
+          "internal": false
+        },
+        {
+          "startup": "Augment",
+          "prior_employer": "Flexport",
+          "internal": false
+        },
+        {
+          "startup": "Sila",
+          "prior_employer": "Tesla",
+          "internal": false
+        },
+        {
+          "startup": "ICON",
+          "prior_employer": "Treehouse",
+          "internal": false
+        },
+        {
+          "startup": "ICON",
+          "prior_employer": "Vesta",
+          "internal": false
+        },
+        {
+          "startup": "Resilience",
+          "prior_employer": "Uber",
+          "internal": false
+        },
+        {
+          "startup": "The Boring Company",
+          "prior_employer": "SpaceX",
+          "internal": false
+        },
+        {
+          "startup": "The Boring Company",
+          "prior_employer": "Tesla",
+          "internal": false
+        },
+        {
+          "startup": "The Boring Company",
+          "prior_employer": "PayPal",
+          "internal": false
+        },
+        {
+          "startup": "Anduril Industries",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Anduril Industries",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Anduril Industries",
+          "prior_employer": "Mithril",
+          "internal": false
+        }
+      ]
+    },
+    "a16z": {
+      "portfolio_size": 177,
+      "total_links": 135,
+      "internal": 24,
+      "rate": 0.1778,
+      "p_value": 0.9994,
+      "significant": false,
+      "flows": [
+        {
+          "startup": "Aptos",
+          "prior_employer": "Meta",
+          "internal": false
+        },
+        {
+          "startup": "Aptos",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Aptos",
+          "prior_employer": "Diem",
+          "internal": false
+        },
+        {
+          "startup": "Mind Robotics",
+          "prior_employer": "Physical Intelligence",
+          "internal": false
+        },
+        {
+          "startup": "Mind Robotics",
+          "prior_employer": "Waymo",
+          "internal": true
+        },
+        {
+          "startup": "Mind Robotics",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Castelion",
+          "prior_employer": "SpaceX",
+          "internal": true
+        },
+        {
+          "startup": "Applied Intuition",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Applied Intuition",
+          "prior_employer": "NVIDIA",
+          "internal": false
+        },
+        {
+          "startup": "Applied Intuition",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Databricks",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Replit",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Sky Mavis",
+          "prior_employer": "Anduin",
+          "internal": false
+        },
+        {
+          "startup": "ElevenLabs",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "ElevenLabs",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "ElevenLabs",
+          "prior_employer": "Tessian",
+          "internal": false
+        },
+        {
+          "startup": "Whatnot",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Whatnot",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Whatnot",
+          "prior_employer": "The Zebra",
+          "internal": false
+        },
+        {
+          "startup": "Luma AI",
+          "prior_employer": "Apple",
+          "internal": false
+        },
+        {
+          "startup": "Alchemy",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Alchemy",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Alchemy",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Alchemy",
+          "prior_employer": "LinkedIn",
+          "internal": false
+        },
+        {
+          "startup": "Flock Safety",
+          "prior_employer": "Clutch",
+          "internal": true
+        },
+        {
+          "startup": "Flock Safety",
+          "prior_employer": "Moment",
+          "internal": true
+        },
+        {
+          "startup": "xAI",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "xAI",
+          "prior_employer": "OpenAI",
+          "internal": true
+        },
+        {
+          "startup": "xAI",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "xAI",
+          "prior_employer": "Tesla",
+          "internal": false
+        },
+        {
+          "startup": "xAI",
+          "prior_employer": "X (formerly Twitter)",
+          "internal": true
+        },
+        {
+          "startup": "xAI",
+          "prior_employer": "Airbnb",
+          "internal": false
+        },
+        {
+          "startup": "Periodic Labs",
+          "prior_employer": "OpenAI",
+          "internal": true
+        },
+        {
+          "startup": "Periodic Labs",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Periodic Labs",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Character.ai",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Character.ai",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Aleo",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Aleo",
+          "prior_employer": "Gnosis",
+          "internal": false
+        },
+        {
+          "startup": "Aleo",
+          "prior_employer": "Amazon",
+          "internal": false
+        },
+        {
+          "startup": "Aleo",
+          "prior_employer": "Uber",
+          "internal": false
+        },
+        {
+          "startup": "Waymo",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Mercury",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Mercury",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Mercury",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Mercury",
+          "prior_employer": "ByteDance",
+          "internal": false
+        },
+        {
+          "startup": "Mercury",
+          "prior_employer": "Uber",
+          "internal": false
+        },
+        {
+          "startup": "Mercury",
+          "prior_employer": "Airbnb",
+          "internal": false
+        },
+        {
+          "startup": "Mercury",
+          "prior_employer": "Stripe",
+          "internal": true
+        },
+        {
+          "startup": "Idrx",
+          "prior_employer": "EQRx",
+          "internal": true
+        },
+        {
+          "startup": "Idrx",
+          "prior_employer": "Relay",
+          "internal": true
+        },
+        {
+          "startup": "Hippocratic AI",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Hippocratic AI",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Hippocratic AI",
+          "prior_employer": "Amazon",
+          "internal": false
+        },
+        {
+          "startup": "Hippocratic AI",
+          "prior_employer": "NVIDIA",
+          "internal": false
+        },
+        {
+          "startup": "Mariana Minerals",
+          "prior_employer": "Tesla",
+          "internal": false
+        },
+        {
+          "startup": "Mariana Minerals",
+          "prior_employer": "Affirm",
+          "internal": false
+        },
+        {
+          "startup": "Mariana Minerals",
+          "prior_employer": "Kite AI",
+          "internal": false
+        },
+        {
+          "startup": "Temporal Technologies",
+          "prior_employer": "Amazon",
+          "internal": false
+        },
+        {
+          "startup": "Temporal Technologies",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Temporal Technologies",
+          "prior_employer": "Uber",
+          "internal": false
+        },
+        {
+          "startup": "Temporal Technologies",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "X (formerly Twitter)",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Black Forest Labs",
+          "prior_employer": "Stability AI",
+          "internal": false
+        },
+        {
+          "startup": "Wiz",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Wiz",
+          "prior_employer": "Unit",
+          "internal": false
+        },
+        {
+          "startup": "Flexport",
+          "prior_employer": "Amazon",
+          "internal": false
+        },
+        {
+          "startup": "Base Power",
+          "prior_employer": "SpaceX",
+          "internal": true
+        },
+        {
+          "startup": "Base Power",
+          "prior_employer": "Anduril Industries",
+          "internal": true
+        },
+        {
+          "startup": "Exowatt",
+          "prior_employer": "Tesla",
+          "internal": false
+        },
+        {
+          "startup": "Exowatt",
+          "prior_employer": "Atomic Industries",
+          "internal": false
+        },
+        {
+          "startup": "Inceptive",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Nexthop AI",
+          "prior_employer": "Cisco",
+          "internal": false
+        },
+        {
+          "startup": "Nexthop AI",
+          "prior_employer": "NVIDIA",
+          "internal": false
+        },
+        {
+          "startup": "Function Health",
+          "prior_employer": "Meta",
+          "internal": false
+        },
+        {
+          "startup": "Safe Superintelligence",
+          "prior_employer": "OpenAI",
+          "internal": true
+        },
+        {
+          "startup": "Safe Superintelligence",
+          "prior_employer": "Apple",
+          "internal": false
+        },
+        {
+          "startup": "Safe Superintelligence",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Safe Superintelligence",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Safe Superintelligence",
+          "prior_employer": "Meta",
+          "internal": false
+        },
+        {
+          "startup": "Safe Superintelligence",
+          "prior_employer": "CUE Labs",
+          "internal": false
+        },
+        {
+          "startup": "Thinking Machines Lab",
+          "prior_employer": "OpenAI",
+          "internal": true
+        },
+        {
+          "startup": "Thinking Machines Lab",
+          "prior_employer": "Anthropic",
+          "internal": false
+        },
+        {
+          "startup": "Thinking Machines Lab",
+          "prior_employer": "Tesla",
+          "internal": false
+        },
+        {
+          "startup": "Thinking Machines Lab",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Thinking Machines Lab",
+          "prior_employer": "Meta",
+          "internal": false
+        },
+        {
+          "startup": "Thinking Machines Lab",
+          "prior_employer": "Character.ai",
+          "internal": true
+        },
+        {
+          "startup": "SpaceX",
+          "prior_employer": "PayPal",
+          "internal": false
+        },
+        {
+          "startup": "World Labs",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "World Labs",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "World Labs",
+          "prior_employer": "Meta",
+          "internal": false
+        },
+        {
+          "startup": "Slingshot AI",
+          "prior_employer": "Instabase",
+          "internal": true
+        },
+        {
+          "startup": "Anysphere",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Anysphere",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Anysphere",
+          "prior_employer": "Tesla",
+          "internal": false
+        },
+        {
+          "startup": "Anysphere",
+          "prior_employer": "Stripe",
+          "internal": true
+        },
+        {
+          "startup": "Anysphere",
+          "prior_employer": "Octant Bio",
+          "internal": true
+        },
+        {
+          "startup": "EQRx",
+          "prior_employer": "Tango",
+          "internal": false
+        },
+        {
+          "startup": "EQRx",
+          "prior_employer": "Relay",
+          "internal": true
+        },
+        {
+          "startup": "Orbital Therapeutics",
+          "prior_employer": "Beam",
+          "internal": false
+        },
+        {
+          "startup": "Braveheart Bio",
+          "prior_employer": "Karius",
+          "internal": false
+        },
+        {
+          "startup": "DeSo Foundation",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "DeSo Foundation",
+          "prior_employer": "Basis",
+          "internal": false
+        },
+        {
+          "startup": "Mysten Labs",
+          "prior_employer": "Meta",
+          "internal": false
+        },
+        {
+          "startup": "Mysten Labs",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Mysten Labs",
+          "prior_employer": "Apple",
+          "internal": false
+        },
+        {
+          "startup": "Mysten Labs",
+          "prior_employer": "Oracle",
+          "internal": false
+        },
+        {
+          "startup": "Kalshi",
+          "prior_employer": "Citadel Securities",
+          "internal": false
+        },
+        {
+          "startup": "Kalshi",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Arena",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Kavak",
+          "prior_employer": "Amazon",
+          "internal": false
+        },
+        {
+          "startup": "Tome Biosciences",
+          "prior_employer": "PROOF",
+          "internal": true
+        },
+        {
+          "startup": "Abridge",
+          "prior_employer": "Meta",
+          "internal": false
+        },
+        {
+          "startup": "Abridge",
+          "prior_employer": "Instacart",
+          "internal": true
+        },
+        {
+          "startup": "Abridge",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Freenome",
+          "prior_employer": "Apple",
+          "internal": false
+        },
+        {
+          "startup": "Freenome",
+          "prior_employer": "Royal",
+          "internal": false
+        },
+        {
+          "startup": "Forte",
+          "prior_employer": "Unity",
+          "internal": false
+        },
+        {
+          "startup": "Forte",
+          "prior_employer": "N3TWORK",
+          "internal": false
+        },
+        {
+          "startup": "Harvey",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Harvey",
+          "prior_employer": "Meta",
+          "internal": false
+        },
+        {
+          "startup": "Unconventional AI",
+          "prior_employer": "Databricks",
+          "internal": true
+        },
+        {
+          "startup": "Unconventional AI",
+          "prior_employer": "MosaicML",
+          "internal": false
+        },
+        {
+          "startup": "Unconventional AI",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Inferact",
+          "prior_employer": "Databricks",
+          "internal": true
+        },
+        {
+          "startup": "CoinSwitch",
+          "prior_employer": "Amazon",
+          "internal": false
+        },
+        {
+          "startup": "CoinSwitch",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "OpenAI",
+          "prior_employer": "Stripe",
+          "internal": true
+        },
+        {
+          "startup": "OpenAI",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "OpenAI",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "OpenAI",
+          "prior_employer": "Tesla",
+          "internal": false
+        },
+        {
+          "startup": "OpenAI",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Anduril Industries",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Anduril Industries",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Anduril Industries",
+          "prior_employer": "Mithril",
+          "internal": false
+        }
+      ]
+    },
+    "accel": {
+      "portfolio_size": 114,
+      "total_links": 42,
+      "internal": 4,
+      "rate": 0.0952,
+      "p_value": 0.9652,
+      "significant": false,
+      "flows": [
+        {
+          "startup": "Mind Robotics",
+          "prior_employer": "Physical Intelligence",
+          "internal": false
+        },
+        {
+          "startup": "Mind Robotics",
+          "prior_employer": "Waymo",
+          "internal": false
+        },
+        {
+          "startup": "Mind Robotics",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Melio",
+          "prior_employer": "PayPal",
+          "internal": false
+        },
+        {
+          "startup": "Sky Mavis",
+          "prior_employer": "Anduin",
+          "internal": false
+        },
+        {
+          "startup": "Anthropic",
+          "prior_employer": "OpenAI",
+          "internal": false
+        },
+        {
+          "startup": "Anthropic",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Anthropic",
+          "prior_employer": "Stripe",
+          "internal": false
+        },
+        {
+          "startup": "Periodic Labs",
+          "prior_employer": "OpenAI",
+          "internal": false
+        },
+        {
+          "startup": "Periodic Labs",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Periodic Labs",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Higgsfield",
+          "prior_employer": "Apple",
+          "internal": false
+        },
+        {
+          "startup": "Bird",
+          "prior_employer": "Uber",
+          "internal": false
+        },
+        {
+          "startup": "Wonder",
+          "prior_employer": "Amazon",
+          "internal": false
+        },
+        {
+          "startup": "Chaos",
+          "prior_employer": "Epirus",
+          "internal": false
+        },
+        {
+          "startup": "Chaos",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Chaos",
+          "prior_employer": "Formation",
+          "internal": false
+        },
+        {
+          "startup": "Chaos",
+          "prior_employer": "OpenAI",
+          "internal": false
+        },
+        {
+          "startup": "Scale",
+          "prior_employer": "Quora",
+          "internal": false
+        },
+        {
+          "startup": "Scale",
+          "prior_employer": "Addepar",
+          "internal": false
+        },
+        {
+          "startup": "Scale",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "H Company",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "H Company",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "CoinTracker",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "CoinTracker",
+          "prior_employer": "Apple",
+          "internal": false
+        },
+        {
+          "startup": "Anysphere",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Anysphere",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Anysphere",
+          "prior_employer": "Tesla",
+          "internal": false
+        },
+        {
+          "startup": "Anysphere",
+          "prior_employer": "Stripe",
+          "internal": false
+        },
+        {
+          "startup": "Anysphere",
+          "prior_employer": "Octant Bio",
+          "internal": false
+        },
+        {
+          "startup": "Armadin Security",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Vega",
+          "prior_employer": "Unit",
+          "internal": true
+        },
+        {
+          "startup": "OpenFX",
+          "prior_employer": "FalconX",
+          "internal": true
+        },
+        {
+          "startup": "Cambridge Aerospace",
+          "prior_employer": "Anduril Industries",
+          "internal": false
+        },
+        {
+          "startup": "Cambridge Aerospace",
+          "prior_employer": "Auctor",
+          "internal": false
+        },
+        {
+          "startup": "Tessl",
+          "prior_employer": "Snyk",
+          "internal": true
+        },
+        {
+          "startup": "Thinking Machines Lab",
+          "prior_employer": "OpenAI",
+          "internal": false
+        },
+        {
+          "startup": "Thinking Machines Lab",
+          "prior_employer": "Anthropic",
+          "internal": true
+        },
+        {
+          "startup": "Thinking Machines Lab",
+          "prior_employer": "Tesla",
+          "internal": false
+        },
+        {
+          "startup": "Thinking Machines Lab",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Thinking Machines Lab",
+          "prior_employer": "Meta",
+          "internal": false
+        },
+        {
+          "startup": "Thinking Machines Lab",
+          "prior_employer": "Character.ai",
+          "internal": false
+        }
+      ]
+    },
+    "ff": {
+      "portfolio_size": 66,
+      "total_links": 52,
+      "internal": 10,
+      "rate": 0.1923,
+      "p_value": 0.0354,
+      "significant": true,
+      "flows": [
+        {
+          "startup": "Kavak",
+          "prior_employer": "Amazon",
+          "internal": false
+        },
+        {
+          "startup": "Inworld AI",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Varda",
+          "prior_employer": "SpaceX",
+          "internal": true
+        },
+        {
+          "startup": "Varda",
+          "prior_employer": "Square",
+          "internal": false
+        },
+        {
+          "startup": "Neuralink",
+          "prior_employer": "OpenAI",
+          "internal": true
+        },
+        {
+          "startup": "Neuralink",
+          "prior_employer": "Tesla",
+          "internal": false
+        },
+        {
+          "startup": "Anduril Industries",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Anduril Industries",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Anduril Industries",
+          "prior_employer": "Mithril",
+          "internal": false
+        },
+        {
+          "startup": "Cognition",
+          "prior_employer": "Scale",
+          "internal": true
+        },
+        {
+          "startup": "Cognition",
+          "prior_employer": "Addepar",
+          "internal": false
+        },
+        {
+          "startup": "Cognition",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Cognition",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Cognition",
+          "prior_employer": "Modal Labs",
+          "internal": false
+        },
+        {
+          "startup": "Scale",
+          "prior_employer": "Quora",
+          "internal": false
+        },
+        {
+          "startup": "Scale",
+          "prior_employer": "Addepar",
+          "internal": false
+        },
+        {
+          "startup": "Scale",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Up&Up",
+          "prior_employer": "Robinhood",
+          "internal": false
+        },
+        {
+          "startup": "Up&Up",
+          "prior_employer": "Airbnb",
+          "internal": false
+        },
+        {
+          "startup": "Up&Up",
+          "prior_employer": "Plaid",
+          "internal": false
+        },
+        {
+          "startup": "Faire",
+          "prior_employer": "Square",
+          "internal": false
+        },
+        {
+          "startup": "Faire",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Impulse Space",
+          "prior_employer": "SpaceX",
+          "internal": true
+        },
+        {
+          "startup": "Flexport",
+          "prior_employer": "Amazon",
+          "internal": false
+        },
+        {
+          "startup": "Substrate",
+          "prior_employer": "Hello Patient",
+          "internal": false
+        },
+        {
+          "startup": "Rippling",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Rippling",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Resilience",
+          "prior_employer": "Uber",
+          "internal": false
+        },
+        {
+          "startup": "Anthropic",
+          "prior_employer": "OpenAI",
+          "internal": true
+        },
+        {
+          "startup": "Anthropic",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Anthropic",
+          "prior_employer": "Stripe",
+          "internal": true
+        },
+        {
+          "startup": "Flock Safety",
+          "prior_employer": "Clutch",
+          "internal": false
+        },
+        {
+          "startup": "Flock Safety",
+          "prior_employer": "Moment",
+          "internal": false
+        },
+        {
+          "startup": "SpaceX",
+          "prior_employer": "PayPal",
+          "internal": false
+        },
+        {
+          "startup": "The Boring Company",
+          "prior_employer": "SpaceX",
+          "internal": true
+        },
+        {
+          "startup": "The Boring Company",
+          "prior_employer": "Tesla",
+          "internal": false
+        },
+        {
+          "startup": "The Boring Company",
+          "prior_employer": "PayPal",
+          "internal": false
+        },
+        {
+          "startup": "Hermeus",
+          "prior_employer": "SpaceX",
+          "internal": true
+        },
+        {
+          "startup": "OpenAI",
+          "prior_employer": "Stripe",
+          "internal": true
+        },
+        {
+          "startup": "OpenAI",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "OpenAI",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "OpenAI",
+          "prior_employer": "Tesla",
+          "internal": false
+        },
+        {
+          "startup": "OpenAI",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Sentient",
+          "prior_employer": "Polygon",
+          "internal": false
+        },
+        {
+          "startup": "Sentient",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Valinor Enterprises",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Nominal",
+          "prior_employer": "Anduril Industries",
+          "internal": true
+        },
+        {
+          "startup": "Nominal",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Nominal",
+          "prior_employer": "Applied Intuition",
+          "internal": false
+        },
+        {
+          "startup": "Nominal",
+          "prior_employer": "Saildrone",
+          "internal": false
+        },
+        {
+          "startup": "Nominal",
+          "prior_employer": "Vercel",
+          "internal": false
+        },
+        {
+          "startup": "Arena",
+          "prior_employer": "Palantir",
+          "internal": false
+        }
+      ]
+    },
+    "gc": {
+      "portfolio_size": 121,
+      "total_links": 80,
+      "internal": 9,
+      "rate": 0.1125,
+      "p_value": 0.9862,
+      "significant": false,
+      "flows": [
+        {
+          "startup": "Castelion",
+          "prior_employer": "SpaceX",
+          "internal": false
+        },
+        {
+          "startup": "Beacon Software",
+          "prior_employer": "Instacart",
+          "internal": false
+        },
+        {
+          "startup": "Beacon Software",
+          "prior_employer": "Databricks",
+          "internal": false
+        },
+        {
+          "startup": "Beacon Software",
+          "prior_employer": "Airbnb",
+          "internal": false
+        },
+        {
+          "startup": "Beacon Software",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Applied Intuition",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Applied Intuition",
+          "prior_employer": "NVIDIA",
+          "internal": false
+        },
+        {
+          "startup": "Applied Intuition",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Anduril Industries",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Anduril Industries",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Anduril Industries",
+          "prior_employer": "Mithril",
+          "internal": false
+        },
+        {
+          "startup": "Melio",
+          "prior_employer": "PayPal",
+          "internal": false
+        },
+        {
+          "startup": "Slate Auto",
+          "prior_employer": "Amazon",
+          "internal": false
+        },
+        {
+          "startup": "Slate Auto",
+          "prior_employer": "Re:Build",
+          "internal": true
+        },
+        {
+          "startup": "Anthropic",
+          "prior_employer": "OpenAI",
+          "internal": false
+        },
+        {
+          "startup": "Anthropic",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Anthropic",
+          "prior_employer": "Stripe",
+          "internal": true
+        },
+        {
+          "startup": "Luma AI",
+          "prior_employer": "Apple",
+          "internal": false
+        },
+        {
+          "startup": "Eudia",
+          "prior_employer": "Relativity Space",
+          "internal": true
+        },
+        {
+          "startup": "Eudia",
+          "prior_employer": "Apple",
+          "internal": false
+        },
+        {
+          "startup": "Eudia",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Eudia",
+          "prior_employer": "Amazon",
+          "internal": false
+        },
+        {
+          "startup": "Mercor",
+          "prior_employer": "Amazon",
+          "internal": false
+        },
+        {
+          "startup": "Glean",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Glean",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Glean",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Glean",
+          "prior_employer": "Uber",
+          "internal": false
+        },
+        {
+          "startup": "Glean",
+          "prior_employer": "Oracle",
+          "internal": false
+        },
+        {
+          "startup": "Nominal",
+          "prior_employer": "Anduril Industries",
+          "internal": true
+        },
+        {
+          "startup": "Nominal",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Nominal",
+          "prior_employer": "Applied Intuition",
+          "internal": true
+        },
+        {
+          "startup": "Nominal",
+          "prior_employer": "Saildrone",
+          "internal": false
+        },
+        {
+          "startup": "Nominal",
+          "prior_employer": "Vercel",
+          "internal": true
+        },
+        {
+          "startup": "Tempo",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Tempo",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Tempo",
+          "prior_employer": "Loop",
+          "internal": true
+        },
+        {
+          "startup": "Wonder",
+          "prior_employer": "Amazon",
+          "internal": false
+        },
+        {
+          "startup": "Hippocratic AI",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Hippocratic AI",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Hippocratic AI",
+          "prior_employer": "Amazon",
+          "internal": false
+        },
+        {
+          "startup": "Hippocratic AI",
+          "prior_employer": "NVIDIA",
+          "internal": false
+        },
+        {
+          "startup": "Adept AI",
+          "prior_employer": "OpenAI",
+          "internal": false
+        },
+        {
+          "startup": "Adept AI",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Adept AI",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Awardco",
+          "prior_employer": "Golden",
+          "internal": false
+        },
+        {
+          "startup": "Black Forest Labs",
+          "prior_employer": "Stability AI",
+          "internal": false
+        },
+        {
+          "startup": "Modular",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Modular",
+          "prior_employer": "Apple",
+          "internal": false
+        },
+        {
+          "startup": "Modular",
+          "prior_employer": "Tesla",
+          "internal": false
+        },
+        {
+          "startup": "Cartesia",
+          "prior_employer": "Snorkel AI",
+          "internal": false
+        },
+        {
+          "startup": "Cartesia",
+          "prior_employer": "Apple",
+          "internal": false
+        },
+        {
+          "startup": "Cartesia",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Varda",
+          "prior_employer": "SpaceX",
+          "internal": false
+        },
+        {
+          "startup": "Varda",
+          "prior_employer": "Square",
+          "internal": false
+        },
+        {
+          "startup": "CoinTracker",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "CoinTracker",
+          "prior_employer": "Apple",
+          "internal": false
+        },
+        {
+          "startup": "Valinor Enterprises",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Cityblock Health",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Together AI",
+          "prior_employer": "Apple",
+          "internal": false
+        },
+        {
+          "startup": "Together AI",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Bowery Farming",
+          "prior_employer": "Oracle",
+          "internal": false
+        },
+        {
+          "startup": "Zarminali Health",
+          "prior_employer": "Devoted Health",
+          "internal": true
+        },
+        {
+          "startup": "Zarminali Health",
+          "prior_employer": "Amazon",
+          "internal": false
+        },
+        {
+          "startup": "Lacework",
+          "prior_employer": "Oracle",
+          "internal": false
+        },
+        {
+          "startup": "Lacework",
+          "prior_employer": "Pillar",
+          "internal": false
+        },
+        {
+          "startup": "Lacework",
+          "prior_employer": "Cisco",
+          "internal": false
+        },
+        {
+          "startup": "Kalshi",
+          "prior_employer": "Citadel Securities",
+          "internal": false
+        },
+        {
+          "startup": "Kalshi",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Latent",
+          "prior_employer": "Hebbia",
+          "internal": false
+        },
+        {
+          "startup": "Superhuman (formerly Grammarly)",
+          "prior_employer": "LinkedIn",
+          "internal": false
+        },
+        {
+          "startup": "Kavak",
+          "prior_employer": "Amazon",
+          "internal": false
+        },
+        {
+          "startup": "Lila Sciences",
+          "prior_employer": "Flagship",
+          "internal": false
+        },
+        {
+          "startup": "Physical Intelligence",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Physical Intelligence",
+          "prior_employer": "Stripe",
+          "internal": true
+        },
+        {
+          "startup": "Physical Intelligence",
+          "prior_employer": "X (formerly Twitter)",
+          "internal": false
+        },
+        {
+          "startup": "Substrate",
+          "prior_employer": "Hello Patient",
+          "internal": false
+        },
+        {
+          "startup": "Resilience",
+          "prior_employer": "Uber",
+          "internal": false
+        },
+        {
+          "startup": "Skild AI",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Skild AI",
+          "prior_employer": "Meta",
+          "internal": false
+        },
+        {
+          "startup": "Skild AI",
+          "prior_employer": "Google",
+          "internal": false
+        }
+      ]
+    },
+    "kp": {
+      "portfolio_size": 52,
+      "total_links": 38,
+      "internal": 1,
+      "rate": 0.0263,
+      "p_value": 0.9663,
+      "significant": false,
+      "flows": [
+        {
+          "startup": "Hippocratic AI",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Hippocratic AI",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Hippocratic AI",
+          "prior_employer": "Amazon",
+          "internal": false
+        },
+        {
+          "startup": "Hippocratic AI",
+          "prior_employer": "NVIDIA",
+          "internal": false
+        },
+        {
+          "startup": "Inworld AI",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Together AI",
+          "prior_employer": "Apple",
+          "internal": false
+        },
+        {
+          "startup": "Together AI",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Harmonic",
+          "prior_employer": "Robinhood",
+          "internal": false
+        },
+        {
+          "startup": "Applied Intuition",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Applied Intuition",
+          "prior_employer": "NVIDIA",
+          "internal": false
+        },
+        {
+          "startup": "Applied Intuition",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Databricks",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Armadin Security",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Cartesia",
+          "prior_employer": "Snorkel AI",
+          "internal": false
+        },
+        {
+          "startup": "Cartesia",
+          "prior_employer": "Apple",
+          "internal": false
+        },
+        {
+          "startup": "Cartesia",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Harvey",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Harvey",
+          "prior_employer": "Meta",
+          "internal": false
+        },
+        {
+          "startup": "Rain",
+          "prior_employer": "Playbook",
+          "internal": false
+        },
+        {
+          "startup": "Nexthop AI",
+          "prior_employer": "Cisco",
+          "internal": false
+        },
+        {
+          "startup": "Nexthop AI",
+          "prior_employer": "NVIDIA",
+          "internal": false
+        },
+        {
+          "startup": "Rippling",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Rippling",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Flock Safety",
+          "prior_employer": "Clutch",
+          "internal": false
+        },
+        {
+          "startup": "Flock Safety",
+          "prior_employer": "Moment",
+          "internal": false
+        },
+        {
+          "startup": "Reevo",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Reevo",
+          "prior_employer": "Meta",
+          "internal": false
+        },
+        {
+          "startup": "Parallel",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Parallel",
+          "prior_employer": "Stripe",
+          "internal": false
+        },
+        {
+          "startup": "Parallel",
+          "prior_employer": "Airbnb",
+          "internal": false
+        },
+        {
+          "startup": "Parallel",
+          "prior_employer": "Waymo",
+          "internal": true
+        },
+        {
+          "startup": "Glean",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Glean",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Glean",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Glean",
+          "prior_employer": "Uber",
+          "internal": false
+        },
+        {
+          "startup": "Glean",
+          "prior_employer": "Oracle",
+          "internal": false
+        },
+        {
+          "startup": "Waymo",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Arena",
+          "prior_employer": "Palantir",
+          "internal": false
+        }
+      ]
+    },
+    "lightspeed": {
+      "portfolio_size": 129,
+      "total_links": 137,
+      "internal": 14,
+      "rate": 0.1022,
+      "p_value": 0.9999,
+      "significant": false,
+      "flows": [
+        {
+          "startup": "Castelion",
+          "prior_employer": "SpaceX",
+          "internal": false
+        },
+        {
+          "startup": "Beacon Software",
+          "prior_employer": "Instacart",
+          "internal": false
+        },
+        {
+          "startup": "Beacon Software",
+          "prior_employer": "Databricks",
+          "internal": true
+        },
+        {
+          "startup": "Beacon Software",
+          "prior_employer": "Airbnb",
+          "internal": false
+        },
+        {
+          "startup": "Beacon Software",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Databricks",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Goodfire",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Goodfire",
+          "prior_employer": "OpenAI",
+          "internal": false
+        },
+        {
+          "startup": "Goodfire",
+          "prior_employer": "Snowflake",
+          "internal": false
+        },
+        {
+          "startup": "Goodfire",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Goodfire",
+          "prior_employer": "Airbnb",
+          "internal": false
+        },
+        {
+          "startup": "Tripledot Studios",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Augment Code",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Augment Code",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Faire",
+          "prior_employer": "Square",
+          "internal": false
+        },
+        {
+          "startup": "Faire",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Triana Biomedicines",
+          "prior_employer": "Warp",
+          "internal": false
+        },
+        {
+          "startup": "Rain",
+          "prior_employer": "Playbook",
+          "internal": false
+        },
+        {
+          "startup": "ElevenLabs",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "ElevenLabs",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "ElevenLabs",
+          "prior_employer": "Tessian",
+          "internal": false
+        },
+        {
+          "startup": "Whatnot",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Whatnot",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Whatnot",
+          "prior_employer": "The Zebra",
+          "internal": false
+        },
+        {
+          "startup": "Anthropic",
+          "prior_employer": "OpenAI",
+          "internal": false
+        },
+        {
+          "startup": "Anthropic",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Anthropic",
+          "prior_employer": "Stripe",
+          "internal": true
+        },
+        {
+          "startup": "Alchemy",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Alchemy",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Alchemy",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Alchemy",
+          "prior_employer": "LinkedIn",
+          "internal": false
+        },
+        {
+          "startup": "xAI",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "xAI",
+          "prior_employer": "OpenAI",
+          "internal": false
+        },
+        {
+          "startup": "xAI",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "xAI",
+          "prior_employer": "Tesla",
+          "internal": false
+        },
+        {
+          "startup": "xAI",
+          "prior_employer": "X (formerly Twitter)",
+          "internal": false
+        },
+        {
+          "startup": "xAI",
+          "prior_employer": "Airbnb",
+          "internal": false
+        },
+        {
+          "startup": "Periodic Labs",
+          "prior_employer": "OpenAI",
+          "internal": false
+        },
+        {
+          "startup": "Periodic Labs",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Periodic Labs",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Glean",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Glean",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Glean",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Glean",
+          "prior_employer": "Uber",
+          "internal": false
+        },
+        {
+          "startup": "Glean",
+          "prior_employer": "Oracle",
+          "internal": false
+        },
+        {
+          "startup": "Nominal",
+          "prior_employer": "Anduril Industries",
+          "internal": true
+        },
+        {
+          "startup": "Nominal",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Nominal",
+          "prior_employer": "Applied Intuition",
+          "internal": false
+        },
+        {
+          "startup": "Nominal",
+          "prior_employer": "Saildrone",
+          "internal": false
+        },
+        {
+          "startup": "Nominal",
+          "prior_employer": "Vercel",
+          "internal": false
+        },
+        {
+          "startup": "Zag Bio",
+          "prior_employer": "Seismic",
+          "internal": true
+        },
+        {
+          "startup": "Temporal Technologies",
+          "prior_employer": "Amazon",
+          "internal": false
+        },
+        {
+          "startup": "Temporal Technologies",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Temporal Technologies",
+          "prior_employer": "Uber",
+          "internal": false
+        },
+        {
+          "startup": "Temporal Technologies",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Wiz",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Wiz",
+          "prior_employer": "Unit",
+          "internal": false
+        },
+        {
+          "startup": "Diagonal Therapeutics",
+          "prior_employer": "Atlas",
+          "internal": false
+        },
+        {
+          "startup": "FTX",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "FTX",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Base Power",
+          "prior_employer": "SpaceX",
+          "internal": false
+        },
+        {
+          "startup": "Base Power",
+          "prior_employer": "Anduril Industries",
+          "internal": true
+        },
+        {
+          "startup": "Cartesia",
+          "prior_employer": "Snorkel AI",
+          "internal": true
+        },
+        {
+          "startup": "Cartesia",
+          "prior_employer": "Apple",
+          "internal": false
+        },
+        {
+          "startup": "Cartesia",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Xaira Therapeutics",
+          "prior_employer": "Meta",
+          "internal": false
+        },
+        {
+          "startup": "Nexthop AI",
+          "prior_employer": "Cisco",
+          "internal": false
+        },
+        {
+          "startup": "Nexthop AI",
+          "prior_employer": "NVIDIA",
+          "internal": false
+        },
+        {
+          "startup": "Rippling",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Rippling",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Safe Superintelligence",
+          "prior_employer": "OpenAI",
+          "internal": false
+        },
+        {
+          "startup": "Safe Superintelligence",
+          "prior_employer": "Apple",
+          "internal": false
+        },
+        {
+          "startup": "Safe Superintelligence",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Safe Superintelligence",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Safe Superintelligence",
+          "prior_employer": "Meta",
+          "internal": false
+        },
+        {
+          "startup": "Safe Superintelligence",
+          "prior_employer": "CUE Labs",
+          "internal": false
+        },
+        {
+          "startup": "Thinking Machines Lab",
+          "prior_employer": "OpenAI",
+          "internal": false
+        },
+        {
+          "startup": "Thinking Machines Lab",
+          "prior_employer": "Anthropic",
+          "internal": true
+        },
+        {
+          "startup": "Thinking Machines Lab",
+          "prior_employer": "Tesla",
+          "internal": false
+        },
+        {
+          "startup": "Thinking Machines Lab",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Thinking Machines Lab",
+          "prior_employer": "Meta",
+          "internal": false
+        },
+        {
+          "startup": "Thinking Machines Lab",
+          "prior_employer": "Character.ai",
+          "internal": false
+        },
+        {
+          "startup": "Talon Cyber Security",
+          "prior_employer": "Unit",
+          "internal": false
+        },
+        {
+          "startup": "FTX US",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Armadin Security",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "AA-I Technologies",
+          "prior_employer": "AI21 Labs",
+          "internal": false
+        },
+        {
+          "startup": "Distyl AI",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Distyl AI",
+          "prior_employer": "Snorkel AI",
+          "internal": true
+        },
+        {
+          "startup": "Distyl AI",
+          "prior_employer": "Citadel Securities",
+          "internal": false
+        },
+        {
+          "startup": "ClickHouse",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Reflection AI",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Resolve.ai",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Resolve.ai",
+          "prior_employer": "NVIDIA",
+          "internal": false
+        },
+        {
+          "startup": "Mysten Labs",
+          "prior_employer": "Meta",
+          "internal": false
+        },
+        {
+          "startup": "Mysten Labs",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Mysten Labs",
+          "prior_employer": "Apple",
+          "internal": false
+        },
+        {
+          "startup": "Mysten Labs",
+          "prior_employer": "Oracle",
+          "internal": false
+        },
+        {
+          "startup": "Arena",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Safe",
+          "prior_employer": "OpenAI",
+          "internal": false
+        },
+        {
+          "startup": "Safe",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Safe",
+          "prior_employer": "Apple",
+          "internal": false
+        },
+        {
+          "startup": "Inworld AI",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Ricursive Intelligence",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Ricursive Intelligence",
+          "prior_employer": "Anthropic",
+          "internal": true
+        },
+        {
+          "startup": "Modus",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Modus",
+          "prior_employer": "Citadel Securities",
+          "internal": false
+        },
+        {
+          "startup": "Modus",
+          "prior_employer": "Ramp",
+          "internal": true
+        },
+        {
+          "startup": "Neuralink",
+          "prior_employer": "OpenAI",
+          "internal": false
+        },
+        {
+          "startup": "Neuralink",
+          "prior_employer": "Tesla",
+          "internal": false
+        },
+        {
+          "startup": "Antares Therapeutics",
+          "prior_employer": "Scorpion Therapeutics",
+          "internal": true
+        },
+        {
+          "startup": "Antares Therapeutics",
+          "prior_employer": "Atlas",
+          "internal": false
+        },
+        {
+          "startup": "Voltron Data",
+          "prior_employer": "NVIDIA",
+          "internal": false
+        },
+        {
+          "startup": "Voltron Data",
+          "prior_employer": "Apple",
+          "internal": false
+        },
+        {
+          "startup": "Voltron Data",
+          "prior_employer": "Amazon",
+          "internal": false
+        },
+        {
+          "startup": "Abridge",
+          "prior_employer": "Meta",
+          "internal": false
+        },
+        {
+          "startup": "Abridge",
+          "prior_employer": "Instacart",
+          "internal": false
+        },
+        {
+          "startup": "Abridge",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Substrate",
+          "prior_employer": "Hello Patient",
+          "internal": false
+        },
+        {
+          "startup": "Unconventional AI",
+          "prior_employer": "Databricks",
+          "internal": true
+        },
+        {
+          "startup": "Unconventional AI",
+          "prior_employer": "MosaicML",
+          "internal": false
+        },
+        {
+          "startup": "Unconventional AI",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Resilience",
+          "prior_employer": "Uber",
+          "internal": false
+        },
+        {
+          "startup": "Inferact",
+          "prior_employer": "Databricks",
+          "internal": true
+        },
+        {
+          "startup": "1047 Games",
+          "prior_employer": "Apple",
+          "internal": false
+        },
+        {
+          "startup": "Contextual AI",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Contextual AI",
+          "prior_employer": "Hugging Face",
+          "internal": false
+        },
+        {
+          "startup": "Contextual AI",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Contextual AI",
+          "prior_employer": "Amazon",
+          "internal": false
+        },
+        {
+          "startup": "Zapp",
+          "prior_employer": "Rocket",
+          "internal": false
+        },
+        {
+          "startup": "Zapp",
+          "prior_employer": "Amazon",
+          "internal": false
+        },
+        {
+          "startup": "K2 Space",
+          "prior_employer": "SpaceX",
+          "internal": false
+        },
+        {
+          "startup": "Anduril Industries",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Anduril Industries",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Anduril Industries",
+          "prior_employer": "Mithril",
+          "internal": true
+        },
+        {
+          "startup": "Skild AI",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Skild AI",
+          "prior_employer": "Meta",
+          "internal": false
+        },
+        {
+          "startup": "Skild AI",
+          "prior_employer": "Google",
+          "internal": false
+        }
+      ]
+    },
+    "lux": {
+      "portfolio_size": 54,
+      "total_links": 49,
+      "internal": 11,
+      "rate": 0.2245,
+      "p_value": 0.0016,
+      "significant": true,
+      "flows": [
+        {
+          "startup": "Cambridge Aerospace",
+          "prior_employer": "Anduril Industries",
+          "internal": true
+        },
+        {
+          "startup": "Cambridge Aerospace",
+          "prior_employer": "Auctor",
+          "internal": false
+        },
+        {
+          "startup": "Together AI",
+          "prior_employer": "Apple",
+          "internal": false
+        },
+        {
+          "startup": "Together AI",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Mendra",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Black Forest Labs",
+          "prior_employer": "Stability AI",
+          "internal": false
+        },
+        {
+          "startup": "Cognichip",
+          "prior_employer": "Amazon",
+          "internal": false
+        },
+        {
+          "startup": "Cognichip",
+          "prior_employer": "Apple",
+          "internal": false
+        },
+        {
+          "startup": "Cognichip",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Cognichip",
+          "prior_employer": "Cisco",
+          "internal": false
+        },
+        {
+          "startup": "Cognichip",
+          "prior_employer": "Cadence Solutions",
+          "internal": false
+        },
+        {
+          "startup": "Databricks",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Applied Intuition",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Applied Intuition",
+          "prior_employer": "NVIDIA",
+          "internal": false
+        },
+        {
+          "startup": "Applied Intuition",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Cognition",
+          "prior_employer": "Scale",
+          "internal": false
+        },
+        {
+          "startup": "Cognition",
+          "prior_employer": "Addepar",
+          "internal": false
+        },
+        {
+          "startup": "Cognition",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Cognition",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Cognition",
+          "prior_employer": "Modal Labs",
+          "internal": true
+        },
+        {
+          "startup": "Impulse Space",
+          "prior_employer": "SpaceX",
+          "internal": false
+        },
+        {
+          "startup": "FTX",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "FTX",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Physical Intelligence",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Physical Intelligence",
+          "prior_employer": "Stripe",
+          "internal": false
+        },
+        {
+          "startup": "Physical Intelligence",
+          "prior_employer": "X (formerly Twitter)",
+          "internal": false
+        },
+        {
+          "startup": "Unconventional AI",
+          "prior_employer": "Databricks",
+          "internal": true
+        },
+        {
+          "startup": "Unconventional AI",
+          "prior_employer": "MosaicML",
+          "internal": true
+        },
+        {
+          "startup": "Unconventional AI",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Xaira Therapeutics",
+          "prior_employer": "Meta",
+          "internal": false
+        },
+        {
+          "startup": "Resilience",
+          "prior_employer": "Uber",
+          "internal": false
+        },
+        {
+          "startup": "Varda",
+          "prior_employer": "SpaceX",
+          "internal": false
+        },
+        {
+          "startup": "Varda",
+          "prior_employer": "Square",
+          "internal": false
+        },
+        {
+          "startup": "Cajal Neuroscience",
+          "prior_employer": "Kallyope",
+          "internal": true
+        },
+        {
+          "startup": "Aera Therapeutics",
+          "prior_employer": "Beam",
+          "internal": false
+        },
+        {
+          "startup": "NILO Therapeutics",
+          "prior_employer": "Kallyope",
+          "internal": true
+        },
+        {
+          "startup": "NILO Therapeutics",
+          "prior_employer": "Cajal Neuroscience",
+          "internal": true
+        },
+        {
+          "startup": "Nominal",
+          "prior_employer": "Anduril Industries",
+          "internal": true
+        },
+        {
+          "startup": "Nominal",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Nominal",
+          "prior_employer": "Applied Intuition",
+          "internal": true
+        },
+        {
+          "startup": "Nominal",
+          "prior_employer": "Saildrone",
+          "internal": true
+        },
+        {
+          "startup": "Nominal",
+          "prior_employer": "Vercel",
+          "internal": false
+        },
+        {
+          "startup": "Anduril Industries",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Anduril Industries",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Anduril Industries",
+          "prior_employer": "Mithril",
+          "internal": false
+        },
+        {
+          "startup": "EvolutionaryScale",
+          "prior_employer": "Meta",
+          "internal": false
+        },
+        {
+          "startup": "EvolutionaryScale",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "EvolutionaryScale",
+          "prior_employer": "Kallyope",
+          "internal": true
+        },
+        {
+          "startup": "EvolutionaryScale",
+          "prior_employer": "Chef Robotics",
+          "internal": false
+        }
+      ]
+    },
+    "sequoia": {
+      "portfolio_size": 127,
+      "total_links": 105,
+      "internal": 19,
+      "rate": 0.181,
+      "p_value": 0.764,
+      "significant": false,
+      "flows": [
+        {
+          "startup": "Noom",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Noom",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Landis",
+          "prior_employer": "Airbnb",
+          "internal": false
+        },
+        {
+          "startup": "Faire",
+          "prior_employer": "Square",
+          "internal": false
+        },
+        {
+          "startup": "Faire",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "ElevenLabs",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "ElevenLabs",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "ElevenLabs",
+          "prior_employer": "Tessian",
+          "internal": true
+        },
+        {
+          "startup": "Whatnot",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Whatnot",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Whatnot",
+          "prior_employer": "The Zebra",
+          "internal": false
+        },
+        {
+          "startup": "Anthropic",
+          "prior_employer": "OpenAI",
+          "internal": true
+        },
+        {
+          "startup": "Anthropic",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Anthropic",
+          "prior_employer": "Stripe",
+          "internal": true
+        },
+        {
+          "startup": "xAI",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "xAI",
+          "prior_employer": "OpenAI",
+          "internal": true
+        },
+        {
+          "startup": "xAI",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "xAI",
+          "prior_employer": "Tesla",
+          "internal": false
+        },
+        {
+          "startup": "xAI",
+          "prior_employer": "X (formerly Twitter)",
+          "internal": true
+        },
+        {
+          "startup": "xAI",
+          "prior_employer": "Airbnb",
+          "internal": false
+        },
+        {
+          "startup": "Glean",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Glean",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Glean",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Glean",
+          "prior_employer": "Uber",
+          "internal": false
+        },
+        {
+          "startup": "Glean",
+          "prior_employer": "Oracle",
+          "internal": false
+        },
+        {
+          "startup": "Waymo",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Nominal",
+          "prior_employer": "Anduril Industries",
+          "internal": false
+        },
+        {
+          "startup": "Nominal",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Nominal",
+          "prior_employer": "Applied Intuition",
+          "internal": false
+        },
+        {
+          "startup": "Nominal",
+          "prior_employer": "Saildrone",
+          "internal": false
+        },
+        {
+          "startup": "Nominal",
+          "prior_employer": "Vercel",
+          "internal": false
+        },
+        {
+          "startup": "Mercury",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Mercury",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Mercury",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Mercury",
+          "prior_employer": "ByteDance",
+          "internal": true
+        },
+        {
+          "startup": "Mercury",
+          "prior_employer": "Uber",
+          "internal": false
+        },
+        {
+          "startup": "Mercury",
+          "prior_employer": "Airbnb",
+          "internal": false
+        },
+        {
+          "startup": "Mercury",
+          "prior_employer": "Stripe",
+          "internal": true
+        },
+        {
+          "startup": "Tempo",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Tempo",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Tempo",
+          "prior_employer": "Loop",
+          "internal": false
+        },
+        {
+          "startup": "Temporal Technologies",
+          "prior_employer": "Amazon",
+          "internal": false
+        },
+        {
+          "startup": "Temporal Technologies",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Temporal Technologies",
+          "prior_employer": "Uber",
+          "internal": false
+        },
+        {
+          "startup": "Temporal Technologies",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "X (formerly Twitter)",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Wiz",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Wiz",
+          "prior_employer": "Unit",
+          "internal": false
+        },
+        {
+          "startup": "UiPath",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Notion",
+          "prior_employer": "LinkedIn",
+          "internal": false
+        },
+        {
+          "startup": "Notion",
+          "prior_employer": "Persona",
+          "internal": false
+        },
+        {
+          "startup": "Notion",
+          "prior_employer": "Typeface",
+          "internal": false
+        },
+        {
+          "startup": "Notion",
+          "prior_employer": "Kernel",
+          "internal": false
+        },
+        {
+          "startup": "FTX",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "FTX",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Xaira Therapeutics",
+          "prior_employer": "Meta",
+          "internal": false
+        },
+        {
+          "startup": "Rippling",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Rippling",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Safe Superintelligence",
+          "prior_employer": "OpenAI",
+          "internal": true
+        },
+        {
+          "startup": "Safe Superintelligence",
+          "prior_employer": "Apple",
+          "internal": false
+        },
+        {
+          "startup": "Safe Superintelligence",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Safe Superintelligence",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Safe Superintelligence",
+          "prior_employer": "Meta",
+          "internal": false
+        },
+        {
+          "startup": "Safe Superintelligence",
+          "prior_employer": "CUE Labs",
+          "internal": true
+        },
+        {
+          "startup": "SpaceX",
+          "prior_employer": "PayPal",
+          "internal": false
+        },
+        {
+          "startup": "Harmonic",
+          "prior_employer": "Robinhood",
+          "internal": true
+        },
+        {
+          "startup": "Reflection AI",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Aurora",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Aurora",
+          "prior_employer": "Tesla",
+          "internal": false
+        },
+        {
+          "startup": "Aurora",
+          "prior_employer": "Uber",
+          "internal": false
+        },
+        {
+          "startup": "DeSo Foundation",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "DeSo Foundation",
+          "prior_employer": "Basis",
+          "internal": false
+        },
+        {
+          "startup": "The Boring Company",
+          "prior_employer": "SpaceX",
+          "internal": true
+        },
+        {
+          "startup": "The Boring Company",
+          "prior_employer": "Tesla",
+          "internal": false
+        },
+        {
+          "startup": "The Boring Company",
+          "prior_employer": "PayPal",
+          "internal": false
+        },
+        {
+          "startup": "Kalshi",
+          "prior_employer": "Citadel Securities",
+          "internal": true
+        },
+        {
+          "startup": "Kalshi",
+          "prior_employer": "Palantir",
+          "internal": false
+        },
+        {
+          "startup": "Inworld AI",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Ricursive Intelligence",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Ricursive Intelligence",
+          "prior_employer": "Anthropic",
+          "internal": true
+        },
+        {
+          "startup": "Neuralink",
+          "prior_employer": "OpenAI",
+          "internal": true
+        },
+        {
+          "startup": "Neuralink",
+          "prior_employer": "Tesla",
+          "internal": false
+        },
+        {
+          "startup": "Forte",
+          "prior_employer": "Unity",
+          "internal": true
+        },
+        {
+          "startup": "Forte",
+          "prior_employer": "N3TWORK",
+          "internal": false
+        },
+        {
+          "startup": "Harvey",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Harvey",
+          "prior_employer": "Meta",
+          "internal": false
+        },
+        {
+          "startup": "Physical Intelligence",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "Physical Intelligence",
+          "prior_employer": "Stripe",
+          "internal": true
+        },
+        {
+          "startup": "Physical Intelligence",
+          "prior_employer": "X (formerly Twitter)",
+          "internal": true
+        },
+        {
+          "startup": "Unconventional AI",
+          "prior_employer": "Databricks",
+          "internal": false
+        },
+        {
+          "startup": "Unconventional AI",
+          "prior_employer": "MosaicML",
+          "internal": false
+        },
+        {
+          "startup": "Unconventional AI",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "ByteDance",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Inferact",
+          "prior_employer": "Databricks",
+          "internal": false
+        },
+        {
+          "startup": "CoinSwitch",
+          "prior_employer": "Amazon",
+          "internal": false
+        },
+        {
+          "startup": "CoinSwitch",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "OpenAI",
+          "prior_employer": "Stripe",
+          "internal": true
+        },
+        {
+          "startup": "OpenAI",
+          "prior_employer": "Google",
+          "internal": false
+        },
+        {
+          "startup": "OpenAI",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "OpenAI",
+          "prior_employer": "Tesla",
+          "internal": false
+        },
+        {
+          "startup": "OpenAI",
+          "prior_employer": "Microsoft",
+          "internal": false
+        },
+        {
+          "startup": "Flapping Airplanes",
+          "prior_employer": "Neuralink",
+          "internal": true
+        },
+        {
+          "startup": "Skild AI",
+          "prior_employer": "Facebook",
+          "internal": false
+        },
+        {
+          "startup": "Skild AI",
+          "prior_employer": "Meta",
+          "internal": false
+        },
+        {
+          "startup": "Skild AI",
+          "prior_employer": "Google",
+          "internal": false
+        }
+      ]
+    }
+  }
+}

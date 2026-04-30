@@ -1,0 +1,733 @@
+{
+  "OpenAI": [
+    "Stripe",
+    "Google",
+    "Facebook",
+    "Tesla",
+    "Microsoft"
+  ],
+  "Anthropic": [
+    "OpenAI",
+    "Google",
+    "Stripe"
+  ],
+  "Waymo": [
+    "Google"
+  ],
+  "Databricks": [
+    "Google"
+  ],
+  "xAI": [
+    "Google",
+    "OpenAI",
+    "Microsoft",
+    "Tesla",
+    "X (formerly Twitter)",
+    "Airbnb"
+  ],
+  "X (formerly Twitter)": [
+    "Google"
+  ],
+  "Stripe": [],
+  "Anduril Industries": [
+    "Facebook",
+    "Palantir",
+    "Mithril"
+  ],
+  "Robinhood": [],
+  "Anysphere": [
+    "Palantir",
+    "Google",
+    "Tesla",
+    "Stripe",
+    "Octant Bio"
+  ],
+  "Altos Labs": [],
+  "Safe Superintelligence": [
+    "OpenAI",
+    "Apple",
+    "Google",
+    "Microsoft",
+    "Meta",
+    "CUE Labs"
+  ],
+  "Saronic": [],
+  "Crusoe": [],
+  "Ramp": [],
+  "Reflection AI": [
+    "Google"
+  ],
+  "Wonder": [
+    "Amazon"
+  ],
+  "Thinking Machines Lab": [
+    "OpenAI",
+    "Anthropic",
+    "Tesla",
+    "Google",
+    "Meta",
+    "Character.ai"
+  ],
+  "ByteDance": [
+    "Microsoft"
+  ],
+  "FTX": [
+    "Google",
+    "Facebook"
+  ],
+  "Klarna": [],
+  "Aurora": [
+    "Google",
+    "Tesla",
+    "Uber"
+  ],
+  "Wiz": [
+    "Microsoft",
+    "Unit"
+  ],
+  "Devoted Health": [],
+  "Skild AI": [
+    "Facebook",
+    "Meta",
+    "Google"
+  ],
+  "Cyera": [],
+  "EQRx": [
+    "Tango",
+    "Relay"
+  ],
+  "Getir": [],
+  "SpaceX": [
+    "PayPal"
+  ],
+  "Kalshi": [
+    "Citadel Securities",
+    "Palantir"
+  ],
+  "Kavak": [
+    "Amazon"
+  ],
+  "Zepto": [],
+  "Applied Intuition": [
+    "Google",
+    "NVIDIA",
+    "Microsoft"
+  ],
+  "Faire": [
+    "Square",
+    "Google"
+  ],
+  "Rippling": [
+    "Google",
+    "Microsoft"
+  ],
+  "Scale": [
+    "Quora",
+    "Addepar",
+    "Facebook"
+  ],
+  "Lacework": [
+    "Oracle",
+    "Pillar",
+    "Cisco"
+  ],
+  "Deel": [],
+  "World Labs": [
+    "Google",
+    "Facebook",
+    "Meta"
+  ],
+  "Harvey": [
+    "Google",
+    "Meta"
+  ],
+  "Base Power": [
+    "SpaceX",
+    "Anduril Industries"
+  ],
+  "Citadel Securities": [],
+  "Neuralink": [
+    "OpenAI",
+    "Tesla"
+  ],
+  "Physical Intelligence": [
+    "Google",
+    "Stripe",
+    "X (formerly Twitter)"
+  ],
+  "Luma AI": [
+    "Apple"
+  ],
+  "Quince": [],
+  "Eikon Therapeutics": [],
+  "Chaos": [
+    "Epirus",
+    "Palantir",
+    "Formation",
+    "OpenAI"
+  ],
+  "Superhuman (formerly Grammarly)": [
+    "LinkedIn"
+  ],
+  "ClickHouse": [
+    "Google"
+  ],
+  "Xaira Therapeutics": [
+    "Meta"
+  ],
+  "Bird": [
+    "Uber"
+  ],
+  "RingCentral Events": [],
+  "Whatnot": [
+    "Facebook",
+    "Google",
+    "The Zebra"
+  ],
+  "Flexport": [
+    "Amazon"
+  ],
+  "Resilience": [
+    "Uber"
+  ],
+  "KoBold Metals": [],
+  "Forte": [
+    "Unity",
+    "N3TWORK"
+  ],
+  "Transcarent": [],
+  "Trade Republic": [],
+  "Pacific Fusion": [],
+  "Cognition": [
+    "Scale",
+    "Addepar",
+    "Facebook",
+    "Google",
+    "Modal Labs"
+  ],
+  "Fireblocks": [],
+  "Replit": [
+    "Facebook"
+  ],
+  "Vercel": [],
+  "Shield AI": [],
+  "Freenome": [
+    "Apple",
+    "Royal"
+  ],
+  "Heyday": [],
+  "Rappi": [],
+  "Island": [],
+  "Tempo": [
+    "Microsoft",
+    "Google",
+    "Loop"
+  ],
+  "Legora": [],
+  "ElevenLabs": [
+    "Google",
+    "Palantir",
+    "Tessian"
+  ],
+  "Glean": [
+    "Google",
+    "Facebook",
+    "Microsoft",
+    "Uber",
+    "Oracle"
+  ],
+  "UiPath": [
+    "Microsoft"
+  ],
+  "OpenEvidence": [],
+  "Grafana Labs": [],
+  "SpotOn": [],
+  "1Password": [],
+  "Abridge": [
+    "Meta",
+    "Instacart",
+    "Google"
+  ],
+  "Dingdong Maicai": [],
+  "Sorare": [],
+  "The Boring Company": [
+    "SpaceX",
+    "Tesla",
+    "PayPal"
+  ],
+  "Temporal Technologies": [
+    "Amazon",
+    "Microsoft",
+    "Uber",
+    "Google"
+  ],
+  "Cross River Bank": [],
+  "Nexthop AI": [
+    "Cisco",
+    "NVIDIA"
+  ],
+  "Rapyd": [],
+  "Sila": [
+    "Tesla"
+  ],
+  "Melio": [
+    "PayPal"
+  ],
+  "Nuvemshop": [],
+  "Eruditus Executive Education": [],
+  "Flock Safety": [
+    "Clutch",
+    "Moment"
+  ],
+  "Dapper Labs": [],
+  "Fivetran": [],
+  "Zepz": [],
+  "Lila Sciences": [
+    "Flagship"
+  ],
+  "Socure": [],
+  "ArsenalBio": [],
+  "Noom": [
+    "Google",
+    "Microsoft"
+  ],
+  "Together AI": [
+    "Apple",
+    "Google"
+  ],
+  "Lovable": [],
+  "Impulse Space": [
+    "SpaceX"
+  ],
+  "Mind Robotics": [
+    "Physical Intelligence",
+    "Waymo",
+    "Google"
+  ],
+  "Remote": [],
+  "Mercor": [
+    "Amazon"
+  ],
+  "Alchemy": [
+    "Facebook",
+    "Google",
+    "Microsoft",
+    "LinkedIn"
+  ],
+  "Unconventional AI": [
+    "Databricks",
+    "MosaicML",
+    "Google"
+  ],
+  "Yuga Labs": [],
+  "Castelion": [
+    "SpaceX"
+  ],
+  "Hadrian": [],
+  "Misfits Market": [],
+  "Rain": [
+    "Playbook"
+  ],
+  "Black Forest Labs": [
+    "Stability AI"
+  ],
+  "Mercury": [
+    "Facebook",
+    "Google",
+    "Microsoft",
+    "ByteDance",
+    "Uber",
+    "Airbnb",
+    "Stripe"
+  ],
+  "Sonar": [],
+  "Cloaked": [],
+  "FTX US": [
+    "Google"
+  ],
+  "ClickUp": [],
+  "Insitro": [],
+  "Miro": [],
+  "Suno": [],
+  "Hippocratic AI": [
+    "Google",
+    "Microsoft",
+    "Amazon",
+    "NVIDIA"
+  ],
+  "Teya": [],
+  "K2 Space": [
+    "SpaceX"
+  ],
+  "Chronosphere, Inc. A Palo Alto Networks": [
+    "Uber",
+    "Microsoft"
+  ],
+  "Cellares": [],
+  "Cityblock Health": [
+    "Google"
+  ],
+  "Function Health": [
+    "Meta"
+  ],
+  "Bedrock Robotics": [
+    "Waymo",
+    "Uber"
+  ],
+  "Modular": [
+    "Google",
+    "Apple",
+    "Tesla"
+  ],
+  "Adept AI": [
+    "OpenAI",
+    "Google",
+    "Microsoft"
+  ],
+  "Aptos": [
+    "Meta",
+    "Facebook",
+    "Diem"
+  ],
+  "Mysten Labs": [
+    "Meta",
+    "Facebook",
+    "Apple",
+    "Oracle"
+  ],
+  "Ricursive Intelligence": [
+    "Google",
+    "Anthropic"
+  ],
+  "Varda": [
+    "SpaceX",
+    "Square"
+  ],
+  "Elemy": [],
+  "Ambience Healthcare": [],
+  "Arena": [
+    "Palantir"
+  ],
+  "Sky Mavis": [
+    "Anduin"
+  ],
+  "Hermeus": [
+    "SpaceX"
+  ],
+  "Bowery Farming": [
+    "Oracle"
+  ],
+  "Periodic Labs": [
+    "OpenAI",
+    "Google",
+    "Microsoft"
+  ],
+  "Zapp": [
+    "Rocket",
+    "Amazon"
+  ],
+  "Harmonic": [
+    "Robinhood"
+  ],
+  "Sonoma Biotherapeutics": [],
+  "Veho": [],
+  "Paradigm": [],
+  "Up&Up": [
+    "Robinhood",
+    "Airbnb",
+    "Plaid"
+  ],
+  "CoinSwitch": [
+    "Amazon",
+    "Microsoft"
+  ],
+  "Notion": [
+    "LinkedIn",
+    "Persona",
+    "Typeface",
+    "Kernel"
+  ],
+  "Orbital Therapeutics": [
+    "Beam"
+  ],
+  "Neko Health": [],
+  "Harbor Health": [],
+  "Diagonal Therapeutics": [
+    "Atlas"
+  ],
+  "Genesis Molecular AI": [],
+  "Beacon Software": [
+    "Instacart",
+    "Databricks",
+    "Airbnb",
+    "Palantir"
+  ],
+  "Idrx": [
+    "EQRx",
+    "Relay"
+  ],
+  "Moonvalley": [],
+  "Awardco": [
+    "Golden"
+  ],
+  "Triana Biomedicines": [
+    "Warp"
+  ],
+  "Aleo": [
+    "Google",
+    "Gnosis",
+    "Amazon",
+    "Uber"
+  ],
+  "Augment Code": [
+    "Microsoft",
+    "Google"
+  ],
+  "Seismic Therapeutic": [],
+  "PB Healthcare Services": [],
+  "Mensa Brands": [],
+  "Immunai": [
+    "Palantir",
+    "Amazon",
+    "Gloat"
+  ],
+  "Tome Biosciences": [
+    "PROOF"
+  ],
+  "ICON": [
+    "Treehouse",
+    "Vesta"
+  ],
+  "Goodfire": [
+    "Google",
+    "OpenAI",
+    "Snowflake",
+    "Microsoft",
+    "Airbnb"
+  ],
+  "Lessen": [],
+  "Landis": [
+    "Airbnb"
+  ],
+  "Wave Mobile Money": [],
+  "AA-I Technologies": [
+    "AI21 Labs"
+  ],
+  "DeSo Foundation": [
+    "Google",
+    "Basis"
+  ],
+  "BrowserStack": [],
+  "Distyl AI": [
+    "Palantir",
+    "Snorkel AI",
+    "Citadel Securities"
+  ],
+  "Tripledot Studios": [
+    "Facebook"
+  ],
+  "Aera Therapeutics": [
+    "Beam"
+  ],
+  "Armadin Security": [
+    "Google"
+  ],
+  "Endor Labs": [],
+  "Braveheart Bio": [
+    "Karius"
+  ],
+  "Nominal": [
+    "Anduril Industries",
+    "Palantir",
+    "Applied Intuition",
+    "Saildrone",
+    "Vercel"
+  ],
+  "Standard Nuclear": [],
+  "Airbyte": [],
+  "Tul": [
+    "Rappi",
+    "Uber"
+  ],
+  "Protego Biopharma": [],
+  "Flapping Airplanes": [
+    "Neuralink"
+  ],
+  "Vega": [
+    "Unit"
+  ],
+  "Antares Therapeutics": [
+    "Scorpion Therapeutics",
+    "Atlas"
+  ],
+  "Uniswap Labs": [],
+  "Physics Wallah": [],
+  "Enlaza Therapeutics": [],
+  "Zarminali Health": [
+    "Devoted Health",
+    "Amazon"
+  ],
+  "Inferact": [
+    "Databricks"
+  ],
+  "Character.ai": [
+    "Google",
+    "Microsoft"
+  ],
+  "Opto Investments": [
+    "Addepar",
+    "Palantir"
+  ],
+  "Talon Cyber Security": [
+    "Unit"
+  ],
+  "EvolutionaryScale": [
+    "Meta",
+    "Facebook",
+    "Kallyope",
+    "Chef Robotics"
+  ],
+  "General Intuition": [],
+  "Higgsfield": [
+    "Apple"
+  ],
+  "Resolve.ai": [
+    "Microsoft",
+    "NVIDIA"
+  ],
+  "Inworld AI": [
+    "Google"
+  ],
+  "CREATE Medicines": [],
+  "Slingshot AI": [
+    "Instabase"
+  ],
+  "OpenFX": [
+    "FalconX"
+  ],
+  "Slate Auto": [
+    "Amazon",
+    "Re:Build"
+  ],
+  "Augment": [
+    "Amazon",
+    "Deliverr",
+    "Shopify",
+    "Flexport"
+  ],
+  "Voltron Data": [
+    "NVIDIA",
+    "Apple",
+    "Amazon"
+  ],
+  "Substrate": [
+    "Hello Patient"
+  ],
+  "Eudia": [
+    "Relativity Space",
+    "Apple",
+    "Google",
+    "Amazon"
+  ],
+  "Exowatt": [
+    "Tesla",
+    "Atomic Industries"
+  ],
+  "Satellite Bio": [],
+  "NILO Therapeutics": [
+    "Kallyope",
+    "Cajal Neuroscience"
+  ],
+  "Parallel": [
+    "Google",
+    "Stripe",
+    "Airbnb",
+    "Waymo"
+  ],
+  "Lumeris": [],
+  "InnoStar Semiconductor": [],
+  "CoinTracker": [
+    "Google",
+    "Apple"
+  ],
+  "Contextual AI": [
+    "Facebook",
+    "Hugging Face",
+    "Microsoft",
+    "Amazon"
+  ],
+  "Safe": [
+    "OpenAI",
+    "Google",
+    "Apple"
+  ],
+  "1047 Games": [
+    "Apple"
+  ],
+  "Inceptive": [
+    "Google"
+  ],
+  "Dyno Therapeutics": [],
+  "Cambridge Aerospace": [
+    "Anduril Industries",
+    "Auctor"
+  ],
+  "Tessl": [
+    "Snyk"
+  ],
+  "H Company": [
+    "Google",
+    "Palantir"
+  ],
+  "Lower": [],
+  "Cellino": [],
+  "Cajal Neuroscience": [
+    "Kallyope"
+  ],
+  "Abata Therapeutics": [],
+  "Cognichip": [
+    "Amazon",
+    "Apple",
+    "Google",
+    "Cisco",
+    "Cadence Solutions"
+  ],
+  "DualEntry": [],
+  "Uni Cards": [],
+  "Descope": [],
+  "Cartesia": [
+    "Snorkel AI",
+    "Apple",
+    "Microsoft"
+  ],
+  "Valinor Enterprises": [
+    "Palantir"
+  ],
+  "Sentient": [
+    "Polygon",
+    "Google"
+  ],
+  "Modus": [
+    "Palantir",
+    "Citadel Securities",
+    "Ramp"
+  ],
+  "Mariana Minerals": [
+    "Tesla",
+    "Affirm",
+    "Kite AI"
+  ],
+  "Mendra": [
+    "Palantir"
+  ],
+  "Reevo": [
+    "Google",
+    "Meta"
+  ],
+  "Latent": [
+    "Hebbia"
+  ],
+  "Zag Bio": [
+    "Seismic"
+  ]
+}

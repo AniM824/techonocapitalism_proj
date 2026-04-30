@@ -1,0 +1,1014 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Sector × VC Proportion Table</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #1a1a2e; color: #eee; font-family: system-ui, sans-serif;
+          padding: 32px; }
+  h1 { font-size: 20px; color: #aaa; margin-bottom: 6px; font-weight: 500; }
+  p.sub { font-size: 12px; color: #666; margin-bottom: 24px; }
+  table { border-collapse: collapse; width: 100%; table-layout: fixed; }
+  th { background: #11112a; color: #888; font-size: 11px; font-weight: 500;
+        text-transform: uppercase; letter-spacing: .06em;
+        padding: 10px 12px; text-align: left; border-bottom: 1px solid #333; }
+  td { padding: 0; border-bottom: 1px solid #1e1e3a; vertical-align: top;
+        position: relative; overflow: hidden; }
+  td.sector-cell {
+    padding: 10px 12px; font-size: 13px; font-weight: 500; color: #ddd;
+    white-space: nowrap; background: #11112a; width: 200px;
+    border-right: 1px solid #333;
+  }
+  .sdot { display: inline-block; width: 10px; height: 10px; border-radius: 50%;
+            margin-right: 7px; vertical-align: middle; }
+  .cell-inner {
+    display: flex; align-items: center; gap: 5px;
+    padding: 9px 10px 4px; font-size: 12px;
+  }
+  .rank  { color: #555; font-size: 10px; width: 20px; flex-shrink: 0; }
+  .dot   { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+  .vc-name { flex: 1; color: #ccc; }
+  .pct   { color: #eee; font-weight: 600; font-size: 13px; }
+  .cnt   { color: #666; font-size: 11px; }
+  .bar   { height: 3px; margin: 2px 0 6px; border-radius: 2px; transition: width .3s; }
+  tr:hover td { background: #1e1e2e !important; }
+</style>
+</head>
+<body>
+<h1>Sector × VC Proportion</h1>
+<p class="sub">For each sector, VCs ranked by proportion of their portfolio in that sector.
+  Count = companies in portfolio tagged with that sector.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Sector</th>
+      <th>#1</th><th>#2</th><th>#3</th><th>#4</th><th>#5</th><th>#6</th><th>#7</th><th>#8</th><th>#9</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+        <tr>
+          <td class="sector-cell">
+            <span class="sdot" style="background:#6366f1"></span>AI / Foundation Models
+          </td>
+          
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#1</span>
+                <span class="dot" style="background:#e377c2"></span>
+                <span class="vc-name">lux</span>
+                <span class="pct">20.4%</span>
+                <span class="cnt">(11)</span>
+              </div>
+              <div class="bar" style="width:20.4%;background:#e377c2;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#2</span>
+                <span class="dot" style="background:#ff7f0e"></span>
+                <span class="vc-name">lightspeed</span>
+                <span class="pct">17.1%</span>
+                <span class="cnt">(22)</span>
+              </div>
+              <div class="bar" style="width:17.1%;background:#ff7f0e;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#3</span>
+                <span class="dot" style="background:#d62728"></span>
+                <span class="vc-name">sequoia</span>
+                <span class="pct">15.0%</span>
+                <span class="cnt">(19)</span>
+              </div>
+              <div class="bar" style="width:15.0%;background:#d62728;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#4</span>
+                <span class="dot" style="background:#2ca02c"></span>
+                <span class="vc-name">gc</span>
+                <span class="pct">13.2%</span>
+                <span class="cnt">(16)</span>
+              </div>
+              <div class="bar" style="width:13.2%;background:#2ca02c;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#5</span>
+                <span class="dot" style="background:#8c564b"></span>
+                <span class="vc-name">ff</span>
+                <span class="pct">10.6%</span>
+                <span class="cnt">(7)</span>
+              </div>
+              <div class="bar" style="width:10.6%;background:#8c564b;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#6</span>
+                <span class="dot" style="background:#1f77b4"></span>
+                <span class="vc-name">a16z</span>
+                <span class="pct">10.2%</span>
+                <span class="cnt">(18)</span>
+              </div>
+              <div class="bar" style="width:10.2%;background:#1f77b4;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#7</span>
+                <span class="dot" style="background:#bcbd22"></span>
+                <span class="vc-name">kp</span>
+                <span class="pct">9.6%</span>
+                <span class="cnt">(5)</span>
+              </div>
+              <div class="bar" style="width:9.6%;background:#bcbd22;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#8</span>
+                <span class="dot" style="background:#7f7f7f"></span>
+                <span class="vc-name">8vc</span>
+                <span class="pct">5.7%</span>
+                <span class="cnt">(3)</span>
+              </div>
+              <div class="bar" style="width:5.7%;background:#7f7f7f;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#9</span>
+                <span class="dot" style="background:#9467bd"></span>
+                <span class="vc-name">accel</span>
+                <span class="pct">4.4%</span>
+                <span class="cnt">(5)</span>
+              </div>
+              <div class="bar" style="width:4.4%;background:#9467bd;opacity:0.5"></div>
+            </td>
+        </tr>
+        <tr>
+          <td class="sector-cell">
+            <span class="sdot" style="background:#a78bfa"></span>AI Applications
+          </td>
+          
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#1</span>
+                <span class="dot" style="background:#2ca02c"></span>
+                <span class="vc-name">gc</span>
+                <span class="pct">45.5%</span>
+                <span class="cnt">(55)</span>
+              </div>
+              <div class="bar" style="width:45.5%;background:#2ca02c;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#2</span>
+                <span class="dot" style="background:#d62728"></span>
+                <span class="vc-name">sequoia</span>
+                <span class="pct">43.3%</span>
+                <span class="cnt">(55)</span>
+              </div>
+              <div class="bar" style="width:43.3%;background:#d62728;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#3</span>
+                <span class="dot" style="background:#bcbd22"></span>
+                <span class="vc-name">kp</span>
+                <span class="pct">42.3%</span>
+                <span class="cnt">(22)</span>
+              </div>
+              <div class="bar" style="width:42.3%;background:#bcbd22;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#4</span>
+                <span class="dot" style="background:#9467bd"></span>
+                <span class="vc-name">accel</span>
+                <span class="pct">42.1%</span>
+                <span class="cnt">(48)</span>
+              </div>
+              <div class="bar" style="width:42.1%;background:#9467bd;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#5</span>
+                <span class="dot" style="background:#ff7f0e"></span>
+                <span class="vc-name">lightspeed</span>
+                <span class="pct">41.9%</span>
+                <span class="cnt">(54)</span>
+              </div>
+              <div class="bar" style="width:41.9%;background:#ff7f0e;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#6</span>
+                <span class="dot" style="background:#1f77b4"></span>
+                <span class="vc-name">a16z</span>
+                <span class="pct">36.7%</span>
+                <span class="cnt">(65)</span>
+              </div>
+              <div class="bar" style="width:36.7%;background:#1f77b4;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#7</span>
+                <span class="dot" style="background:#7f7f7f"></span>
+                <span class="vc-name">8vc</span>
+                <span class="pct">34.0%</span>
+                <span class="cnt">(18)</span>
+              </div>
+              <div class="bar" style="width:34.0%;background:#7f7f7f;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#8</span>
+                <span class="dot" style="background:#8c564b"></span>
+                <span class="vc-name">ff</span>
+                <span class="pct">28.8%</span>
+                <span class="cnt">(19)</span>
+              </div>
+              <div class="bar" style="width:28.8%;background:#8c564b;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#9</span>
+                <span class="dot" style="background:#e377c2"></span>
+                <span class="vc-name">lux</span>
+                <span class="pct">20.4%</span>
+                <span class="cnt">(11)</span>
+              </div>
+              <div class="bar" style="width:20.4%;background:#e377c2;opacity:0.5"></div>
+            </td>
+        </tr>
+        <tr>
+          <td class="sector-cell">
+            <span class="sdot" style="background:#ef4444"></span>Defense / Dual-Use
+          </td>
+          
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#1</span>
+                <span class="dot" style="background:#e377c2"></span>
+                <span class="vc-name">lux</span>
+                <span class="pct">22.2%</span>
+                <span class="cnt">(12)</span>
+              </div>
+              <div class="bar" style="width:22.2%;background:#e377c2;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#2</span>
+                <span class="dot" style="background:#8c564b"></span>
+                <span class="vc-name">ff</span>
+                <span class="pct">18.2%</span>
+                <span class="cnt">(12)</span>
+              </div>
+              <div class="bar" style="width:18.2%;background:#8c564b;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#3</span>
+                <span class="dot" style="background:#7f7f7f"></span>
+                <span class="vc-name">8vc</span>
+                <span class="pct">15.1%</span>
+                <span class="cnt">(8)</span>
+              </div>
+              <div class="bar" style="width:15.1%;background:#7f7f7f;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#4</span>
+                <span class="dot" style="background:#bcbd22"></span>
+                <span class="vc-name">kp</span>
+                <span class="pct">11.5%</span>
+                <span class="cnt">(6)</span>
+              </div>
+              <div class="bar" style="width:11.5%;background:#bcbd22;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#5</span>
+                <span class="dot" style="background:#ff7f0e"></span>
+                <span class="vc-name">lightspeed</span>
+                <span class="pct">10.1%</span>
+                <span class="cnt">(13)</span>
+              </div>
+              <div class="bar" style="width:10.1%;background:#ff7f0e;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#6</span>
+                <span class="dot" style="background:#2ca02c"></span>
+                <span class="vc-name">gc</span>
+                <span class="pct">9.9%</span>
+                <span class="cnt">(12)</span>
+              </div>
+              <div class="bar" style="width:9.9%;background:#2ca02c;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#7</span>
+                <span class="dot" style="background:#1f77b4"></span>
+                <span class="vc-name">a16z</span>
+                <span class="pct">7.3%</span>
+                <span class="cnt">(13)</span>
+              </div>
+              <div class="bar" style="width:7.3%;background:#1f77b4;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#8</span>
+                <span class="dot" style="background:#d62728"></span>
+                <span class="vc-name">sequoia</span>
+                <span class="pct">4.7%</span>
+                <span class="cnt">(6)</span>
+              </div>
+              <div class="bar" style="width:4.7%;background:#d62728;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#9</span>
+                <span class="dot" style="background:#9467bd"></span>
+                <span class="vc-name">accel</span>
+                <span class="pct">3.5%</span>
+                <span class="cnt">(4)</span>
+              </div>
+              <div class="bar" style="width:3.5%;background:#9467bd;opacity:0.5"></div>
+            </td>
+        </tr>
+        <tr>
+          <td class="sector-cell">
+            <span class="sdot" style="background:#10b981"></span>Fintech
+          </td>
+          
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#1</span>
+                <span class="dot" style="background:#9467bd"></span>
+                <span class="vc-name">accel</span>
+                <span class="pct">33.3%</span>
+                <span class="cnt">(38)</span>
+              </div>
+              <div class="bar" style="width:33.3%;background:#9467bd;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#2</span>
+                <span class="dot" style="background:#8c564b"></span>
+                <span class="vc-name">ff</span>
+                <span class="pct">28.8%</span>
+                <span class="cnt">(19)</span>
+              </div>
+              <div class="bar" style="width:28.8%;background:#8c564b;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#3</span>
+                <span class="dot" style="background:#1f77b4"></span>
+                <span class="vc-name">a16z</span>
+                <span class="pct">28.2%</span>
+                <span class="cnt">(50)</span>
+              </div>
+              <div class="bar" style="width:28.2%;background:#1f77b4;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#4</span>
+                <span class="dot" style="background:#d62728"></span>
+                <span class="vc-name">sequoia</span>
+                <span class="pct">27.6%</span>
+                <span class="cnt">(35)</span>
+              </div>
+              <div class="bar" style="width:27.6%;background:#d62728;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#5</span>
+                <span class="dot" style="background:#2ca02c"></span>
+                <span class="vc-name">gc</span>
+                <span class="pct">20.7%</span>
+                <span class="cnt">(25)</span>
+              </div>
+              <div class="bar" style="width:20.7%;background:#2ca02c;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#6</span>
+                <span class="dot" style="background:#ff7f0e"></span>
+                <span class="vc-name">lightspeed</span>
+                <span class="pct">19.4%</span>
+                <span class="cnt">(25)</span>
+              </div>
+              <div class="bar" style="width:19.4%;background:#ff7f0e;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#7</span>
+                <span class="dot" style="background:#e377c2"></span>
+                <span class="vc-name">lux</span>
+                <span class="pct">18.5%</span>
+                <span class="cnt">(10)</span>
+              </div>
+              <div class="bar" style="width:18.5%;background:#e377c2;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#8</span>
+                <span class="dot" style="background:#7f7f7f"></span>
+                <span class="vc-name">8vc</span>
+                <span class="pct">15.1%</span>
+                <span class="cnt">(8)</span>
+              </div>
+              <div class="bar" style="width:15.1%;background:#7f7f7f;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#9</span>
+                <span class="dot" style="background:#bcbd22"></span>
+                <span class="vc-name">kp</span>
+                <span class="pct">13.5%</span>
+                <span class="cnt">(7)</span>
+              </div>
+              <div class="bar" style="width:13.5%;background:#bcbd22;opacity:0.5"></div>
+            </td>
+        </tr>
+        <tr>
+          <td class="sector-cell">
+            <span class="sdot" style="background:#f59e0b"></span>Data / Dev Infra
+          </td>
+          
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#1</span>
+                <span class="dot" style="background:#9467bd"></span>
+                <span class="vc-name">accel</span>
+                <span class="pct">43.0%</span>
+                <span class="cnt">(49)</span>
+              </div>
+              <div class="bar" style="width:43.0%;background:#9467bd;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#2</span>
+                <span class="dot" style="background:#d62728"></span>
+                <span class="vc-name">sequoia</span>
+                <span class="pct">42.5%</span>
+                <span class="cnt">(54)</span>
+              </div>
+              <div class="bar" style="width:42.5%;background:#d62728;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#3</span>
+                <span class="dot" style="background:#ff7f0e"></span>
+                <span class="vc-name">lightspeed</span>
+                <span class="pct">40.3%</span>
+                <span class="cnt">(52)</span>
+              </div>
+              <div class="bar" style="width:40.3%;background:#ff7f0e;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#4</span>
+                <span class="dot" style="background:#bcbd22"></span>
+                <span class="vc-name">kp</span>
+                <span class="pct">34.6%</span>
+                <span class="cnt">(18)</span>
+              </div>
+              <div class="bar" style="width:34.6%;background:#bcbd22;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#5</span>
+                <span class="dot" style="background:#1f77b4"></span>
+                <span class="vc-name">a16z</span>
+                <span class="pct">31.1%</span>
+                <span class="cnt">(55)</span>
+              </div>
+              <div class="bar" style="width:31.1%;background:#1f77b4;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#6</span>
+                <span class="dot" style="background:#2ca02c"></span>
+                <span class="vc-name">gc</span>
+                <span class="pct">28.9%</span>
+                <span class="cnt">(35)</span>
+              </div>
+              <div class="bar" style="width:28.9%;background:#2ca02c;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#7</span>
+                <span class="dot" style="background:#e377c2"></span>
+                <span class="vc-name">lux</span>
+                <span class="pct">25.9%</span>
+                <span class="cnt">(14)</span>
+              </div>
+              <div class="bar" style="width:25.9%;background:#e377c2;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#8</span>
+                <span class="dot" style="background:#7f7f7f"></span>
+                <span class="vc-name">8vc</span>
+                <span class="pct">24.5%</span>
+                <span class="cnt">(13)</span>
+              </div>
+              <div class="bar" style="width:24.5%;background:#7f7f7f;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#9</span>
+                <span class="dot" style="background:#8c564b"></span>
+                <span class="vc-name">ff</span>
+                <span class="pct">21.2%</span>
+                <span class="cnt">(14)</span>
+              </div>
+              <div class="bar" style="width:21.2%;background:#8c564b;opacity:0.5"></div>
+            </td>
+        </tr>
+        <tr>
+          <td class="sector-cell">
+            <span class="sdot" style="background:#ec4899"></span>Biotech / Life Sciences
+          </td>
+          
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#1</span>
+                <span class="dot" style="background:#e377c2"></span>
+                <span class="vc-name">lux</span>
+                <span class="pct">24.1%</span>
+                <span class="cnt">(13)</span>
+              </div>
+              <div class="bar" style="width:24.1%;background:#e377c2;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#2</span>
+                <span class="dot" style="background:#7f7f7f"></span>
+                <span class="vc-name">8vc</span>
+                <span class="pct">22.6%</span>
+                <span class="cnt">(12)</span>
+              </div>
+              <div class="bar" style="width:22.6%;background:#7f7f7f;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#3</span>
+                <span class="dot" style="background:#ff7f0e"></span>
+                <span class="vc-name">lightspeed</span>
+                <span class="pct">12.4%</span>
+                <span class="cnt">(16)</span>
+              </div>
+              <div class="bar" style="width:12.4%;background:#ff7f0e;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#4</span>
+                <span class="dot" style="background:#8c564b"></span>
+                <span class="vc-name">ff</span>
+                <span class="pct">7.6%</span>
+                <span class="cnt">(5)</span>
+              </div>
+              <div class="bar" style="width:7.6%;background:#8c564b;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#5</span>
+                <span class="dot" style="background:#1f77b4"></span>
+                <span class="vc-name">a16z</span>
+                <span class="pct">7.3%</span>
+                <span class="cnt">(13)</span>
+              </div>
+              <div class="bar" style="width:7.3%;background:#1f77b4;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#6</span>
+                <span class="dot" style="background:#2ca02c"></span>
+                <span class="vc-name">gc</span>
+                <span class="pct">6.6%</span>
+                <span class="cnt">(8)</span>
+              </div>
+              <div class="bar" style="width:6.6%;background:#2ca02c;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#7</span>
+                <span class="dot" style="background:#bcbd22"></span>
+                <span class="vc-name">kp</span>
+                <span class="pct">5.8%</span>
+                <span class="cnt">(3)</span>
+              </div>
+              <div class="bar" style="width:5.8%;background:#bcbd22;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#8</span>
+                <span class="dot" style="background:#d62728"></span>
+                <span class="vc-name">sequoia</span>
+                <span class="pct">3.9%</span>
+                <span class="cnt">(5)</span>
+              </div>
+              <div class="bar" style="width:3.9%;background:#d62728;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#9</span>
+                <span class="dot" style="background:#9467bd"></span>
+                <span class="vc-name">accel</span>
+                <span class="pct">1.8%</span>
+                <span class="cnt">(2)</span>
+              </div>
+              <div class="bar" style="width:1.8%;background:#9467bd;opacity:0.5"></div>
+            </td>
+        </tr>
+        <tr>
+          <td class="sector-cell">
+            <span class="sdot" style="background:#06b6d4"></span>Robotics / Autonomy
+          </td>
+          
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#1</span>
+                <span class="dot" style="background:#7f7f7f"></span>
+                <span class="vc-name">8vc</span>
+                <span class="pct">17.0%</span>
+                <span class="cnt">(9)</span>
+              </div>
+              <div class="bar" style="width:17.0%;background:#7f7f7f;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#2</span>
+                <span class="dot" style="background:#2ca02c"></span>
+                <span class="vc-name">gc</span>
+                <span class="pct">11.6%</span>
+                <span class="cnt">(14)</span>
+              </div>
+              <div class="bar" style="width:11.6%;background:#2ca02c;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#3</span>
+                <span class="dot" style="background:#bcbd22"></span>
+                <span class="vc-name">kp</span>
+                <span class="pct">11.5%</span>
+                <span class="cnt">(6)</span>
+              </div>
+              <div class="bar" style="width:11.5%;background:#bcbd22;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#4</span>
+                <span class="dot" style="background:#e377c2"></span>
+                <span class="vc-name">lux</span>
+                <span class="pct">11.1%</span>
+                <span class="cnt">(6)</span>
+              </div>
+              <div class="bar" style="width:11.1%;background:#e377c2;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#5</span>
+                <span class="dot" style="background:#1f77b4"></span>
+                <span class="vc-name">a16z</span>
+                <span class="pct">7.9%</span>
+                <span class="cnt">(14)</span>
+              </div>
+              <div class="bar" style="width:7.9%;background:#1f77b4;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#6</span>
+                <span class="dot" style="background:#8c564b"></span>
+                <span class="vc-name">ff</span>
+                <span class="pct">7.6%</span>
+                <span class="cnt">(5)</span>
+              </div>
+              <div class="bar" style="width:7.6%;background:#8c564b;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#7</span>
+                <span class="dot" style="background:#ff7f0e"></span>
+                <span class="vc-name">lightspeed</span>
+                <span class="pct">7.0%</span>
+                <span class="cnt">(9)</span>
+              </div>
+              <div class="bar" style="width:7.0%;background:#ff7f0e;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#8</span>
+                <span class="dot" style="background:#d62728"></span>
+                <span class="vc-name">sequoia</span>
+                <span class="pct">6.3%</span>
+                <span class="cnt">(8)</span>
+              </div>
+              <div class="bar" style="width:6.3%;background:#d62728;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#9</span>
+                <span class="dot" style="background:#9467bd"></span>
+                <span class="vc-name">accel</span>
+                <span class="pct">5.3%</span>
+                <span class="cnt">(6)</span>
+              </div>
+              <div class="bar" style="width:5.3%;background:#9467bd;opacity:0.5"></div>
+            </td>
+        </tr>
+        <tr>
+          <td class="sector-cell">
+            <span class="sdot" style="background:#84cc16"></span>Energy / Climate
+          </td>
+          
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#1</span>
+                <span class="dot" style="background:#8c564b"></span>
+                <span class="vc-name">ff</span>
+                <span class="pct">6.1%</span>
+                <span class="cnt">(4)</span>
+              </div>
+              <div class="bar" style="width:6.1%;background:#8c564b;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#2</span>
+                <span class="dot" style="background:#1f77b4"></span>
+                <span class="vc-name">a16z</span>
+                <span class="pct">4.5%</span>
+                <span class="cnt">(8)</span>
+              </div>
+              <div class="bar" style="width:4.5%;background:#1f77b4;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#3</span>
+                <span class="dot" style="background:#ff7f0e"></span>
+                <span class="vc-name">lightspeed</span>
+                <span class="pct">2.3%</span>
+                <span class="cnt">(3)</span>
+              </div>
+              <div class="bar" style="width:2.3%;background:#ff7f0e;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#4</span>
+                <span class="dot" style="background:#7f7f7f"></span>
+                <span class="vc-name">8vc</span>
+                <span class="pct">1.9%</span>
+                <span class="cnt">(1)</span>
+              </div>
+              <div class="bar" style="width:1.9%;background:#7f7f7f;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#5</span>
+                <span class="dot" style="background:#9467bd"></span>
+                <span class="vc-name">accel</span>
+                <span class="pct">1.8%</span>
+                <span class="cnt">(2)</span>
+              </div>
+              <div class="bar" style="width:1.8%;background:#9467bd;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#6</span>
+                <span class="dot" style="background:#2ca02c"></span>
+                <span class="vc-name">gc</span>
+                <span class="pct">1.7%</span>
+                <span class="cnt">(2)</span>
+              </div>
+              <div class="bar" style="width:1.7%;background:#2ca02c;opacity:0.5"></div>
+            </td>
+            <td style="opacity:0.25">
+              <div class="cell-inner">
+                <span class="rank">#7</span>
+                <span class="dot" style="background:#d62728"></span>
+                <span class="vc-name">sequoia</span>
+                <span class="pct">0.0%</span>
+                <span class="cnt">(0)</span>
+              </div>
+              <div class="bar" style="width:0.0%;background:#d62728;opacity:0.5"></div>
+            </td>
+            <td style="opacity:0.25">
+              <div class="cell-inner">
+                <span class="rank">#8</span>
+                <span class="dot" style="background:#e377c2"></span>
+                <span class="vc-name">lux</span>
+                <span class="pct">0.0%</span>
+                <span class="cnt">(0)</span>
+              </div>
+              <div class="bar" style="width:0.0%;background:#e377c2;opacity:0.5"></div>
+            </td>
+            <td style="opacity:0.25">
+              <div class="cell-inner">
+                <span class="rank">#9</span>
+                <span class="dot" style="background:#bcbd22"></span>
+                <span class="vc-name">kp</span>
+                <span class="pct">0.0%</span>
+                <span class="cnt">(0)</span>
+              </div>
+              <div class="bar" style="width:0.0%;background:#bcbd22;opacity:0.5"></div>
+            </td>
+        </tr>
+        <tr>
+          <td class="sector-cell">
+            <span class="sdot" style="background:#fb923c"></span>Healthcare
+          </td>
+          
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#1</span>
+                <span class="dot" style="background:#bcbd22"></span>
+                <span class="vc-name">kp</span>
+                <span class="pct">21.2%</span>
+                <span class="cnt">(11)</span>
+              </div>
+              <div class="bar" style="width:21.2%;background:#bcbd22;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#2</span>
+                <span class="dot" style="background:#7f7f7f"></span>
+                <span class="vc-name">8vc</span>
+                <span class="pct">20.8%</span>
+                <span class="cnt">(11)</span>
+              </div>
+              <div class="bar" style="width:20.8%;background:#7f7f7f;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#3</span>
+                <span class="dot" style="background:#2ca02c"></span>
+                <span class="vc-name">gc</span>
+                <span class="pct">17.4%</span>
+                <span class="cnt">(21)</span>
+              </div>
+              <div class="bar" style="width:17.4%;background:#2ca02c;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#4</span>
+                <span class="dot" style="background:#ff7f0e"></span>
+                <span class="vc-name">lightspeed</span>
+                <span class="pct">10.9%</span>
+                <span class="cnt">(14)</span>
+              </div>
+              <div class="bar" style="width:10.9%;background:#ff7f0e;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#5</span>
+                <span class="dot" style="background:#1f77b4"></span>
+                <span class="vc-name">a16z</span>
+                <span class="pct">9.6%</span>
+                <span class="cnt">(17)</span>
+              </div>
+              <div class="bar" style="width:9.6%;background:#1f77b4;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#6</span>
+                <span class="dot" style="background:#8c564b"></span>
+                <span class="vc-name">ff</span>
+                <span class="pct">9.1%</span>
+                <span class="cnt">(6)</span>
+              </div>
+              <div class="bar" style="width:9.1%;background:#8c564b;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#7</span>
+                <span class="dot" style="background:#e377c2"></span>
+                <span class="vc-name">lux</span>
+                <span class="pct">7.4%</span>
+                <span class="cnt">(4)</span>
+              </div>
+              <div class="bar" style="width:7.4%;background:#e377c2;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#8</span>
+                <span class="dot" style="background:#9467bd"></span>
+                <span class="vc-name">accel</span>
+                <span class="pct">3.5%</span>
+                <span class="cnt">(4)</span>
+              </div>
+              <div class="bar" style="width:3.5%;background:#9467bd;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#9</span>
+                <span class="dot" style="background:#d62728"></span>
+                <span class="vc-name">sequoia</span>
+                <span class="pct">3.1%</span>
+                <span class="cnt">(4)</span>
+              </div>
+              <div class="bar" style="width:3.1%;background:#d62728;opacity:0.5"></div>
+            </td>
+        </tr>
+        <tr>
+          <td class="sector-cell">
+            <span class="sdot" style="background:#94a3b8"></span>Space
+          </td>
+          
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#1</span>
+                <span class="dot" style="background:#8c564b"></span>
+                <span class="vc-name">ff</span>
+                <span class="pct">7.6%</span>
+                <span class="cnt">(5)</span>
+              </div>
+              <div class="bar" style="width:7.6%;background:#8c564b;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#2</span>
+                <span class="dot" style="background:#e377c2"></span>
+                <span class="vc-name">lux</span>
+                <span class="pct">7.4%</span>
+                <span class="cnt">(4)</span>
+              </div>
+              <div class="bar" style="width:7.4%;background:#e377c2;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#3</span>
+                <span class="dot" style="background:#7f7f7f"></span>
+                <span class="vc-name">8vc</span>
+                <span class="pct">3.8%</span>
+                <span class="cnt">(2)</span>
+              </div>
+              <div class="bar" style="width:3.8%;background:#7f7f7f;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#4</span>
+                <span class="dot" style="background:#2ca02c"></span>
+                <span class="vc-name">gc</span>
+                <span class="pct">2.5%</span>
+                <span class="cnt">(3)</span>
+              </div>
+              <div class="bar" style="width:2.5%;background:#2ca02c;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#5</span>
+                <span class="dot" style="background:#bcbd22"></span>
+                <span class="vc-name">kp</span>
+                <span class="pct">1.9%</span>
+                <span class="cnt">(1)</span>
+              </div>
+              <div class="bar" style="width:1.9%;background:#bcbd22;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#6</span>
+                <span class="dot" style="background:#1f77b4"></span>
+                <span class="vc-name">a16z</span>
+                <span class="pct">1.7%</span>
+                <span class="cnt">(3)</span>
+              </div>
+              <div class="bar" style="width:1.7%;background:#1f77b4;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#7</span>
+                <span class="dot" style="background:#ff7f0e"></span>
+                <span class="vc-name">lightspeed</span>
+                <span class="pct">1.6%</span>
+                <span class="cnt">(2)</span>
+              </div>
+              <div class="bar" style="width:1.6%;background:#ff7f0e;opacity:0.5"></div>
+            </td>
+            <td style="opacity:1">
+              <div class="cell-inner">
+                <span class="rank">#8</span>
+                <span class="dot" style="background:#d62728"></span>
+                <span class="vc-name">sequoia</span>
+                <span class="pct">0.8%</span>
+                <span class="cnt">(1)</span>
+              </div>
+              <div class="bar" style="width:0.8%;background:#d62728;opacity:0.5"></div>
+            </td>
+            <td style="opacity:0.25">
+              <div class="cell-inner">
+                <span class="rank">#9</span>
+                <span class="dot" style="background:#9467bd"></span>
+                <span class="vc-name">accel</span>
+                <span class="pct">0.0%</span>
+                <span class="cnt">(0)</span>
+              </div>
+              <div class="bar" style="width:0.0%;background:#9467bd;opacity:0.5"></div>
+            </td>
+        </tr>
+  </tbody>
+</table>
+</body>
+</html>
